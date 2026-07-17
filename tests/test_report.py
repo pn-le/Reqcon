@@ -49,6 +49,48 @@ def test_markdown_errors_flagged_at_top():
     assert md.splitlines()[2].startswith("> ⚠️ Errored boards: Err (timeout)")
 
 
+class TestReadmeOpenings:
+    BOARDS = [{"id": "b", "name": "Board"}, {"id": "empty", "name": "Empty Board"}]
+    STATE = {
+        "b": {"fetched_at": "t", "postings": [
+            posting("1", "Staff Engineer").to_dict(),
+            posting("2", "Software Intern", tags=["student-role"]).to_dict(),
+        ]},
+        "empty": {"fetched_at": "t", "postings": [posting("3", "Principal Scientist").to_dict()]},
+    }
+
+    def section(self):
+        from reqcon.report import build_openings_section
+        return build_openings_section(self.BOARDS, self.STATE, "2026-07-17 07:00 EDT")
+
+    def test_section_lists_tagged_only(self):
+        section = self.section()
+        assert "### Board — 1 of 2 postings" in section
+        assert "[Software Intern](https://x/2)" in section
+        assert "Staff Engineer" not in section
+        assert "_no intern/co-op postings right now_" in section
+
+    def test_appends_then_replaces_in_place(self, tmp_path):
+        from reqcon.report import update_readme_openings
+        readme = tmp_path / "README.md"
+        readme.write_text("# Reqcon\n\nIntro.\n")
+        assert update_readme_openings(readme, self.section()) is True
+        assert readme.read_text().startswith("# Reqcon\n\nIntro.")
+        assert "Software Intern" in readme.read_text()
+
+        # second update replaces the section instead of appending again
+        assert update_readme_openings(readme, self.section()) is False  # unchanged content
+        new = self.section().replace("Software Intern", "ML Intern")
+        assert update_readme_openings(readme, new) is True
+        text = readme.read_text()
+        assert "ML Intern" in text and "Software Intern" not in text
+        assert text.count("## Current openings") == 1
+
+    def test_missing_readme_is_noop(self, tmp_path):
+        from reqcon.report import update_readme_openings
+        assert update_readme_openings(tmp_path / "README.md", self.section()) is False
+
+
 def test_markdown_prune_keeps_fourteen(tmp_path):
     for day in range(1, 20):
         write_markdown_report(tmp_path, f"2026-06-{day:02d}", "x\n")

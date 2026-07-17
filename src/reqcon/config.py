@@ -7,7 +7,7 @@ from pathlib import Path
 
 import yaml
 
-DEFAULT_KEYWORDS = ["intern", "co-op", "coop", "undergraduate", "co op"]
+DEFAULT_KEYWORDS = ["intern", "internship", "co-op", "coop", "undergraduate", "co op"]
 
 _REQUIRED_BY_ADAPTER = {
     "greenhouse": ("board_token",),

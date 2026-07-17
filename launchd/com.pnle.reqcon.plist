@@ -6,8 +6,8 @@
     <string>com.pnle.reqcon</string>
     <key>ProgramArguments</key>
     <array>
-        <string>/Users/pnle/Desktop/Admin/Reqcon/.venv/bin/reqcon</string>
-        <string>scan</string>
+        <string>/bin/zsh</string>
+        <string>/Users/pnle/Desktop/Admin/Reqcon/scripts/daily.sh</string>
     </array>
     <key>WorkingDirectory</key>
     <string>/Users/pnle/Desktop/Admin/Reqcon</string>

@@ -92,6 +92,17 @@ def test_adapter_error_exits_1_and_preserves_state(env):
     assert data["summary"]["added"] == 0
 
 
+def test_scan_updates_readme_openings(env):
+    stub, config, out = env
+    readme = config.parent / "README.md"
+    readme.write_text("# Reqcon\n")
+    scan(config)
+    text = readme.read_text()
+    assert "## Current openings" in text
+    assert "[Software Intern](https://x/1)" in text
+    assert "Staff Engineer" not in text
+
+
 def test_config_error_exits_2(tmp_path):
     bad = tmp_path / "boards.yaml"
     bad.write_text("boards:\n  - id: x\n    name: X\n    adapter: nope\n")

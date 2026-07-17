@@ -89,3 +89,78 @@ Logs append to `reports/reqcon.log`. If your clone or venv lives elsewhere, edit
 .venv/bin/pytest              # fixture-based, no network
 .venv/bin/pytest -m network   # one live integration test
 ```
+
+<!-- reqcon:openings -->
+## Current openings
+
+_Student roles (intern / co-op) spotted on tracked boards. Auto-updated by `reqcon scan` on 2026-07-17 15:04 EDT._
+
+### Lila Sciences — 12 of 116 postings
+- [Co-Op, AI Security](https://job-boards.greenhouse.io/lilasciences/jobs/4280945009) — Cambridge, MA USA
+- [Co-Op, Automation](https://job-boards.greenhouse.io/lilasciences/jobs/4287004009) — Cambridge, MA USA
+- [Co-Op, Autonomous SEM](https://job-boards.greenhouse.io/lilasciences/jobs/4300246009) — Cambridge, MA USA
+- [Co-Op, Data Extraction](https://job-boards.greenhouse.io/lilasciences/jobs/4280811009) — Cambridge, MA USA
+- [Co-Op, Finance](https://job-boards.greenhouse.io/lilasciences/jobs/4278444009) — Cambridge, MA USA; San Francisco, CA USA
+- [Co-Op, LS AI, ML Scientist for Protein Engineering](https://job-boards.greenhouse.io/lilasciences/jobs/4289387009) — San Francisco, CA USA
+- [Co-op, Machine Learning for Digital Twins](https://job-boards.greenhouse.io/lilasciences/jobs/4280809009) — Cambridge, MA USA
+- [Co-op, Materials Science, Electrosynthesis](https://job-boards.greenhouse.io/lilasciences/jobs/4288399009) — Cambridge, MA USA
+- [Co-op, Mechanical Engineer](https://job-boards.greenhouse.io/lilasciences/jobs/4284223009) — Cambridge, MA USA
+- [Co-Op, ML Scientist for Biology](https://job-boards.greenhouse.io/lilasciences/jobs/4294212009) — San Francisco, CA USA
+- [Co-Op, Next Gen Engineering](https://job-boards.greenhouse.io/lilasciences/jobs/4289960009) — Cambridge, MA USA
+- [Co-Op, Software Product Management](https://job-boards.greenhouse.io/lilasciences/jobs/4286512009) — Cambridge, MA USA
+
+### BillionToOne — 0 of 101 postings
+- _no intern/co-op postings right now_
+
+### Anduril — 5 of 2165 postings
+- [2027 Electrical Engineer Intern](https://boards.greenhouse.io/andurilindustries/jobs/5148101007?gh_jid=5148101007) — Atlanta, Georgia, United States; Boston, Massachusetts, United States; Costa Mesa, California, United States; Irvine, California, United States; Reston, Virginia, United States; Seattle, Washington, United States
+- [2027 Manufacturing Engineer Intern](https://boards.greenhouse.io/andurilindustries/jobs/5153218007?gh_jid=5153218007) — Atlanta, Georgia, United States; Boston, Massachusetts, United States; Costa Mesa, California, United States; Irvine, California, United States; Seattle, Washington, United States
+- [2027 Mechanical Engineer Intern](https://boards.greenhouse.io/andurilindustries/jobs/5153187007?gh_jid=5153187007) — Atlanta, Georgia, United States; Boston, Massachusetts, United States; Costa Mesa, California, United States; Irvine, California, United States; Reston, Virginia, United States; Seattle, Washington, United States
+- [2027 Software Engineer Intern](https://boards.greenhouse.io/andurilindustries/jobs/5148079007?gh_jid=5148079007) — Atlanta, Georgia, United States; Boston, Massachusetts, United States; Costa Mesa, California, United States; Irvine, California, United States; Reston, Virginia, United States; Seattle, Washington, United States
+- [Naval Architect Co-op - Winter 2027](https://boards.greenhouse.io/andurilindustries/jobs/5170844007?gh_jid=5170844007) — Costa Mesa, California, United States
+
+### Formlabs — 12 of 170 postings
+- [AI Software Intern (Fall 2026)](https://careers.formlabs.com/job/8067641/apply/?gh_jid=8067641) — Somerville, MA
+- [Algorithms Software Intern (Fall 2026)](https://careers.formlabs.com/job/8060759/apply/?gh_jid=8060759) — Somerville, MA
+- [Event Logistics Intern (Fall 2026)](https://careers.formlabs.com/job/7985796/apply/?gh_jid=7985796) — Somerville, MA
+- [Global Sourcing Intern (Fall 2026)](https://careers.formlabs.com/job/7747228/apply/?gh_jid=7747228) — Somerville, MA
+- [Hardware R&D Engineering Intern (Fall 2026)](https://careers.formlabs.com/job/7890746/apply/?gh_jid=7890746) — Somerville, MA
+- [Hardware Systems Integration Intern (Fall 2026)](https://careers.formlabs.com/job/7927471/apply/?gh_jid=7927471) — Somerville, MA
+- [Manufacturing Test Software Intern (Fall 2026)](https://careers.formlabs.com/job/8021679/apply/?gh_jid=8021679) — Somerville, MA
+- [Print Production Intern (Fall 2026)](https://careers.formlabs.com/job/7997509/apply/?gh_jid=7997509) — Somerville, MA
+- [Program Management - Global Sourcing Intern (Fall 2026)](https://careers.formlabs.com/job/8001882/apply/?gh_jid=8001882) — Somerville, MA
+- [Software Engineer Intern (Full stack)](https://careers.formlabs.com/job/8059424/apply/?gh_jid=8059424) — Budapest, Hungary
+- [Supply Chain Operations Software Intern (Fall 2026)](https://careers.formlabs.com/job/8069676/apply/?gh_jid=8069676) — Somerville, MA
+- [Test Software - Manufacturing Intern (Fall 2026)](https://careers.formlabs.com/job/8065543/apply/?gh_jid=8065543) — Boston, MA
+
+### STR — 1 of 148 postings
+- [Sensors Fall/Spring Co-op – RF Systems Engineer ](https://job-boards.greenhouse.io/systemstechnologyresearch/jobs/4693331006) — Woburn, MA
+
+### Draper — 1 of 186 postings
+- [Laboratory Research Co-Op](https://draper.wd5.myworkdayjobs.com/en-US/Draper_Careers/job/Cambridge-MA/Microsystems-Integration-Intern_JR002599) — Cambridge, MA
+
+### MERL (Mitsubishi Electric Research Labs) — 18 of 18 postings
+- [CA0153: Internship - High-Fidelity Visualization and Simulation for Space Applications](https://www.merl.com/employment/internship-openings#CA0153)
+- [CA0283: Internship - Active SLAM for Aerial Robots](https://www.merl.com/employment/internship-openings#CA0283)
+- [CI0213: Internship - Efficient Foundation Models for Edge Intelligence](https://www.merl.com/employment/internship-openings#CI0213)
+- [CV0075: Internship - Multimodal Embodied AI](https://www.merl.com/employment/internship-openings#CV0075)
+- [CV0101: Internship - Multimodal Algorithmic Reasoning](https://www.merl.com/employment/internship-openings#CV0101)
+- [EA0234: Internship - Multi-modal sensor fusion for predictive maintenance](https://www.merl.com/employment/internship-openings#EA0234)
+- [EA0237: Internship - Condition Monitoring and Fault Diagnosis](https://www.merl.com/employment/internship-openings#EA0237)
+- [EA0241: Internship - Process Modeling for Factory Automation](https://www.merl.com/employment/internship-openings#EA0241)
+- [MS0098: Internship - Control and Estimation for Large-Scale Thermofluid Systems](https://www.merl.com/employment/internship-openings#MS0098)
+- [MS0254: Internship - Decentralized Data Assimilation for Large Scale Systems](https://www.merl.com/employment/internship-openings#MS0254)
+- [MS0259: Internship - Multi-Fidelity Dynamic Models for Energy Systems](https://www.merl.com/employment/internship-openings#MS0259)
+- [MS0260: Internship - Experimental Thermofluid Systems](https://www.merl.com/employment/internship-openings#MS0260)
+- [OR0298: Internship - Robotic Disassembly](https://www.merl.com/employment/internship-openings#OR0298)
+- [OR0299: Internship - Human-Robot Interaction](https://www.merl.com/employment/internship-openings#OR0299)
+- [SA0191: Internship - Human-Robot Interaction Based on Multimodal Scene Understanding](https://www.merl.com/employment/internship-openings#SA0191)
+- [SA0302: Internship - Audio Processing for Moving Sounds](https://www.merl.com/employment/internship-openings#SA0302)
+- [SA0307: Internship - Neural Spatial Audio Processing](https://www.merl.com/employment/internship-openings#SA0307)
+- [ST0238: Internship - Multi-Modal Sensing and Understanding](https://www.merl.com/employment/internship-openings#ST0238)
+
+### Ubicept — 2 of 3 postings
+- [Fall Co-op / Internship](https://www.ubicept.com/careers/fall-co-op-internship) — Boston, MA
+- [Spring Co-op / Internship](https://www.ubicept.com/careers/spring-co-op-internship) — Boston, MA
+
+<!-- /reqcon:openings -->

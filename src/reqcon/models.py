@@ -3,6 +3,7 @@
 from __future__ import annotations
 
 import hashlib
+import re
 from dataclasses import asdict, dataclass, field
 
 STUDENT_ROLE_TAG = "student-role"
@@ -78,9 +79,14 @@ def synthetic_posting_id(title: str, location: str | None) -> str:
 
 
 def tag_postings(postings: list[Posting], keywords: list[str]) -> None:
-    """Add the student-role tag to postings whose title matches any keyword."""
-    lowered = [k.casefold() for k in keywords]
+    """Add the student-role tag to postings whose title matches any keyword.
+
+    Whole-word match (optional plural) so 'intern' hits 'Intern'/'Interns'
+    but not 'International' or 'Internal'.
+    """
+    pattern = re.compile(
+        r"\b(?:" + "|".join(re.escape(k) for k in keywords) + r")s?\b", re.IGNORECASE
+    )
     for posting in postings:
-        title = posting.title.casefold()
-        if any(k in title for k in lowered) and STUDENT_ROLE_TAG not in posting.tags:
+        if pattern.search(posting.title) and STUDENT_ROLE_TAG not in posting.tags:
             posting.tags.append(STUDENT_ROLE_TAG)

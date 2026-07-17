@@ -24,7 +24,20 @@ class TestSyntheticPostingId:
 
 
 class TestTagging:
-    KEYWORDS = ["intern", "co-op", "coop", "undergraduate", "co op"]
+    KEYWORDS = ["intern", "internship", "co-op", "coop", "undergraduate", "co op"]
+
+    def test_whole_word_only(self):
+        postings = [
+            make_posting("Business Operations, International"),
+            make_posting("Internal Audit Manager"),
+            make_posting("2027 Software Engineer Interns"),
+            make_posting("CA0153: Internship - Space Applications"),
+        ]
+        tag_postings(postings, self.KEYWORDS)
+        assert postings[0].tags == []
+        assert postings[1].tags == []
+        assert postings[2].tags == ["student-role"]
+        assert postings[3].tags == ["student-role"]
 
     def test_case_insensitive_match(self):
         postings = [make_posting("Software INTERN"), make_posting("Fall Co-Op"), make_posting("Chief Engineer")]

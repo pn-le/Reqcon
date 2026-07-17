@@ -1,7 +1,7 @@
 defaults:
   output_dir: ~/Desktop/Admin/reqcon      # reports land here (PRD §8)
   state_dir: ./data
-  keywords_tag: [intern, co-op, coop, undergraduate, "co op"]
+  keywords_tag: [intern, internship, co-op, coop, undergraduate, "co op"]
 
 boards:
   - id: lila-sciences

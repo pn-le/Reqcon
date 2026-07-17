@@ -39,7 +39,7 @@ def _select_boards(config: Config, board_id: str | None) -> list[dict]:
     return config.enabled_boards()
 
 
-def cmd_scan(config: Config, board_id: str | None) -> int:
+def cmd_scan(config: Config, board_id: str | None, readme_path: Path | None = None) -> int:
     run_at = _now()
     current_state = state.load_state(config.state_dir)
     results: list[BoardResult] = []
@@ -80,6 +80,13 @@ def cmd_scan(config: Config, board_id: str | None) -> int:
     md_path = report.write_markdown_report(
         config.output_dir, run_date, report.build_markdown(run_at.isoformat(), results)
     )
+
+    if readme_path is not None:
+        section = report.build_openings_section(
+            config.boards, current_state, run_at.strftime("%Y-%m-%d %H:%M %Z")
+        )
+        if report.update_readme_openings(readme_path, section):
+            print(f"readme: current openings updated in {readme_path}")
 
     s = data["summary"]
     print(
@@ -148,7 +155,8 @@ def main(argv: list[str] | None = None) -> int:
 
     try:
         if args.command == "scan":
-            return cmd_scan(config, args.board)
+            readme = args.config.resolve().parent / "README.md"
+            return cmd_scan(config, args.board, readme)
         if args.command == "list":
             return cmd_list(config)
         return cmd_init(config)

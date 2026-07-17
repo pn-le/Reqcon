@@ -109,6 +109,55 @@ def build_markdown(run_at: str, results: list[BoardResult]) -> str:
     return "\n".join(lines).rstrip() + "\n"
 
 
+OPENINGS_START = "<!-- reqcon:openings -->"
+OPENINGS_END = "<!-- /reqcon:openings -->"
+
+
+def build_openings_section(boards: list[dict], state: dict, updated_at: str) -> str:
+    """Render the auto-updated 'Current openings' README section from board state."""
+    lines = [
+        OPENINGS_START,
+        "## Current openings",
+        "",
+        f"_Student roles (intern / co-op) spotted on tracked boards. "
+        f"Auto-updated by `reqcon scan` on {updated_at}._",
+        "",
+    ]
+    for board in boards:
+        snap = state.get(board["id"])
+        if not snap:
+            continue
+        postings = [Posting.from_dict(d) for d in snap.get("postings", [])]
+        tagged = [p for p in postings if STUDENT_ROLE_TAG in p.tags]
+        lines.append(f"### {board['name']} — {len(tagged)} of {len(postings)} postings")
+        if tagged:
+            for p in sorted(tagged, key=lambda p: p.title.casefold()):
+                location = f" — {p.location}" if p.location else ""
+                lines.append(f"- [{p.title}]({p.url}){location}")
+        else:
+            lines.append("- _no intern/co-op postings right now_")
+        lines.append("")
+    lines.append(OPENINGS_END)
+    return "\n".join(lines)
+
+
+def update_readme_openings(readme_path: Path, section: str) -> bool:
+    """Replace (or append) the marker-delimited openings section. Returns True if changed."""
+    if not readme_path.exists():
+        return False
+    text = readme_path.read_text()
+    if OPENINGS_START in text and OPENINGS_END in text:
+        head, rest = text.split(OPENINGS_START, 1)
+        _, tail = rest.split(OPENINGS_END, 1)
+        new_text = head + section + tail
+    else:
+        new_text = text.rstrip() + "\n\n" + section + "\n"
+    if new_text == text:
+        return False
+    readme_path.write_text(new_text)
+    return True
+
+
 def write_markdown_report(output_dir: Path, run_date: str, content: str) -> Path:
     output_dir.mkdir(parents=True, exist_ok=True)
     path = output_dir / f"reqcon-{run_date}.md"
