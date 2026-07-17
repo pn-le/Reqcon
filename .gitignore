@@ -1,0 +1,10 @@
+__pycache__/
+*.egg-info/
+.venv/
+.pytest_cache/
+data/
+reports/
+# on macOS (case-insensitive fs) the default output_dir ~/Desktop/Admin/reqcon
+# resolves to this repo directory, so scan outputs land in the repo root
+/changes-latest.json
+/reqcon-????-??-??.md

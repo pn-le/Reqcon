@@ -1,0 +1,50 @@
+defaults:
+  output_dir: ~/Desktop/Admin/reqcon      # reports land here (PRD §8)
+  state_dir: ./data
+  keywords_tag: [intern, co-op, coop, undergraduate, "co op"]
+
+boards:
+  - id: lila-sciences
+    name: Lila Sciences
+    adapter: greenhouse
+    board_token: lilasciences
+  - id: billiontoone
+    name: BillionToOne
+    adapter: greenhouse
+    board_token: billiontoone
+  - id: anduril
+    name: Anduril
+    adapter: greenhouse
+    board_token: andurilindustries
+  - id: formlabs
+    name: Formlabs
+    adapter: greenhouse
+    board_token: formlabs
+  # STR turned out to be Greenhouse-hosted (str.us embeds job-boards.greenhouse.io),
+  # so it uses the API adapter instead of HTML scraping (PRD §2: APIs before scraping).
+  - id: str
+    name: STR
+    adapter: greenhouse
+    board_token: systemstechnologyresearch
+  - id: draper
+    name: Draper
+    adapter: workday
+    tenant: draper
+    wd_host: draper.wd5.myworkdayjobs.com
+    site: Draper_Careers
+  - id: merl
+    name: MERL (Mitsubishi Electric Research Labs)
+    adapter: html
+    # merl.com/internship/openings redirects here; postings are h2-anchored req IDs
+    url: https://www.merl.com/employment/internship-openings
+    item_selector: "li.publication-source"
+    title_selector: "header.preview-header h2 a"
+    url_selector: "header.preview-header h2 a"
+  - id: ubicept
+    name: Ubicept
+    adapter: html
+    url: https://www.ubicept.com/careers
+    item_selector: "#open-positions .w-dyn-item"
+    title_selector: "h3"
+    url_selector: "a"
+    location_selector: ".top-career-tile > div"
