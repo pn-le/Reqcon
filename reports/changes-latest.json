@@ -1,5 +1,5 @@
 {
-  "run_at": "2026-08-03T15:27:48.186911-04:00",
+  "run_at": "2026-08-03T15:29:39.765023-04:00",
   "boards": [
     {
       "board_id": "lila-sciences",
@@ -36,18 +36,7 @@
     {
       "board_id": "str",
       "status": "ok",
-      "added": [
-        {
-          "board_id": "str",
-          "posting_id": "4702018006",
-          "title": "Lead Product Engineer",
-          "url": "https://job-boards.greenhouse.io/systemstechnologyresearch/jobs/4702018006",
-          "location": "Remote ",
-          "raw_updated_at": "2026-08-03T15:24:07-04:00",
-          "tags": [],
-          "first_seen": "2026-08-03"
-        }
-      ],
+      "added": [],
       "removed": [],
       "changed": [],
       "total_postings": 161
@@ -78,7 +67,7 @@
     }
   ],
   "summary": {
-    "added": 1,
+    "added": 0,
     "removed": 0,
     "changed": 0,
     "boards_ok": 8,
