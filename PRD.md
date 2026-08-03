@@ -2,7 +2,7 @@
 
 **Repo:** https://github.com/pn-le/Reqcon (MIT, currently empty scaffold)
 **Owner:** Phillips Le
-**Version:** 1.0 — July 17, 2026
+**Version:** 1.1 — July 17, 2026 (v1.1: GitHub Actions is the primary runner; self-updating README added)
 **Audience:** This PRD is written for Claude Code to implement. Requirements use MUST / SHOULD / MAY. Build milestone by milestone; each has acceptance criteria.
 
 ---
@@ -25,7 +25,8 @@ Design principle: **APIs before scraping, scraping only as a fallback.** Most tr
 2. Zero false "new" postings across consecutive runs when nothing changed (stable posting identity).
 3. Machine-readable output (JSON) for the AI scan + human-readable output (Markdown) for Phillips.
 4. Adding a new board = editing one YAML entry, no code changes (for supported adapter types).
-5. Run unattended on macOS via launchd, complete in under 2 minutes for 10 boards.
+5. Run unattended, daily, with no machine of Phillips's involved: a scheduled GitHub Actions workflow in this repo runs the scan, commits updated state, and pushes. Complete in under 2 minutes for 10 boards.
+6. The repo README is a live dashboard: each run rewrites a marked section of `README.md` with the newest listings, so visiting the repo (or its GitHub page on a phone) shows current postings without running anything.
 
 **Non-Goals (v1)**
 
@@ -46,9 +47,10 @@ Design principle: **APIs before scraping, scraping only as a fallback.** Most tr
 ```
 Reqcon/
 ├── PRD.md                  # this file
-├── README.md               # usage docs (write at Milestone 4)
+├── README.md               # intro/setup docs + auto-updated listings section (§8.3)
 ├── pyproject.toml
 ├── boards.yaml             # tracked boards (checked in; see §6)
+├── .github/workflows/scan.yml   # daily scheduled runner (§9)
 ├── src/reqcon/
 │   ├── __init__.py
 │   ├── cli.py              # argparse CLI: scan, list, init
@@ -56,17 +58,19 @@ Reqcon/
 │   ├── state.py            # snapshot load/save, atomic writes
 │   ├── diff.py             # diff engine
 │   ├── report.py           # markdown + json report writers
+│   ├── readme.py           # README marker-section updater (§8.3)
 │   └── adapters/
 │       ├── __init__.py     # adapter registry
 │       ├── base.py         # Adapter protocol
 │       ├── greenhouse.py
 │       ├── workday.py
 │       └── html_scrape.py  # Scrapling fallback
-├── data/                   # gitignored: state snapshots
-├── reports/                # gitignored: daily outputs
-├── launchd/com.pnle.reqcon.plist
+├── data/                   # COMMITTED: state snapshots (runners are ephemeral, state must live in git)
+├── reports/                # COMMITTED: changes-latest.json + last 14 daily digests
 └── tests/
 ```
+
+> Note: `data/` and `reports/` are checked in, not gitignored — GitHub Actions runners are ephemeral, so the previous snapshot must be read from, and written back to, the repo itself. Every scheduled run that changes anything produces one commit.
 
 ## 6. Configuration — `boards.yaml`
 
@@ -152,7 +156,8 @@ Tag (not filter) each posting: if title matches any `keywords_tag` term (case-in
 
 ### 7.6 CLI
 
-- `reqcon scan` — run all enabled boards, write reports, print a one-line summary per board. Exit 0 on success (even with zero changes), exit 1 if any board errored, exit 2 on config errors.
+- `reqcon scan` — run all enabled boards, write reports, print a one-line summary per board. Exit 0 on success (even with zero changes), exit 1 if any board errored, exit 2 on config errors. In CI, adapter errors on individual boards MUST NOT fail the job (the commit step still runs with the boards that succeeded) — exit 1 is reserved for reporting, and the workflow treats it as success via `continue-on-error` on that step or by having `scan` return 0 when `--ci` is passed with partial failures.
+- `reqcon scan --update-readme` — additionally rewrite the README marker section (§8.3).
 - `reqcon scan --board lila-sciences` — single board.
 - `reqcon list` — table of configured boards, adapter, enabled, last fetch time, posting count.
 - `reqcon init` — create data/report dirs, validate boards.yaml, dry-run each enabled board (fetch, report count, don't write state).
@@ -174,11 +179,69 @@ Written to `output_dir` every run:
 ```
 2. **`reqcon-YYYY-MM-DD.md`** — human digest: summary line, then per-board sections listing added (with links), removed, changed; `student-role`-tagged items bolded and listed first; errored boards flagged at top. If nothing changed anywhere: a single line "No changes across N boards." Keep last 14 days, prune older.
 
-The daily AI internship scan will be updated (separately, not part of this repo) to read `changes-latest.json` instead of re-fetching these boards.
+The daily AI internship scan will be updated (separately, not part of this repo) to read `changes-latest.json` from the repo's raw URL (`https://raw.githubusercontent.com/pn-le/Reqcon/main/reports/changes-latest.json`) instead of re-fetching these boards.
 
-## 9. Scheduling
+### 8.3 Self-updating README
 
-Provide `launchd/com.pnle.reqcon.plist` running `reqcon scan` weekdays at 07:00 America/New_York, plus README instructions (`launchctl load`). launchd, not cron, so missed runs fire on wake. Log stdout/stderr to `reports/reqcon.log` (append, no rotation needed in v1).
+`README.md` has a hand-written top (what Reqcon is, setup, how to add a board) and an auto-generated section delimited by HTML comment markers:
+
+```
+<!-- REQCON:START -->
+... generated content, everything between markers is owned by the tool ...
+<!-- REQCON:END -->
+```
+
+`readme.py` MUST replace only the content between markers, never touch anything outside them, and fail loudly if the markers are missing. Generated content:
+
+1. A status line: `Last scan: 2026-07-17 07:04 ET · 8 boards · 2 new · 1 removed` plus a per-board ✅/⚠️ status row.
+2. **New this week** — postings first seen in the last 7 days, newest first, as a Markdown table: Company | Role (linked) | Location | First seen. `student-role`-tagged rows listed first with a 🎓 prefix. Cap at 30 rows; if over cap, add "…and N more" linking to the latest daily digest.
+3. **All tracked postings** — inside a collapsed `<details>` block, the full current posting list per board (title linked, location). Cap 400 rows total.
+
+"First seen" requires persisting a `first_seen` date per posting ID in state — add it at snapshot-write time; baseline postings get the baseline run's date. Rendering MUST be deterministic (stable sort: first_seen desc, then board_id, then title) so re-running with no changes produces a byte-identical README and therefore no commit.
+
+## 9. Scheduling — GitHub Actions (primary runner)
+
+`.github/workflows/scan.yml`:
+
+```yaml
+name: daily-scan
+on:
+  schedule:
+    - cron: "0 11 * * 1-5"    # ~7:00 AM ET during EDT (11:00 UTC); 6:00 AM ET in winter — acceptable
+  workflow_dispatch: {}        # manual "Run workflow" button for testing
+permissions:
+  contents: write
+concurrency:
+  group: reqcon-scan
+  cancel-in-progress: false
+jobs:
+  scan:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with: { python-version: "3.12" }
+      - run: pip install -e .[scrape]
+      - run: reqcon scan --update-readme
+      - name: Commit if changed
+        run: |
+          git config user.name "reqcon-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add data reports README.md
+          git diff --cached --quiet || git commit -m "scan: $(date -u +%F) [skip ci]" && git push
+```
+
+Requirements & caveats the implementation MUST respect:
+
+- The built-in `GITHUB_TOKEN` with `permissions: contents: write` is sufficient — no PAT, no secrets to manage.
+- **Commit only when something changed.** Deterministic outputs (§8.3) + the `git diff --cached --quiet` guard mean a no-change day produces no commit and the history stays meaningful.
+- **Actions cron is best-effort**: runs can start minutes to ~an hour late, occasionally be skipped at busy times. Fine for this use case; do not build anything that assumes exact timing. The downstream AI scan should read whatever `changes-latest.json` is current, whenever it runs.
+- **60-day auto-disable**: GitHub disables scheduled workflows in repos with no activity for 60 days. Reqcon's own commits count as activity, so this only bites after 60 straight no-change days across all boards — unlikely, but add it to the README troubleshooting section ("if the badge goes stale, re-enable the workflow in the Actions tab").
+- Timestamps in reports/README MUST be computed in `America/New_York` (zoneinfo), since runners are UTC.
+- Local runs remain fully supported (`reqcon scan` works anywhere the repo is cloned); a launchd plist is no longer shipped in v1. If HTML boards prove unreliable from CI (see §12), a local run can fill in — state merges cleanly because it's committed to the repo.
+
+Log to stdout/stderr only (visible in the Actions run log); no log file needed in v1. SHOULD add a README badge: `![daily-scan](https://github.com/pn-le/Reqcon/actions/workflows/scan.yml/badge.svg)`.
 
 ## 10. Testing
 
@@ -194,14 +257,16 @@ Provide `launchd/com.pnle.reqcon.plist` running `reqcon scan` weekdays at 07:00 
 
 **M3 — Scrapling HTML adapter.** Resolve selectors for MERL, STR, Ubicept; disable any board that can't be made reliable, with a comment. *Accept: each enabled HTML board returns stable posting IDs across two consecutive fetches.*
 
-**M4 — Ship.** launchd plist, README (setup, adding a board, output contract), prune logic, `reqcon list`. *Accept: full `reqcon scan` completes < 2 min; second run reports "No changes"; README lets a stranger set it up.*
+**M4 — Ship: Actions + self-updating README.** `scan.yml` workflow, `readme.py` marker updater with `first_seen` tracking, badge, prune logic, `reqcon list`, README hand-written sections. *Accept: `workflow_dispatch` run on GitHub succeeds end-to-end and pushes a commit updating README/data/reports; a second dispatched run with no board changes pushes nothing; README renders correctly on the repo page with student-role rows first.*
 
 ## 12. Risks & mitigations
 
 - **Workday endpoint is unofficial** and may change shape → defensive parsing, `AdapterError` on drift, board keeps last good snapshot.
 - **HTML boards redesign** → Scrapling's adaptive re-location helps, but if extraction yields 0 postings where previous snapshot had >0, treat as `AdapterError` (suspicious drop), not as "all removed". This rule applies to ALL adapters: a drop to zero from a nonzero snapshot requires two consecutive zero runs before postings are marked removed.
 - **ToS/politeness** → API-first design, 1 fetch/board/day, no aggregators, custom UA. This is personal-use monitoring at trivial volume.
+- **Datacenter IP blocking**: GitHub Actions runners use cloud IPs that anti-bot systems treat with suspicion. The Greenhouse/Workday JSON endpoints are generally fine from CI; the Scrapling HTML boards (MERL, STR, Ubicept) are the risk. If an HTML board consistently fails from CI, set `enabled_ci: false` on it (adapter skips it when `--ci` is passed, board keeps last snapshot with status `skipped-ci`) rather than fighting the block — it can be covered by occasional local runs.
+- **Public repo = public data**: state and reports are committed, so tracked boards and postings are visible to anyone. That's fine (it's all public job data and doubles as a portfolio piece) — but never commit anything personal: no application status, no notes, no resume material in this repo.
 
 ## 13. Future (explicitly not v1)
 
-Push notification on `student-role` additions; more adapters (Lever, Ashby, SmartRecruiters); `reqcon add <url>` with auto-detection of the hosting platform; GitHub Actions runner instead of launchd.
+Push notification on `student-role` additions (GitHub already gives a free version: Watch → Custom → Releases/commits, or an RSS feed of commits); more adapters (Lever, Ashby, SmartRecruiters); `reqcon add <url>` with auto-detection of the hosting platform; GitHub Pages HTML dashboard rendered from `changes-latest.json`.

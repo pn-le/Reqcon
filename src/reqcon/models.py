@@ -20,6 +20,7 @@ class Posting:
     location: str | None = None
     raw_updated_at: str | None = None
     tags: list[str] = field(default_factory=list)
+    first_seen: str | None = None  # YYYY-MM-DD, assigned at snapshot-write time (§8.3)
 
     def to_dict(self) -> dict:
         return asdict(self)
@@ -34,6 +35,7 @@ class Posting:
             location=d.get("location"),
             raw_updated_at=d.get("raw_updated_at"),
             tags=list(d.get("tags") or []),
+            first_seen=d.get("first_seen"),
         )
 
 

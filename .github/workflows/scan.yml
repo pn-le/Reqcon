@@ -1,0 +1,29 @@
+name: daily-scan
+on:
+  schedule:
+    - cron: "0 11 * * 1-5"    # ~7:00 AM ET during EDT (11:00 UTC); 6:00 AM ET in winter — acceptable
+  workflow_dispatch: {}        # manual "Run workflow" button for testing
+permissions:
+  contents: write
+concurrency:
+  group: reqcon-scan
+  cancel-in-progress: false
+jobs:
+  scan:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with: { python-version: "3.12" }
+      - run: pip install -e ".[scrape]"
+      - run: reqcon scan --update-readme --ci
+      - name: Commit if changed
+        run: |
+          git config user.name "reqcon-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add data reports README.md
+          if ! git diff --cached --quiet; then
+            git commit -m "scan: $(date -u +%F) [skip ci]"
+            git push
+          fi

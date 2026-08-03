@@ -20,12 +20,17 @@ def test_json_report_structure_and_summary():
                   changed=[ChangedPosting(posting("3", "Old"), posting("3", "New"))]),
         BoardResult(board_id="e", name="Err", status="error", error="timeout"),
     ]
+    results.append(BoardResult(board_id="s", name="Skipped", status="skipped-ci"))
     data = build_report_data(RUN_AT, results)
     assert data["run_at"] == RUN_AT
-    assert data["summary"] == {"added": 1, "removed": 1, "changed": 1, "boards_ok": 1, "boards_error": 1}
+    assert data["summary"] == {
+        "added": 1, "removed": 1, "changed": 1,
+        "boards_ok": 1, "boards_error": 1, "boards_skipped": 1,
+    }
     assert data["boards"][0]["added"][0]["posting_id"] == "1"
     assert data["boards"][0]["total_postings"] == 10
     assert data["boards"][1] == {"board_id": "e", "status": "error", "error": "timeout"}
+    assert data["boards"][2] == {"board_id": "s", "status": "skipped-ci"}
 
 
 def test_markdown_no_changes_single_line():
@@ -49,46 +54,18 @@ def test_markdown_errors_flagged_at_top():
     assert md.splitlines()[2].startswith("> ⚠️ Errored boards: Err (timeout)")
 
 
-class TestReadmeOpenings:
-    BOARDS = [{"id": "b", "name": "Board"}, {"id": "empty", "name": "Empty Board"}]
-    STATE = {
-        "b": {"fetched_at": "t", "postings": [
-            posting("1", "Staff Engineer").to_dict(),
-            posting("2", "Software Intern", tags=["student-role"]).to_dict(),
-        ]},
-        "empty": {"fetched_at": "t", "postings": [posting("3", "Principal Scientist").to_dict()]},
-    }
-
-    def section(self):
-        from reqcon.report import build_openings_section
-        return build_openings_section(self.BOARDS, self.STATE, "2026-07-17 07:00 EDT")
-
-    def test_section_lists_tagged_only(self):
-        section = self.section()
-        assert "### Board — 1 of 2 postings" in section
-        assert "[Software Intern](https://x/2)" in section
-        assert "Staff Engineer" not in section
-        assert "_no intern/co-op postings right now_" in section
-
-    def test_appends_then_replaces_in_place(self, tmp_path):
-        from reqcon.report import update_readme_openings
-        readme = tmp_path / "README.md"
-        readme.write_text("# Reqcon\n\nIntro.\n")
-        assert update_readme_openings(readme, self.section()) is True
-        assert readme.read_text().startswith("# Reqcon\n\nIntro.")
-        assert "Software Intern" in readme.read_text()
-
-        # second update replaces the section instead of appending again
-        assert update_readme_openings(readme, self.section()) is False  # unchanged content
-        new = self.section().replace("Software Intern", "ML Intern")
-        assert update_readme_openings(readme, new) is True
-        text = readme.read_text()
-        assert "ML Intern" in text and "Software Intern" not in text
-        assert text.count("## Current openings") == 1
-
-    def test_missing_readme_is_noop(self, tmp_path):
-        from reqcon.report import update_readme_openings
-        assert update_readme_openings(tmp_path / "README.md", self.section()) is False
+class TestJsonWriteSkip:
+    def test_rewrite_skipped_when_only_run_at_differs(self, tmp_path):
+        from reqcon.report import write_json_report
+        data1 = build_report_data(RUN_AT, [ok_result()])
+        _, wrote = write_json_report(tmp_path, data1)
+        assert wrote is True
+        data2 = build_report_data("2026-07-18T07:00:00-04:00", [ok_result()])
+        _, wrote = write_json_report(tmp_path, data2)
+        assert wrote is False
+        data3 = build_report_data(RUN_AT, [ok_result(added=[posting("9")])])
+        _, wrote = write_json_report(tmp_path, data3)
+        assert wrote is True
 
 
 def test_markdown_prune_keeps_fourteen(tmp_path):

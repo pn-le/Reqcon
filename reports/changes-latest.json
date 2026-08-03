@@ -1,0 +1,77 @@
+{
+  "run_at": "2026-08-03T15:19:41.319638-04:00",
+  "boards": [
+    {
+      "board_id": "lila-sciences",
+      "status": "ok",
+      "added": [],
+      "removed": [],
+      "changed": [],
+      "total_postings": 123
+    },
+    {
+      "board_id": "billiontoone",
+      "status": "ok",
+      "added": [],
+      "removed": [],
+      "changed": [],
+      "total_postings": 98
+    },
+    {
+      "board_id": "anduril",
+      "status": "ok",
+      "added": [],
+      "removed": [],
+      "changed": [],
+      "total_postings": 2159
+    },
+    {
+      "board_id": "formlabs",
+      "status": "ok",
+      "added": [],
+      "removed": [],
+      "changed": [],
+      "total_postings": 191
+    },
+    {
+      "board_id": "str",
+      "status": "ok",
+      "added": [],
+      "removed": [],
+      "changed": [],
+      "total_postings": 160
+    },
+    {
+      "board_id": "draper",
+      "status": "ok",
+      "added": [],
+      "removed": [],
+      "changed": [],
+      "total_postings": 195
+    },
+    {
+      "board_id": "merl",
+      "status": "ok",
+      "added": [],
+      "removed": [],
+      "changed": [],
+      "total_postings": 18
+    },
+    {
+      "board_id": "ubicept",
+      "status": "ok",
+      "added": [],
+      "removed": [],
+      "changed": [],
+      "total_postings": 3
+    }
+  ],
+  "summary": {
+    "added": 0,
+    "removed": 0,
+    "changed": 0,
+    "boards_ok": 8,
+    "boards_error": 0,
+    "boards_skipped": 0
+  }
+}

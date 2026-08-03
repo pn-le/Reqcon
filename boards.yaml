@@ -1,5 +1,5 @@
 defaults:
-  output_dir: ~/Desktop/Admin/reqcon      # reports land here (PRD §8)
+  output_dir: ./reports     # committed; AI scan reads the raw GitHub URL (PRD §8)
   state_dir: ./data
   keywords_tag: [intern, internship, co-op, coop, undergraduate, "co op"]
 

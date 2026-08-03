@@ -80,3 +80,21 @@ class TestEvaluateBoard:
         out = evaluate_board(snapshot([]), [], None, NOW)
         assert out.status == "ok"
         assert not out.diff.has_changes
+
+
+class TestFirstSeen:
+    def test_baseline_postings_get_run_date(self):
+        out = evaluate_board(None, [posting("1")], None, NOW)
+        assert out.new_snapshot["postings"][0]["first_seen"] == "2026-07-17"
+
+    def test_existing_postings_keep_first_seen_new_ones_get_run_date(self):
+        prev = snapshot([posting("1")])
+        prev["postings"][0]["first_seen"] = "2026-07-01"
+        out = evaluate_board(prev, [posting("1"), posting("2")], None, NOW)
+        by_id = {p["posting_id"]: p for p in out.new_snapshot["postings"]}
+        assert by_id["1"]["first_seen"] == "2026-07-01"
+        assert by_id["2"]["first_seen"] == "2026-07-17"
+
+    def test_snapshot_sorted_by_posting_id(self):
+        out = evaluate_board(None, [posting("b"), posting("a")], None, NOW)
+        assert [p["posting_id"] for p in out.new_snapshot["postings"]] == ["a", "b"]
