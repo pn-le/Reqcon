@@ -1,6 +1,65 @@
 {
-  "run_at": "2026-08-03T15:27:19.698525-04:00",
+  "run_at": "2026-08-03T15:27:48.186911-04:00",
   "boards": [
+    {
+      "board_id": "lila-sciences",
+      "status": "ok",
+      "added": [],
+      "removed": [],
+      "changed": [],
+      "total_postings": 123
+    },
+    {
+      "board_id": "billiontoone",
+      "status": "ok",
+      "added": [],
+      "removed": [],
+      "changed": [],
+      "total_postings": 98
+    },
+    {
+      "board_id": "anduril",
+      "status": "ok",
+      "added": [],
+      "removed": [],
+      "changed": [],
+      "total_postings": 2159
+    },
+    {
+      "board_id": "formlabs",
+      "status": "ok",
+      "added": [],
+      "removed": [],
+      "changed": [],
+      "total_postings": 191
+    },
+    {
+      "board_id": "str",
+      "status": "ok",
+      "added": [
+        {
+          "board_id": "str",
+          "posting_id": "4702018006",
+          "title": "Lead Product Engineer",
+          "url": "https://job-boards.greenhouse.io/systemstechnologyresearch/jobs/4702018006",
+          "location": "Remote ",
+          "raw_updated_at": "2026-08-03T15:24:07-04:00",
+          "tags": [],
+          "first_seen": "2026-08-03"
+        }
+      ],
+      "removed": [],
+      "changed": [],
+      "total_postings": 161
+    },
+    {
+      "board_id": "draper",
+      "status": "ok",
+      "added": [],
+      "removed": [],
+      "changed": [],
+      "total_postings": 195
+    },
     {
       "board_id": "merl",
       "status": "ok",
@@ -8,13 +67,21 @@
       "removed": [],
       "changed": [],
       "total_postings": 18
+    },
+    {
+      "board_id": "ubicept",
+      "status": "ok",
+      "added": [],
+      "removed": [],
+      "changed": [],
+      "total_postings": 3
     }
   ],
   "summary": {
-    "added": 0,
+    "added": 1,
     "removed": 0,
     "changed": 0,
-    "boards_ok": 1,
+    "boards_ok": 8,
     "boards_error": 0,
     "boards_skipped": 0
   }

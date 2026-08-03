@@ -86,7 +86,7 @@ Tip: before writing selectors, check whether the site embeds Greenhouse/Workday 
 ---
 
 <!-- REQCON:START -->
-**Last scan:** 2026-08-03 15:18 EDT · 8 boards · 1 new · 0 removed
+**Last scan:** 2026-08-03 15:27 EDT · 8 boards · 1 new · 0 removed
 
 ✅ Lila Sciences · ✅ BillionToOne · ✅ Anduril · ✅ Formlabs · ✅ STR · ✅ Draper · ✅ MERL (Mitsubishi Electric Research Labs) · ✅ Ubicept
 
@@ -125,10 +125,10 @@ Tip: before writing selectors, check whether the site embeds Greenhouse/Workday 
 | Anduril | [Chief Engineer, Autonomous Flight](https://boards.greenhouse.io/andurilindustries/jobs/5158222007?gh_jid=5158222007) | Costa Mesa, California, United States; Seattle, Washington, United States; Washington, District of Columbia, United States | 2026-08-03 |
 | Anduril | [Chief Engineer, Maritime Integrated Systems](https://boards.greenhouse.io/andurilindustries/jobs/5199934007?gh_jid=5199934007) | Boston, Massachusetts, United States | 2026-08-03 |
 
-…and 574 more — see the [latest digest](reports/reqcon-2026-08-03.md).
+…and 575 more — see the [latest digest](reports/reqcon-2026-08-03.md).
 
 <details>
-<summary>All tracked postings (2947)</summary>
+<summary>All tracked postings (2948)</summary>
 
 **Lila Sciences** (123)
 - 🎓 [Co-Op, Autonomous SEM](https://job-boards.greenhouse.io/lilasciences/jobs/4300246009) — Cambridge, MA USA
@@ -536,7 +536,7 @@ Tip: before writing selectors, check whether the site embeds Greenhouse/Workday 
 - [Director of Maneuver Dominance & Maritime, International Trade Compliance](https://boards.greenhouse.io/andurilindustries/jobs/5082586007?gh_jid=5082586007) — Washington, District of Columbia, United States
 - [Director of Maneuver Dominance & Maritime, International Trade Compliance](https://boards.greenhouse.io/andurilindustries/jobs/5100621007?gh_jid=5100621007) — Costa Mesa, California, United States
 
-_…truncated at 400 rows (2947 total)._
+_…truncated at 400 rows (2948 total)._
 
 </details>
 <!-- REQCON:END -->
