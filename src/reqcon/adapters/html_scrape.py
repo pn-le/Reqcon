@@ -23,19 +23,26 @@ def fetch(board: dict, *, client: httpx.Client | None = None) -> list[Posting]:
     # client is unused (scrapling does its own I/O) but kept for adapter signature parity
     if not board.get("item_selector"):
         raise AdapterError(f"board '{board['id']}': selector not configured (item_selector)")
+    # Import only the fetcher actually needed: scrapling resolves names lazily,
+    # and touching StealthyFetcher drags in headless-browser deps that aren't
+    # installed in plain environments (e.g. CI runners).
     try:
-        from scrapling.fetchers import Fetcher, StealthyFetcher
-    except ImportError:
+        if board.get("stealth"):
+            from scrapling.fetchers import StealthyFetcher as fetcher_cls
+        else:
+            from scrapling.fetchers import Fetcher as fetcher_cls
+    except Exception as exc:
         raise AdapterError(
-            "scrapling is not installed — install the scrape extra: pip install 'reqcon[scrape]'"
+            "scrapling import failed — install the scrape extra "
+            f"(pip install 'reqcon[scrape]'): {exc}"
         )
 
     url = board["url"]
     try:
         if board.get("stealth"):
-            page = StealthyFetcher.fetch(url, headless=True)
+            page = fetcher_cls.fetch(url, headless=True)
         else:
-            page = Fetcher.get(url, timeout=10, follow_redirects=True)
+            page = fetcher_cls.get(url, timeout=10, follow_redirects=True)
     except Exception as exc:
         raise AdapterError(f"fetch of {url} failed: {exc}")
     if getattr(page, "status", 200) != 200:
