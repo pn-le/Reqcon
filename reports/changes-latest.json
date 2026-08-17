@@ -1,5 +1,5 @@
 {
-  "run_at": "2026-08-16T07:11:26.789477-04:00",
+  "run_at": "2026-08-17T07:17:10.216702-04:00",
   "boards": [
     {
       "board_id": "lila-sciences",
@@ -23,18 +23,322 @@
       "added": [
         {
           "board_id": "anduril",
-          "posting_id": "5210350007",
-          "title": "Product Operations Technical Specialist, Maritime",
-          "url": "https://boards.greenhouse.io/andurilindustries/jobs/5210350007?gh_jid=5210350007",
-          "location": "Quincy, Massachusetts, United States",
-          "raw_updated_at": "2026-08-15T15:06:52-04:00",
+          "posting_id": "5203764007",
+          "title": "Director of Test ",
+          "url": "https://boards.greenhouse.io/andurilindustries/jobs/5203764007?gh_jid=5203764007",
+          "location": "Costa Mesa, California, United States; Washington, District of Columbia, United States",
+          "raw_updated_at": "2026-08-16T22:02:53-04:00",
           "tags": [],
-          "first_seen": "2026-08-16"
+          "first_seen": "2026-08-17"
+        },
+        {
+          "board_id": "anduril",
+          "posting_id": "5213226007",
+          "title": "Lead Systems Engineer, Battlespace",
+          "url": "https://boards.greenhouse.io/andurilindustries/jobs/5213226007?gh_jid=5213226007",
+          "location": "Broomfield, Colorado, United States",
+          "raw_updated_at": "2026-08-17T05:26:54-04:00",
+          "tags": [],
+          "first_seen": "2026-08-17"
+        },
+        {
+          "board_id": "anduril",
+          "posting_id": "5213229007",
+          "title": "Lead Systems Engineer, Battlespace",
+          "url": "https://boards.greenhouse.io/andurilindustries/jobs/5213229007?gh_jid=5213229007",
+          "location": "Waltham, Massachusetts, United States",
+          "raw_updated_at": "2026-08-17T05:26:54-04:00",
+          "tags": [],
+          "first_seen": "2026-08-17"
+        },
+        {
+          "board_id": "anduril",
+          "posting_id": "5213232007",
+          "title": "Senior GNC Software Engineer",
+          "url": "https://boards.greenhouse.io/andurilindustries/jobs/5213232007?gh_jid=5213232007",
+          "location": "Waltham, Massachusetts, United States",
+          "raw_updated_at": "2026-08-16T19:56:55-04:00",
+          "tags": [],
+          "first_seen": "2026-08-17"
+        },
+        {
+          "board_id": "anduril",
+          "posting_id": "5213222007",
+          "title": "Senior Mechanical Engineer, Intelligence Systems",
+          "url": "https://boards.greenhouse.io/andurilindustries/jobs/5213222007?gh_jid=5213222007",
+          "location": "Costa Mesa, California, United States",
+          "raw_updated_at": "2026-08-16T18:22:08-04:00",
+          "tags": [],
+          "first_seen": "2026-08-17"
+        },
+        {
+          "board_id": "anduril",
+          "posting_id": "5213224007",
+          "title": "Senior Software Engineer, Robotics Tracking and Fusion",
+          "url": "https://boards.greenhouse.io/andurilindustries/jobs/5213224007?gh_jid=5213224007",
+          "location": "Washington, District of Columbia, United States",
+          "raw_updated_at": "2026-08-16T18:32:16-04:00",
+          "tags": [],
+          "first_seen": "2026-08-17"
+        },
+        {
+          "board_id": "anduril",
+          "posting_id": "5213223007",
+          "title": "Senior Software Engineer, Robotics Tracking and Fusion",
+          "url": "https://boards.greenhouse.io/andurilindustries/jobs/5213223007?gh_jid=5213223007",
+          "location": "Waltham, Massachusetts, United States",
+          "raw_updated_at": "2026-08-16T18:31:25-04:00",
+          "tags": [],
+          "first_seen": "2026-08-17"
+        },
+        {
+          "board_id": "anduril",
+          "posting_id": "5213225007",
+          "title": "Senior Software Engineer, Robotics Tracking and Fusion",
+          "url": "https://boards.greenhouse.io/andurilindustries/jobs/5213225007?gh_jid=5213225007",
+          "location": "Fort Collins, Colorado, United States",
+          "raw_updated_at": "2026-08-16T18:32:57-04:00",
+          "tags": [],
+          "first_seen": "2026-08-17"
+        },
+        {
+          "board_id": "anduril",
+          "posting_id": "5213227007",
+          "title": "Senior Systems Engineer, Battlespace",
+          "url": "https://boards.greenhouse.io/andurilindustries/jobs/5213227007?gh_jid=5213227007",
+          "location": "Broomfield, Colorado, United States",
+          "raw_updated_at": "2026-08-17T05:26:54-04:00",
+          "tags": [],
+          "first_seen": "2026-08-17"
+        },
+        {
+          "board_id": "anduril",
+          "posting_id": "5213230007",
+          "title": "Senior Systems Engineer, Battlespace",
+          "url": "https://boards.greenhouse.io/andurilindustries/jobs/5213230007?gh_jid=5213230007",
+          "location": "Waltham, Massachusetts, United States",
+          "raw_updated_at": "2026-08-17T05:26:54-04:00",
+          "tags": [],
+          "first_seen": "2026-08-17"
+        },
+        {
+          "board_id": "anduril",
+          "posting_id": "5213218007",
+          "title": "Software Engineer, Robotics Tracking and Fusion",
+          "url": "https://boards.greenhouse.io/andurilindustries/jobs/5213218007?gh_jid=5213218007",
+          "location": "Waltham, Massachusetts, United States",
+          "raw_updated_at": "2026-08-16T17:54:59-04:00",
+          "tags": [],
+          "first_seen": "2026-08-17"
+        },
+        {
+          "board_id": "anduril",
+          "posting_id": "5213219007",
+          "title": "Software Engineer, Robotics Tracking and Fusion",
+          "url": "https://boards.greenhouse.io/andurilindustries/jobs/5213219007?gh_jid=5213219007",
+          "location": "Washington, District of Columbia, United States",
+          "raw_updated_at": "2026-08-16T17:55:55-04:00",
+          "tags": [],
+          "first_seen": "2026-08-17"
+        },
+        {
+          "board_id": "anduril",
+          "posting_id": "5213220007",
+          "title": "Software Engineer, Robotics Tracking and Fusion",
+          "url": "https://boards.greenhouse.io/andurilindustries/jobs/5213220007?gh_jid=5213220007",
+          "location": "Fort Collins, Colorado, United States",
+          "raw_updated_at": "2026-08-16T17:56:58-04:00",
+          "tags": [],
+          "first_seen": "2026-08-17"
+        },
+        {
+          "board_id": "anduril",
+          "posting_id": "5213231007",
+          "title": "Systems Engineer, Battlespace",
+          "url": "https://boards.greenhouse.io/andurilindustries/jobs/5213231007?gh_jid=5213231007",
+          "location": "Waltham, Massachusetts, United States",
+          "raw_updated_at": "2026-08-17T05:26:54-04:00",
+          "tags": [],
+          "first_seen": "2026-08-17"
+        },
+        {
+          "board_id": "anduril",
+          "posting_id": "5213228007",
+          "title": "Systems Engineer, Battlespace",
+          "url": "https://boards.greenhouse.io/andurilindustries/jobs/5213228007?gh_jid=5213228007",
+          "location": "Broomfield, Colorado, United States",
+          "raw_updated_at": "2026-08-17T05:26:54-04:00",
+          "tags": [],
+          "first_seen": "2026-08-17"
+        },
+        {
+          "board_id": "anduril",
+          "posting_id": "5207802007",
+          "title": "Technical Project Manager - Sim Center Team Lead",
+          "url": "https://boards.greenhouse.io/andurilindustries/jobs/5207802007?gh_jid=5207802007",
+          "location": "Abu Dhabi, United Arab Emirates; London, England, United Kingdom",
+          "raw_updated_at": "2026-08-17T06:27:22-04:00",
+          "tags": [],
+          "first_seen": "2026-08-17"
+        },
+        {
+          "board_id": "anduril",
+          "posting_id": "5207810007",
+          "title": "Wargaming Research & Systems Analyst (WRSA)",
+          "url": "https://boards.greenhouse.io/andurilindustries/jobs/5207810007?gh_jid=5207810007",
+          "location": "Abu Dhabi, United Arab Emirates; London, England, United Kingdom",
+          "raw_updated_at": "2026-08-17T06:27:53-04:00",
+          "tags": [],
+          "first_seen": "2026-08-17"
         }
       ],
-      "removed": [],
-      "changed": [],
-      "total_postings": 2205
+      "removed": [
+        {
+          "board_id": "anduril",
+          "posting_id": "5102920007",
+          "title": "Computer Vision Engineer",
+          "url": "https://boards.greenhouse.io/andurilindustries/jobs/5102920007?gh_jid=5102920007",
+          "location": "Costa Mesa, California, United States",
+          "raw_updated_at": "2026-08-16T06:40:34-04:00",
+          "tags": [],
+          "first_seen": "2026-07-17"
+        },
+        {
+          "board_id": "anduril",
+          "posting_id": "5114446007",
+          "title": "Senior Computer Vision Engineer",
+          "url": "https://boards.greenhouse.io/andurilindustries/jobs/5114446007?gh_jid=5114446007",
+          "location": "Costa Mesa, California, United States",
+          "raw_updated_at": "2026-08-16T06:40:34-04:00",
+          "tags": [],
+          "first_seen": "2026-07-17"
+        },
+        {
+          "board_id": "anduril",
+          "posting_id": "5178102007",
+          "title": "GNC Senior Software Engineer",
+          "url": "https://boards.greenhouse.io/andurilindustries/jobs/5178102007?gh_jid=5178102007",
+          "location": "Waltham, Massachusetts, United States",
+          "raw_updated_at": "2026-08-12T11:23:18-04:00",
+          "tags": [],
+          "first_seen": "2026-07-17"
+        },
+        {
+          "board_id": "anduril",
+          "posting_id": "5178115007",
+          "title": "Software Engineer, Robotics Tracking and Fusion",
+          "url": "https://boards.greenhouse.io/andurilindustries/jobs/5178115007?gh_jid=5178115007",
+          "location": "Waltham, Massachusetts, United States",
+          "raw_updated_at": "2026-08-15T14:09:09-04:00",
+          "tags": [],
+          "first_seen": "2026-07-17"
+        },
+        {
+          "board_id": "anduril",
+          "posting_id": "5178116007",
+          "title": "Software Engineer, Robotics Tracking and Fusion",
+          "url": "https://boards.greenhouse.io/andurilindustries/jobs/5178116007?gh_jid=5178116007",
+          "location": "Washington, District of Columbia, United States",
+          "raw_updated_at": "2026-08-15T14:09:09-04:00",
+          "tags": [],
+          "first_seen": "2026-07-17"
+        },
+        {
+          "board_id": "anduril",
+          "posting_id": "5178117007",
+          "title": "Software Engineer, Robotics Tracking and Fusion",
+          "url": "https://boards.greenhouse.io/andurilindustries/jobs/5178117007?gh_jid=5178117007",
+          "location": "Fort Collins, Colorado, United States",
+          "raw_updated_at": "2026-08-15T14:09:09-04:00",
+          "tags": [],
+          "first_seen": "2026-07-17"
+        },
+        {
+          "board_id": "anduril",
+          "posting_id": "5178118007",
+          "title": "Senior Software Engineer, Robotics Tracking and Fusion",
+          "url": "https://boards.greenhouse.io/andurilindustries/jobs/5178118007?gh_jid=5178118007",
+          "location": "Waltham, Massachusetts, United States",
+          "raw_updated_at": "2026-08-15T14:14:28-04:00",
+          "tags": [],
+          "first_seen": "2026-07-17"
+        },
+        {
+          "board_id": "anduril",
+          "posting_id": "5178121007",
+          "title": "Senior Software Engineer, Robotics Tracking and Fusion",
+          "url": "https://boards.greenhouse.io/andurilindustries/jobs/5178121007?gh_jid=5178121007",
+          "location": "Washington, District of Columbia, United States",
+          "raw_updated_at": "2026-08-15T14:14:28-04:00",
+          "tags": [],
+          "first_seen": "2026-07-17"
+        },
+        {
+          "board_id": "anduril",
+          "posting_id": "5178123007",
+          "title": "Senior Software Engineer, Robotics Tracking and Fusion",
+          "url": "https://boards.greenhouse.io/andurilindustries/jobs/5178123007?gh_jid=5178123007",
+          "location": "Fort Collins, Colorado, United States",
+          "raw_updated_at": "2026-08-15T14:14:28-04:00",
+          "tags": [],
+          "first_seen": "2026-07-17"
+        },
+        {
+          "board_id": "anduril",
+          "posting_id": "5178125007",
+          "title": "Lead Systems Engineer, Battlespace",
+          "url": "https://boards.greenhouse.io/andurilindustries/jobs/5178125007?gh_jid=5178125007",
+          "location": "Broomfield, Colorado, United States",
+          "raw_updated_at": "2026-08-16T05:50:39-04:00",
+          "tags": [],
+          "first_seen": "2026-07-17"
+        },
+        {
+          "board_id": "anduril",
+          "posting_id": "5178127007",
+          "title": "Systems Engineer, Battlespace",
+          "url": "https://boards.greenhouse.io/andurilindustries/jobs/5178127007?gh_jid=5178127007",
+          "location": "Broomfield, Colorado, United States",
+          "raw_updated_at": "2026-08-16T05:50:39-04:00",
+          "tags": [],
+          "first_seen": "2026-07-17"
+        },
+        {
+          "board_id": "anduril",
+          "posting_id": "5178130007",
+          "title": "Senior Systems Engineer, Battlespace",
+          "url": "https://boards.greenhouse.io/andurilindustries/jobs/5178130007?gh_jid=5178130007",
+          "location": "Broomfield, Colorado, United States",
+          "raw_updated_at": "2026-08-16T05:50:39-04:00",
+          "tags": [],
+          "first_seen": "2026-07-17"
+        }
+      ],
+      "changed": [
+        {
+          "previous": {
+            "board_id": "anduril",
+            "posting_id": "5009635007",
+            "title": "Staff Manufacturing Engineer, Special Projects",
+            "url": "https://boards.greenhouse.io/andurilindustries/jobs/5009635007?gh_jid=5009635007",
+            "location": "Costa Mesa, California, United States",
+            "raw_updated_at": "2026-08-16T06:00:14-04:00",
+            "tags": [],
+            "first_seen": "2026-07-17"
+          },
+          "current": {
+            "board_id": "anduril",
+            "posting_id": "5009635007",
+            "title": "Staff Manufacturing Engineer, Composites",
+            "url": "https://boards.greenhouse.io/andurilindustries/jobs/5009635007?gh_jid=5009635007",
+            "location": "Costa Mesa, California, United States",
+            "raw_updated_at": "2026-08-17T05:41:38-04:00",
+            "tags": [],
+            "first_seen": "2026-07-17"
+          }
+        }
+      ],
+      "total_postings": 2210
     },
     {
       "board_id": "formlabs",
@@ -78,9 +382,9 @@
     }
   ],
   "summary": {
-    "added": 1,
-    "removed": 0,
-    "changed": 0,
+    "added": 17,
+    "removed": 12,
+    "changed": 1,
     "boards_ok": 8,
     "boards_error": 0,
     "boards_skipped": 0
