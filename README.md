@@ -86,7 +86,7 @@ Tip: before writing selectors, check whether the site embeds Greenhouse/Workday 
 ---
 
 <!-- REQCON:START -->
-**Last scan:** 2026-08-22 07:12 EDT · 8 boards · 39 new · 39 removed
+**Last scan:** 2026-08-23 07:12 EDT · 8 boards · 3 new · 0 removed
 
 ✅ Lila Sciences · ✅ BillionToOne · ✅ Anduril · ✅ Formlabs · ✅ STR · ✅ Draper · ✅ MERL (Mitsubishi Electric Research Labs) · ✅ Ubicept
 
@@ -98,6 +98,9 @@ Tip: before writing selectors, check whether the site embeds Greenhouse/Workday 
 | 🎓 Draper | [Full Stack Web Development Co-Op (Spring 2027)](https://draper.wd5.myworkdayjobs.com/en-US/Draper_Careers/job/Cambridge-MA/Full-Stack-Web-Development-Co-Op--Spring-2027-_JR002832-1) | Cambridge, MA | 2026-08-19 |
 | 🎓 Formlabs | [Print Production Intern (Fall 2026)](https://careers.formlabs.com/job/8138459/apply/?gh_jid=8138459) | Somerville, MA | 2026-08-18 |
 | 🎓 MERL (Mitsubishi Electric Research Labs) | [OR0317: Internship - Vision-Language-Action (VLA) Models for Robotic Manipulation](https://www.merl.com/employment/internship-openings#OR0317) | — | 2026-08-18 |
+| Anduril | [Electrical Engineer, Intelligence Systems](https://boards.greenhouse.io/andurilindustries/jobs/5219512007?gh_jid=5219512007) | Costa Mesa, California, United States | 2026-08-23 |
+| Anduril | [Senior Thermal Engineer, Expeditionary AI / HPC Data Centers](https://boards.greenhouse.io/andurilindustries/jobs/5219419007?gh_jid=5219419007) | Costa Mesa, California, United States | 2026-08-23 |
+| Anduril | [Thermal Engineer, Hypersonic Air Vehicles](https://boards.greenhouse.io/andurilindustries/jobs/5219476007?gh_jid=5219476007) | Costa Mesa, California, United States | 2026-08-23 |
 | Anduril | [Applied LLM Systems Engineer](https://boards.greenhouse.io/andurilindustries/jobs/5197253007?gh_jid=5197253007) | Costa Mesa, California, United States | 2026-08-22 |
 | Anduril | [Business Operations, Anduril](https://boards.greenhouse.io/andurilindustries/jobs/5219004007?gh_jid=5219004007) | Costa Mesa, California, United States | 2026-08-22 |
 | Anduril | [Endpoint Engineer](https://boards.greenhouse.io/andurilindustries/jobs/5218809007?gh_jid=5218809007) | Costa Mesa, California, United States | 2026-08-22 |
@@ -121,14 +124,11 @@ Tip: before writing selectors, check whether the site embeds Greenhouse/Workday 
 | Anduril | [Senior Software Engineer, Vehicle Management Systems](https://boards.greenhouse.io/andurilindustries/jobs/5071581007?gh_jid=5071581007) | Costa Mesa, California, United States | 2026-08-22 |
 | Anduril | [Senior Software Systems Engineer, Launched Effects ](https://boards.greenhouse.io/andurilindustries/jobs/5218813007?gh_jid=5218813007) | Atlanta, Georgia, United States | 2026-08-22 |
 | Anduril | [Senior Systems Engineer](https://boards.greenhouse.io/andurilindustries/jobs/5210182007?gh_jid=5210182007) | London, England, United Kingdom | 2026-08-22 |
-| Anduril | [Software Technical Program Manager](https://boards.greenhouse.io/andurilindustries/jobs/5217894007?gh_jid=5217894007) | Irvine, California, United States | 2026-08-22 |
-| Anduril | [Staff Software Engineer, Vehicle Software, C++](https://boards.greenhouse.io/andurilindustries/jobs/5218845007?gh_jid=5218845007) | Costa Mesa, California, United States | 2026-08-22 |
-| Anduril | [Technical Director of Test & Evaluation](https://boards.greenhouse.io/andurilindustries/jobs/5167877007?gh_jid=5167877007) | Costa Mesa, California, United States | 2026-08-22 |
 
-…and 235 more — see the [latest digest](reports/reqcon-2026-08-22.md).
+…and 237 more — see the [latest digest](reports/reqcon-2026-08-23.md).
 
 <details>
-<summary>All tracked postings (3039)</summary>
+<summary>All tracked postings (3042)</summary>
 
 **Lila Sciences** (131)
 - 🎓 [Co-Op, Autonomous SEM](https://job-boards.greenhouse.io/lilasciences/jobs/4300246009) — Cambridge, MA USA
@@ -352,7 +352,7 @@ Tip: before writing selectors, check whether the site embeds Greenhouse/Workday 
 - [Senior Software Engineer, Digital Experiences](https://job-boards.greenhouse.io/billiontoone/jobs/4683643005) — Menlo Park, CA
 - [Senior Software Engineer, Prenatal](https://job-boards.greenhouse.io/billiontoone/jobs/4305991005) — Menlo Park, CA
 
-**Anduril** (2236)
+**Anduril** (2239)
 - 🎓 [2027 Electrical Engineer Intern](https://boards.greenhouse.io/andurilindustries/jobs/5148101007?gh_jid=5148101007) — Atlanta, Georgia, United States; Boston, Massachusetts, United States; Broomfield, Colorado, United States; Colorado Springs, Colorado, United States; Costa Mesa, California, United States; Fort Collins, Colorado, United States; Irvine, California, United States; Reston, Virginia, United States; Seattle, Washington, United States
 - 🎓 [2027 Manufacturing Engineer Intern](https://boards.greenhouse.io/andurilindustries/jobs/5153218007?gh_jid=5153218007) — Atlanta, Georgia, United States; Boston, Massachusetts, United States; Broomfield, Colorado, United States; Colorado Springs, Colorado, United States; Costa Mesa, California, United States; Fort Collins, Colorado, United States; Irvine, California, United States; Seattle, Washington, United States
 - 🎓 [2027 Mechanical Engineer Intern](https://boards.greenhouse.io/andurilindustries/jobs/5153187007?gh_jid=5153187007) — Atlanta, Georgia, United States; Boston, Massachusetts, United States; Broomfield, Colorado, United States; Colorado Springs, Colorado, United States; Costa Mesa, California, United States; Fort Collins, Colorado, United States; Irvine, California, United States; Reston, Virginia, United States; Seattle, Washington, United States
@@ -536,7 +536,7 @@ Tip: before writing selectors, check whether the site embeds Greenhouse/Workday 
 - [Deployment Operations Specialist, Maritime Taiwan](https://boards.greenhouse.io/andurilindustries/jobs/5161939007?gh_jid=5161939007) — Taipei, Taiwan
 - [Deputy Chief Engineer, Autonomous Airpower](https://boards.greenhouse.io/andurilindustries/jobs/5062369007?gh_jid=5062369007) — Costa Mesa, California, United States
 
-_…truncated at 400 rows (3039 total)._
+_…truncated at 400 rows (3042 total)._
 
 </details>
 <!-- REQCON:END -->
