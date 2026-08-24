@@ -1,5 +1,5 @@
 {
-  "run_at": "2026-08-23T07:12:36.457855-04:00",
+  "run_at": "2026-08-24T07:18:29.951462-04:00",
   "boards": [
     {
       "board_id": "lila-sciences",
@@ -23,38 +23,236 @@
       "added": [
         {
           "board_id": "anduril",
-          "posting_id": "5219512007",
-          "title": "Electrical Engineer, Intelligence Systems",
-          "url": "https://boards.greenhouse.io/andurilindustries/jobs/5219512007?gh_jid=5219512007",
-          "location": "Costa Mesa, California, United States",
-          "raw_updated_at": "2026-08-23T01:57:36-04:00",
+          "posting_id": "5217214007",
+          "title": "Recruiter",
+          "url": "https://boards.greenhouse.io/andurilindustries/jobs/5217214007?gh_jid=5217214007",
+          "location": "London, England, United Kingdom",
+          "raw_updated_at": "2026-08-24T05:14:42-04:00",
           "tags": [],
-          "first_seen": "2026-08-23"
+          "first_seen": "2026-08-24"
         },
         {
           "board_id": "anduril",
-          "posting_id": "5219419007",
-          "title": "Senior Thermal Engineer, Expeditionary AI / HPC Data Centers",
-          "url": "https://boards.greenhouse.io/andurilindustries/jobs/5219419007?gh_jid=5219419007",
-          "location": "Costa Mesa, California, United States",
-          "raw_updated_at": "2026-08-22T12:42:34-04:00",
+          "posting_id": "5219632007",
+          "title": "Supervisor, Manufacturing Operations, Connected Warfare",
+          "url": "https://boards.greenhouse.io/andurilindustries/jobs/5219632007?gh_jid=5219632007",
+          "location": "Santa Ana, California, United States",
+          "raw_updated_at": "2026-08-24T00:45:04-04:00",
           "tags": [],
-          "first_seen": "2026-08-23"
-        },
-        {
-          "board_id": "anduril",
-          "posting_id": "5219476007",
-          "title": "Thermal Engineer, Hypersonic Air Vehicles",
-          "url": "https://boards.greenhouse.io/andurilindustries/jobs/5219476007?gh_jid=5219476007",
-          "location": "Costa Mesa, California, United States",
-          "raw_updated_at": "2026-08-22T16:34:26-04:00",
-          "tags": [],
-          "first_seen": "2026-08-23"
+          "first_seen": "2026-08-24"
         }
       ],
-      "removed": [],
-      "changed": [],
-      "total_postings": 2239
+      "removed": [
+        {
+          "board_id": "anduril",
+          "posting_id": "5163684007",
+          "title": "Senior Manager, Reliability Engineering",
+          "url": "https://boards.greenhouse.io/andurilindustries/jobs/5163684007?gh_jid=5163684007",
+          "location": "Costa Mesa, California, United States",
+          "raw_updated_at": "2026-08-22T18:37:14-04:00",
+          "tags": [],
+          "first_seen": "2026-07-17"
+        },
+        {
+          "board_id": "anduril",
+          "posting_id": "5176866007",
+          "title": "Senior Reliability Engineering",
+          "url": "https://boards.greenhouse.io/andurilindustries/jobs/5176866007?gh_jid=5176866007",
+          "location": "Sydney, New South Wales, Australia",
+          "raw_updated_at": "2026-08-22T18:35:44-04:00",
+          "tags": [],
+          "first_seen": "2026-07-17"
+        },
+        {
+          "board_id": "anduril",
+          "posting_id": "5177748007",
+          "title": "Warfighting Capability Analyst",
+          "url": "https://boards.greenhouse.io/andurilindustries/jobs/5177748007?gh_jid=5177748007",
+          "location": "Sydney, New South Wales, Australia",
+          "raw_updated_at": "2026-08-22T18:19:47-04:00",
+          "tags": [],
+          "first_seen": "2026-07-17"
+        }
+      ],
+      "changed": [
+        {
+          "previous": {
+            "board_id": "anduril",
+            "posting_id": "5213229007",
+            "title": "Lead Systems Engineer, Battlespace",
+            "url": "https://boards.greenhouse.io/andurilindustries/jobs/5213229007?gh_jid=5213229007",
+            "location": "Waltham, Massachusetts, United States",
+            "raw_updated_at": "2026-08-23T05:34:35-04:00",
+            "tags": [],
+            "first_seen": "2026-08-17"
+          },
+          "current": {
+            "board_id": "anduril",
+            "posting_id": "5213229007",
+            "title": "Lead Systems Engineer, Integration & Test",
+            "url": "https://boards.greenhouse.io/andurilindustries/jobs/5213229007?gh_jid=5213229007",
+            "location": "Waltham, Massachusetts, United States",
+            "raw_updated_at": "2026-08-24T05:28:19-04:00",
+            "tags": [],
+            "first_seen": "2026-08-17"
+          }
+        },
+        {
+          "previous": {
+            "board_id": "anduril",
+            "posting_id": "5213226007",
+            "title": "Lead Systems Engineer, Battlespace",
+            "url": "https://boards.greenhouse.io/andurilindustries/jobs/5213226007?gh_jid=5213226007",
+            "location": "Broomfield, Colorado, United States",
+            "raw_updated_at": "2026-08-23T05:34:35-04:00",
+            "tags": [],
+            "first_seen": "2026-08-17"
+          },
+          "current": {
+            "board_id": "anduril",
+            "posting_id": "5213226007",
+            "title": "Lead Systems Engineer, Integration & Test",
+            "url": "https://boards.greenhouse.io/andurilindustries/jobs/5213226007?gh_jid=5213226007",
+            "location": "Broomfield, Colorado, United States",
+            "raw_updated_at": "2026-08-24T05:28:19-04:00",
+            "tags": [],
+            "first_seen": "2026-08-17"
+          }
+        },
+        {
+          "previous": {
+            "board_id": "anduril",
+            "posting_id": "5213227007",
+            "title": "Senior Systems Engineer, Battlespace",
+            "url": "https://boards.greenhouse.io/andurilindustries/jobs/5213227007?gh_jid=5213227007",
+            "location": "Broomfield, Colorado, United States",
+            "raw_updated_at": "2026-08-23T05:34:35-04:00",
+            "tags": [],
+            "first_seen": "2026-08-17"
+          },
+          "current": {
+            "board_id": "anduril",
+            "posting_id": "5213227007",
+            "title": "Senior System Engineering Integration & Test Engineer",
+            "url": "https://boards.greenhouse.io/andurilindustries/jobs/5213227007?gh_jid=5213227007",
+            "location": "Broomfield, Colorado, United States",
+            "raw_updated_at": "2026-08-24T05:28:19-04:00",
+            "tags": [],
+            "first_seen": "2026-08-17"
+          }
+        },
+        {
+          "previous": {
+            "board_id": "anduril",
+            "posting_id": "5213230007",
+            "title": "Senior Systems Engineer, Battlespace",
+            "url": "https://boards.greenhouse.io/andurilindustries/jobs/5213230007?gh_jid=5213230007",
+            "location": "Waltham, Massachusetts, United States",
+            "raw_updated_at": "2026-08-23T05:34:35-04:00",
+            "tags": [],
+            "first_seen": "2026-08-17"
+          },
+          "current": {
+            "board_id": "anduril",
+            "posting_id": "5213230007",
+            "title": "Senior System Engineering Integration & Test Engineer",
+            "url": "https://boards.greenhouse.io/andurilindustries/jobs/5213230007?gh_jid=5213230007",
+            "location": "Waltham, Massachusetts, United States",
+            "raw_updated_at": "2026-08-24T05:28:19-04:00",
+            "tags": [],
+            "first_seen": "2026-08-17"
+          }
+        },
+        {
+          "previous": {
+            "board_id": "anduril",
+            "posting_id": "4974588007",
+            "title": "Production Supervisor, Missiles",
+            "url": "https://boards.greenhouse.io/andurilindustries/jobs/4974588007?gh_jid=4974588007",
+            "location": "Santa Ana, California, United States",
+            "raw_updated_at": "2026-08-11T15:07:56-04:00",
+            "tags": [],
+            "first_seen": "2026-07-17"
+          },
+          "current": {
+            "board_id": "anduril",
+            "posting_id": "4974588007",
+            "title": "Supervisor, Manufacturing Operations, Missiles",
+            "url": "https://boards.greenhouse.io/andurilindustries/jobs/4974588007?gh_jid=4974588007",
+            "location": "Santa Ana, California, United States",
+            "raw_updated_at": "2026-08-24T00:42:58-04:00",
+            "tags": [],
+            "first_seen": "2026-07-17"
+          }
+        },
+        {
+          "previous": {
+            "board_id": "anduril",
+            "posting_id": "5136791007",
+            "title": "Production Supervisor, Sentry",
+            "url": "https://boards.greenhouse.io/andurilindustries/jobs/5136791007?gh_jid=5136791007",
+            "location": "Irvine, California, United States",
+            "raw_updated_at": "2026-08-11T15:07:56-04:00",
+            "tags": [],
+            "first_seen": "2026-07-17"
+          },
+          "current": {
+            "board_id": "anduril",
+            "posting_id": "5136791007",
+            "title": "Supervisor, Manufacturing Operations, Sentry",
+            "url": "https://boards.greenhouse.io/andurilindustries/jobs/5136791007?gh_jid=5136791007",
+            "location": "Irvine, California, United States",
+            "raw_updated_at": "2026-08-24T00:43:25-04:00",
+            "tags": [],
+            "first_seen": "2026-07-17"
+          }
+        },
+        {
+          "previous": {
+            "board_id": "anduril",
+            "posting_id": "5213228007",
+            "title": "Systems Engineer, Battlespace",
+            "url": "https://boards.greenhouse.io/andurilindustries/jobs/5213228007?gh_jid=5213228007",
+            "location": "Broomfield, Colorado, United States",
+            "raw_updated_at": "2026-08-23T05:34:35-04:00",
+            "tags": [],
+            "first_seen": "2026-08-17"
+          },
+          "current": {
+            "board_id": "anduril",
+            "posting_id": "5213228007",
+            "title": "System Engineering Integration & Test Engineer",
+            "url": "https://boards.greenhouse.io/andurilindustries/jobs/5213228007?gh_jid=5213228007",
+            "location": "Broomfield, Colorado, United States",
+            "raw_updated_at": "2026-08-24T05:28:19-04:00",
+            "tags": [],
+            "first_seen": "2026-08-17"
+          }
+        },
+        {
+          "previous": {
+            "board_id": "anduril",
+            "posting_id": "5213231007",
+            "title": "Systems Engineer, Battlespace",
+            "url": "https://boards.greenhouse.io/andurilindustries/jobs/5213231007?gh_jid=5213231007",
+            "location": "Waltham, Massachusetts, United States",
+            "raw_updated_at": "2026-08-23T05:34:35-04:00",
+            "tags": [],
+            "first_seen": "2026-08-17"
+          },
+          "current": {
+            "board_id": "anduril",
+            "posting_id": "5213231007",
+            "title": "System Engineering Integration & Test\u00a0Engineer",
+            "url": "https://boards.greenhouse.io/andurilindustries/jobs/5213231007?gh_jid=5213231007",
+            "location": "Waltham, Massachusetts, United States",
+            "raw_updated_at": "2026-08-24T05:28:19-04:00",
+            "tags": [],
+            "first_seen": "2026-08-17"
+          }
+        }
+      ],
+      "total_postings": 2238
     },
     {
       "board_id": "formlabs",
@@ -98,9 +296,9 @@
     }
   ],
   "summary": {
-    "added": 3,
-    "removed": 0,
-    "changed": 0,
+    "added": 2,
+    "removed": 3,
+    "changed": 8,
     "boards_ok": 8,
     "boards_error": 0,
     "boards_skipped": 0
