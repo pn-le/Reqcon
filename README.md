@@ -86,7 +86,7 @@ Tip: before writing selectors, check whether the site embeds Greenhouse/Workday 
 ---
 
 <!-- REQCON:START -->
-**Last scan:** 2026-09-05 09:36 EDT · 8 boards · 50 new · 36 removed
+**Last scan:** 2026-09-06 09:51 EDT · 8 boards · 0 new · 2 removed
 
 ✅ Lila Sciences · ✅ BillionToOne · ✅ Anduril · ✅ Formlabs · ✅ STR · ✅ Draper · ✅ MERL (Mitsubishi Electric Research Labs) · ✅ Ubicept
 
@@ -125,10 +125,10 @@ Tip: before writing selectors, check whether the site embeds Greenhouse/Workday 
 | Anduril | [Legal Counsel, Supply Chain and Government Contracts Compliance](https://boards.greenhouse.io/andurilindustries/jobs/5231452007?gh_jid=5231452007) | Costa Mesa, California, United States | 2026-09-05 |
 | Anduril | [Logistics Analyst](https://boards.greenhouse.io/andurilindustries/jobs/5230788007?gh_jid=5230788007) | Costa Mesa, California, United States | 2026-09-05 |
 
-…and 305 more — see the [latest digest](reports/reqcon-2026-09-05.md).
+…and 302 more — see the [latest digest](reports/reqcon-2026-09-06.md).
 
 <details>
-<summary>All tracked postings (2984)</summary>
+<summary>All tracked postings (2982)</summary>
 
 **Lila Sciences** (117)
 - 🎓 [Co-Op, Autonomous SEM](https://job-boards.greenhouse.io/lilasciences/jobs/4300246009) — Cambridge, MA USA
@@ -335,7 +335,7 @@ Tip: before writing selectors, check whether the site embeds Greenhouse/Workday 
 - [Senior Software Engineer, Digital Experiences](https://job-boards.greenhouse.io/billiontoone/jobs/4683643005) — Menlo Park, CA
 - [Senior Software Engineer, Prenatal](https://job-boards.greenhouse.io/billiontoone/jobs/4305991005) — Menlo Park, CA
 
-**Anduril** (2213)
+**Anduril** (2211)
 - 🎓 [2026 Mechanical Engineering Intern](https://boards.greenhouse.io/andurilindustries/jobs/5211102007?gh_jid=5211102007) — Sydney, New South Wales, Australia
 - 🎓 [2026 Robotics Engineer Intern](https://boards.greenhouse.io/andurilindustries/jobs/5211095007?gh_jid=5211095007) — Sydney, New South Wales, Australia
 - 🎓 [2026 Software Engineering Intern](https://boards.greenhouse.io/andurilindustries/jobs/5211077007?gh_jid=5211077007) — Sydney, New South Wales, Australia
@@ -536,7 +536,7 @@ Tip: before writing selectors, check whether the site embeds Greenhouse/Workday 
 - [Deployment Operations Manager](https://boards.greenhouse.io/andurilindustries/jobs/5005173007?gh_jid=5005173007) — Costa Mesa, California, United States
 - [Deployment Operations Manager, Roadrunner](https://boards.greenhouse.io/andurilindustries/jobs/5156337007?gh_jid=5156337007) — Costa Mesa, California, United States
 
-_…truncated at 400 rows (2984 total)._
+_…truncated at 400 rows (2982 total)._
 
 </details>
 <!-- REQCON:END -->
