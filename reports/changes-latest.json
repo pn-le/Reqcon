@@ -1,13 +1,24 @@
 {
-  "run_at": "2026-09-06T09:51:01.786141-04:00",
+  "run_at": "2026-09-07T12:12:09.522208-04:00",
   "boards": [
     {
       "board_id": "lila-sciences",
       "status": "ok",
       "added": [],
-      "removed": [],
+      "removed": [
+        {
+          "board_id": "lila-sciences",
+          "posting_id": "4146076009",
+          "title": "Vice President, Head of Marketing",
+          "url": "https://job-boards.greenhouse.io/lilasciences/jobs/4146076009",
+          "location": "Cambridge, MA USA",
+          "raw_updated_at": "2026-09-02T01:00:32-04:00",
+          "tags": [],
+          "first_seen": "2026-07-17"
+        }
+      ],
       "changed": [],
-      "total_postings": 117
+      "total_postings": 116
     },
     {
       "board_id": "billiontoone",
@@ -20,39 +31,50 @@
     {
       "board_id": "anduril",
       "status": "ok",
-      "added": [],
-      "removed": [
+      "added": [
         {
           "board_id": "anduril",
-          "posting_id": "5100657007",
-          "title": "Deputy Director, Connected Warfare Europe",
-          "url": "https://boards.greenhouse.io/andurilindustries/jobs/5100657007?gh_jid=5100657007",
-          "location": "Amsterdam, North Holland, Netherlands",
-          "raw_updated_at": "2026-09-05T07:49:12-04:00",
+          "posting_id": "5222558007",
+          "title": "Security Operations Analyst, UK",
+          "url": "https://boards.greenhouse.io/andurilindustries/jobs/5222558007?gh_jid=5222558007",
+          "location": "London, England, United Kingdom",
+          "raw_updated_at": "2026-09-07T10:32:44-04:00",
           "tags": [],
-          "first_seen": "2026-07-17"
-        },
-        {
-          "board_id": "anduril",
-          "posting_id": "5101332007",
-          "title": "Staff FPGA Engineer, Intelligence Systems",
-          "url": "https://boards.greenhouse.io/andurilindustries/jobs/5101332007?gh_jid=5101332007",
-          "location": "Reston, Virginia, United States",
-          "raw_updated_at": "2026-09-02T20:46:09-04:00",
-          "tags": [],
-          "first_seen": "2026-07-17"
+          "first_seen": "2026-09-07"
         }
       ],
+      "removed": [],
       "changed": [],
-      "total_postings": 2211
+      "total_postings": 2212
     },
     {
       "board_id": "formlabs",
       "status": "ok",
       "added": [],
-      "removed": [],
+      "removed": [
+        {
+          "board_id": "formlabs",
+          "posting_id": "8111877",
+          "title": "AR Specialist",
+          "url": "https://careers.formlabs.com/job/8111877/apply/?gh_jid=8111877",
+          "location": "Budapest, Hungary",
+          "raw_updated_at": "2026-08-06T09:40:42-04:00",
+          "tags": [],
+          "first_seen": "2026-08-07"
+        },
+        {
+          "board_id": "formlabs",
+          "posting_id": "8111880",
+          "title": "Senior Accounts Receivable Specialist",
+          "url": "https://careers.formlabs.com/job/8111880/apply/?gh_jid=8111880",
+          "location": "Budapest, Hungary",
+          "raw_updated_at": "2026-08-06T09:41:25-04:00",
+          "tags": [],
+          "first_seen": "2026-08-07"
+        }
+      ],
       "changed": [],
-      "total_postings": 206
+      "total_postings": 204
     },
     {
       "board_id": "str",
@@ -88,8 +110,8 @@
     }
   ],
   "summary": {
-    "added": 0,
-    "removed": 2,
+    "added": 1,
+    "removed": 3,
     "changed": 0,
     "boards_ok": 8,
     "boards_error": 0,

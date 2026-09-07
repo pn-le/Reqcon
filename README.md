@@ -86,7 +86,7 @@ Tip: before writing selectors, check whether the site embeds Greenhouse/Workday 
 ---
 
 <!-- REQCON:START -->
-**Last scan:** 2026-09-06 09:51 EDT · 8 boards · 0 new · 2 removed
+**Last scan:** 2026-09-07 12:12 EDT · 8 boards · 1 new · 3 removed
 
 ✅ Lila Sciences · ✅ BillionToOne · ✅ Anduril · ✅ Formlabs · ✅ STR · ✅ Draper · ✅ MERL (Mitsubishi Electric Research Labs) · ✅ Ubicept
 
@@ -109,6 +109,7 @@ Tip: before writing selectors, check whether the site embeds Greenhouse/Workday 
 | 🎓 Draper | [Electro-Mechanical Instrument Co-op (Spring 2027)](https://draper.wd5.myworkdayjobs.com/en-US/Draper_Careers/job/Cambridge-MA/Electro-Mechanical-Instrument-Co-op--Spring-2027-_JR002883-1) | Cambridge, MA | 2026-09-01 |
 | 🎓 Draper | [Optics-Physics Sensor Engineering Co-op (Spring 2027)](https://draper.wd5.myworkdayjobs.com/en-US/Draper_Careers/job/Cambridge-MA/Optics-Physics-Sensor-Engineering-Co-op--Spring-2027-_JR002884) | Cambridge, MA | 2026-09-01 |
 | 🎓 Draper | [Sensor Electrical Engineering Co-op (Spring 2027)](https://draper.wd5.myworkdayjobs.com/en-US/Draper_Careers/job/Cambridge-MA/Sensor-Electrical-Engineering-Co-op--Spring-2027-_JR002885) | Cambridge, MA | 2026-09-01 |
+| Anduril | [Security Operations Analyst, UK](https://boards.greenhouse.io/andurilindustries/jobs/5222558007?gh_jid=5222558007) | London, England, United Kingdom | 2026-09-07 |
 | Anduril | [Assistant Facility Security Officer](https://boards.greenhouse.io/andurilindustries/jobs/5231323007?gh_jid=5231323007) | Quincy, Massachusetts, United States | 2026-09-05 |
 | Anduril | [C2 Mission Operations Manager, JIATF](https://boards.greenhouse.io/andurilindustries/jobs/5216132007?gh_jid=5216132007) | Irvine, California, United States | 2026-09-05 |
 | Anduril | [Chief Engineer](https://boards.greenhouse.io/andurilindustries/jobs/5159733007?gh_jid=5159733007) | Costa Mesa, California, United States | 2026-09-05 |
@@ -123,14 +124,13 @@ Tip: before writing selectors, check whether the site embeds Greenhouse/Workday 
 | Anduril | [Inventory Specialist](https://boards.greenhouse.io/andurilindustries/jobs/5231269007?gh_jid=5231269007) | Hudson, New Hampshire, United States | 2026-09-05 |
 | Anduril | [Legal Counsel, Supply Chain and Government Contracts Compliance](https://boards.greenhouse.io/andurilindustries/jobs/5230860007?gh_jid=5230860007) | Washington, District of Columbia, United States | 2026-09-05 |
 | Anduril | [Legal Counsel, Supply Chain and Government Contracts Compliance](https://boards.greenhouse.io/andurilindustries/jobs/5231452007?gh_jid=5231452007) | Costa Mesa, California, United States | 2026-09-05 |
-| Anduril | [Logistics Analyst](https://boards.greenhouse.io/andurilindustries/jobs/5230788007?gh_jid=5230788007) | Costa Mesa, California, United States | 2026-09-05 |
 
-…and 302 more — see the [latest digest](reports/reqcon-2026-09-06.md).
+…and 280 more — see the [latest digest](reports/reqcon-2026-09-07.md).
 
 <details>
-<summary>All tracked postings (2982)</summary>
+<summary>All tracked postings (2980)</summary>
 
-**Lila Sciences** (117)
+**Lila Sciences** (116)
 - 🎓 [Co-Op, Autonomous SEM](https://job-boards.greenhouse.io/lilasciences/jobs/4300246009) — Cambridge, MA USA
 - 🎓 [Co-Op, Data Extraction](https://job-boards.greenhouse.io/lilasciences/jobs/4280811009) — Cambridge, MA USA
 - 🎓 [Co-Op, Enterprise Go-to-Market](https://job-boards.greenhouse.io/lilasciences/jobs/4332041009) — Cambridge, MA USA
@@ -247,7 +247,6 @@ Tip: before writing selectors, check whether the site embeds Greenhouse/Workday 
 - [Staff Software Engineer, Scientific System of Record](https://job-boards.greenhouse.io/lilasciences/jobs/4248045009) — Cambridge, MA USA; San Francisco, CA USA
 - [Staff/Principal DevOps Engineer, AI Inference](https://job-boards.greenhouse.io/lilasciences/jobs/4248032009) — Cambridge, MA USA
 - [Technical Program Manager, AI Data](https://job-boards.greenhouse.io/lilasciences/jobs/4259557009) — Cambridge, MA USA; San Francisco, CA USA
-- [Vice President, Head of Marketing](https://job-boards.greenhouse.io/lilasciences/jobs/4146076009) — Cambridge, MA USA
 
 **BillionToOne** (84)
 - 🎓 [Research Associate Intern](https://job-boards.greenhouse.io/billiontoone/jobs/4729470005) — Menlo Park, CA
@@ -335,7 +334,7 @@ Tip: before writing selectors, check whether the site embeds Greenhouse/Workday 
 - [Senior Software Engineer, Digital Experiences](https://job-boards.greenhouse.io/billiontoone/jobs/4683643005) — Menlo Park, CA
 - [Senior Software Engineer, Prenatal](https://job-boards.greenhouse.io/billiontoone/jobs/4305991005) — Menlo Park, CA
 
-**Anduril** (2211)
+**Anduril** (2212)
 - 🎓 [2026 Mechanical Engineering Intern](https://boards.greenhouse.io/andurilindustries/jobs/5211102007?gh_jid=5211102007) — Sydney, New South Wales, Australia
 - 🎓 [2026 Robotics Engineer Intern](https://boards.greenhouse.io/andurilindustries/jobs/5211095007?gh_jid=5211095007) — Sydney, New South Wales, Australia
 - 🎓 [2026 Software Engineering Intern](https://boards.greenhouse.io/andurilindustries/jobs/5211077007?gh_jid=5211077007) — Sydney, New South Wales, Australia
@@ -535,8 +534,9 @@ Tip: before writing selectors, check whether the site embeds Greenhouse/Workday 
 - [Deployment Lead, West Coast](https://boards.greenhouse.io/andurilindustries/jobs/5211980007?gh_jid=5211980007) — Irvine, California, United States
 - [Deployment Operations Manager](https://boards.greenhouse.io/andurilindustries/jobs/5005173007?gh_jid=5005173007) — Costa Mesa, California, United States
 - [Deployment Operations Manager, Roadrunner](https://boards.greenhouse.io/andurilindustries/jobs/5156337007?gh_jid=5156337007) — Costa Mesa, California, United States
+- [Deputy Chief Engineer - Altius](https://boards.greenhouse.io/andurilindustries/jobs/5227261007?gh_jid=5227261007) — Atlanta, Georgia, United States
 
-_…truncated at 400 rows (2982 total)._
+_…truncated at 400 rows (2980 total)._
 
 </details>
 <!-- REQCON:END -->
