@@ -1,22 +1,11 @@
 {
-  "run_at": "2026-09-07T12:12:09.522208-04:00",
+  "run_at": "2026-09-08T10:49:31.883581-04:00",
   "boards": [
     {
       "board_id": "lila-sciences",
       "status": "ok",
       "added": [],
-      "removed": [
-        {
-          "board_id": "lila-sciences",
-          "posting_id": "4146076009",
-          "title": "Vice President, Head of Marketing",
-          "url": "https://job-boards.greenhouse.io/lilasciences/jobs/4146076009",
-          "location": "Cambridge, MA USA",
-          "raw_updated_at": "2026-09-02T01:00:32-04:00",
-          "tags": [],
-          "first_seen": "2026-07-17"
-        }
-      ],
+      "removed": [],
       "changed": [],
       "total_postings": 116
     },
@@ -34,47 +23,266 @@
       "added": [
         {
           "board_id": "anduril",
-          "posting_id": "5222558007",
-          "title": "Security Operations Analyst, UK",
-          "url": "https://boards.greenhouse.io/andurilindustries/jobs/5222558007?gh_jid=5222558007",
-          "location": "London, England, United Kingdom",
-          "raw_updated_at": "2026-09-07T10:32:44-04:00",
+          "posting_id": "5130695007",
+          "title": "Battery Test Technician",
+          "url": "https://boards.greenhouse.io/andurilindustries/jobs/5130695007?gh_jid=5130695007",
+          "location": "Costa Mesa, California, United States",
+          "raw_updated_at": "2026-09-08T08:32:25-04:00",
           "tags": [],
-          "first_seen": "2026-09-07"
+          "first_seen": "2026-09-08"
+        },
+        {
+          "board_id": "anduril",
+          "posting_id": "5232200007",
+          "title": "Hardware Test Engineering Manager",
+          "url": "https://boards.greenhouse.io/andurilindustries/jobs/5232200007?gh_jid=5232200007",
+          "location": "Irvine, California, United States",
+          "raw_updated_at": "2026-09-08T09:25:45-04:00",
+          "tags": [],
+          "first_seen": "2026-09-08"
+        },
+        {
+          "board_id": "anduril",
+          "posting_id": "5232203007",
+          "title": "Manufacturing Engineer, Electromagnetic Warfare",
+          "url": "https://boards.greenhouse.io/andurilindustries/jobs/5232203007?gh_jid=5232203007",
+          "location": "Irvine, California, United States",
+          "raw_updated_at": "2026-09-08T09:29:59-04:00",
+          "tags": [],
+          "first_seen": "2026-09-08"
+        },
+        {
+          "board_id": "anduril",
+          "posting_id": "5232202007",
+          "title": "Manufacturing Test Engineering Manager",
+          "url": "https://boards.greenhouse.io/andurilindustries/jobs/5232202007?gh_jid=5232202007",
+          "location": "Irvine, California, United States",
+          "raw_updated_at": "2026-09-08T09:28:48-04:00",
+          "tags": [],
+          "first_seen": "2026-09-08"
+        },
+        {
+          "board_id": "anduril",
+          "posting_id": "5232201007",
+          "title": "Production Test Engineering Manager",
+          "url": "https://boards.greenhouse.io/andurilindustries/jobs/5232201007?gh_jid=5232201007",
+          "location": "Irvine, California, United States",
+          "raw_updated_at": "2026-09-08T09:28:06-04:00",
+          "tags": [],
+          "first_seen": "2026-09-08"
+        },
+        {
+          "board_id": "anduril",
+          "posting_id": "5229357007",
+          "title": "Reliability Engineering Manager",
+          "url": "https://boards.greenhouse.io/andurilindustries/jobs/5229357007?gh_jid=5229357007",
+          "location": "Costa Mesa, California, United States",
+          "raw_updated_at": "2026-09-07T17:58:25-04:00",
+          "tags": [],
+          "first_seen": "2026-09-08"
+        },
+        {
+          "board_id": "anduril",
+          "posting_id": "5232204007",
+          "title": "Senior Electro-Mechanical Manufacturing Engineer",
+          "url": "https://boards.greenhouse.io/andurilindustries/jobs/5232204007?gh_jid=5232204007",
+          "location": "Irvine, California, United States",
+          "raw_updated_at": "2026-09-08T09:31:47-04:00",
+          "tags": [],
+          "first_seen": "2026-09-08"
+        },
+        {
+          "board_id": "anduril",
+          "posting_id": "5213033007",
+          "title": "Senior Program Finance Manager, AD&S",
+          "url": "https://boards.greenhouse.io/andurilindustries/jobs/5213033007?gh_jid=5213033007",
+          "location": "Costa Mesa, California, United States",
+          "raw_updated_at": "2026-09-08T09:49:25-04:00",
+          "tags": [],
+          "first_seen": "2026-09-08"
         }
       ],
-      "removed": [],
-      "changed": [],
-      "total_postings": 2212
+      "removed": [
+        {
+          "board_id": "anduril",
+          "posting_id": "5107188007",
+          "title": "Manager, Missiles Reliability Engineering",
+          "url": "https://boards.greenhouse.io/andurilindustries/jobs/5107188007?gh_jid=5107188007",
+          "location": "Costa Mesa, California, United States",
+          "raw_updated_at": "2026-09-07T08:27:57-04:00",
+          "tags": [],
+          "first_seen": "2026-07-17"
+        },
+        {
+          "board_id": "anduril",
+          "posting_id": "5139652007",
+          "title": "Senior Manager, Talent Acquisition, TRS",
+          "url": "https://boards.greenhouse.io/andurilindustries/jobs/5139652007?gh_jid=5139652007",
+          "location": "Costa Mesa, California, United States",
+          "raw_updated_at": "2026-09-07T08:49:31-04:00",
+          "tags": [],
+          "first_seen": "2026-08-06"
+        },
+        {
+          "board_id": "anduril",
+          "posting_id": "5162461007",
+          "title": "Senior Manager, Talent Acquisition, TRS",
+          "url": "https://boards.greenhouse.io/andurilindustries/jobs/5162461007?gh_jid=5162461007",
+          "location": "Seattle, Washington, United States",
+          "raw_updated_at": "2026-09-07T08:49:31-04:00",
+          "tags": [],
+          "first_seen": "2026-08-06"
+        },
+        {
+          "board_id": "anduril",
+          "posting_id": "5199983007",
+          "title": "Product Operations Technical Specialist, Launched Effects",
+          "url": "https://boards.greenhouse.io/andurilindustries/jobs/5199983007?gh_jid=5199983007",
+          "location": "Atlanta, Georgia, United States",
+          "raw_updated_at": "2026-09-07T07:33:50-04:00",
+          "tags": [],
+          "first_seen": "2026-08-03"
+        },
+        {
+          "board_id": "anduril",
+          "posting_id": "5221259007",
+          "title": "Manufacturing Engineer, Electromagnetic Warfare",
+          "url": "https://boards.greenhouse.io/andurilindustries/jobs/5221259007?gh_jid=5221259007",
+          "location": "Irvine, California, United States",
+          "raw_updated_at": "2026-09-02T20:46:09-04:00",
+          "tags": [],
+          "first_seen": "2026-08-26"
+        },
+        {
+          "board_id": "anduril",
+          "posting_id": "5224068007",
+          "title": "Manufacturing Test Engineering Manager",
+          "url": "https://boards.greenhouse.io/andurilindustries/jobs/5224068007?gh_jid=5224068007",
+          "location": "Irvine, California, United States",
+          "raw_updated_at": "2026-09-07T10:10:49-04:00",
+          "tags": [],
+          "first_seen": "2026-08-27"
+        },
+        {
+          "board_id": "anduril",
+          "posting_id": "5228995007",
+          "title": "Senior Manufacturing Engineer, Electromechanical Systems",
+          "url": "https://boards.greenhouse.io/andurilindustries/jobs/5228995007?gh_jid=5228995007",
+          "location": "Irvine, California, United States",
+          "raw_updated_at": "2026-09-02T20:46:09-04:00",
+          "tags": [],
+          "first_seen": "2026-09-03"
+        }
+      ],
+      "changed": [
+        {
+          "previous": {
+            "board_id": "anduril",
+            "posting_id": "5172474007",
+            "title": "Reliability Engineer ",
+            "url": "https://boards.greenhouse.io/andurilindustries/jobs/5172474007?gh_jid=5172474007",
+            "location": "Atlanta, Georgia, United States; Quonset, Rhode Island, United States",
+            "raw_updated_at": "2026-09-02T20:46:09-04:00",
+            "tags": [],
+            "first_seen": "2026-07-17"
+          },
+          "current": {
+            "board_id": "anduril",
+            "posting_id": "5172474007",
+            "title": "Reliability Engineer ",
+            "url": "https://boards.greenhouse.io/andurilindustries/jobs/5172474007?gh_jid=5172474007",
+            "location": "Huntsville, Alabama, United States; Quonset, Rhode Island, United States",
+            "raw_updated_at": "2026-09-08T02:23:23-04:00",
+            "tags": [],
+            "first_seen": "2026-07-17"
+          }
+        },
+        {
+          "previous": {
+            "board_id": "anduril",
+            "posting_id": "5172472007",
+            "title": "Senior Reliability Engineer ",
+            "url": "https://boards.greenhouse.io/andurilindustries/jobs/5172472007?gh_jid=5172472007",
+            "location": "Atlanta, Georgia, United States; Quonset, Rhode Island, United States",
+            "raw_updated_at": "2026-09-02T20:46:09-04:00",
+            "tags": [],
+            "first_seen": "2026-07-17"
+          },
+          "current": {
+            "board_id": "anduril",
+            "posting_id": "5172472007",
+            "title": "Senior Reliability Engineer ",
+            "url": "https://boards.greenhouse.io/andurilindustries/jobs/5172472007?gh_jid=5172472007",
+            "location": "Huntsville, Alabama, United States; Quonset, Rhode Island, United States",
+            "raw_updated_at": "2026-09-08T02:26:55-04:00",
+            "tags": [],
+            "first_seen": "2026-07-17"
+          }
+        },
+        {
+          "previous": {
+            "board_id": "anduril",
+            "posting_id": "5172465007",
+            "title": "Staff Reliability Engineer ",
+            "url": "https://boards.greenhouse.io/andurilindustries/jobs/5172465007?gh_jid=5172465007",
+            "location": "Atlanta, Georgia, United States; Quonset, Rhode Island, United States",
+            "raw_updated_at": "2026-09-02T20:46:09-04:00",
+            "tags": [],
+            "first_seen": "2026-07-17"
+          },
+          "current": {
+            "board_id": "anduril",
+            "posting_id": "5172465007",
+            "title": "Staff Reliability Engineer ",
+            "url": "https://boards.greenhouse.io/andurilindustries/jobs/5172465007?gh_jid=5172465007",
+            "location": "Huntsville, Alabama, United States; Quonset, Rhode Island, United States",
+            "raw_updated_at": "2026-09-08T02:27:47-04:00",
+            "tags": [],
+            "first_seen": "2026-07-17"
+          }
+        }
+      ],
+      "total_postings": 2213
     },
     {
       "board_id": "formlabs",
       "status": "ok",
-      "added": [],
+      "added": [
+        {
+          "board_id": "formlabs",
+          "posting_id": "8185102",
+          "title": "Senior Advanced Manufacturing Manager",
+          "url": "https://careers.formlabs.com/job/8185102/apply/?gh_jid=8185102",
+          "location": "Somerville, MA",
+          "raw_updated_at": "2026-09-07T20:40:18-04:00",
+          "tags": [],
+          "first_seen": "2026-09-08"
+        }
+      ],
       "removed": [
         {
           "board_id": "formlabs",
-          "posting_id": "8111877",
-          "title": "AR Specialist",
-          "url": "https://careers.formlabs.com/job/8111877/apply/?gh_jid=8111877",
-          "location": "Budapest, Hungary",
-          "raw_updated_at": "2026-08-06T09:40:42-04:00",
+          "posting_id": "7818849",
+          "title": "Senior Advanced Manufacturing Manager",
+          "url": "https://careers.formlabs.com/job/7818849/apply/?gh_jid=7818849",
+          "location": "Somerville, MA",
+          "raw_updated_at": "2026-07-20T10:58:46-04:00",
           "tags": [],
-          "first_seen": "2026-08-07"
+          "first_seen": "2026-07-17"
         },
         {
           "board_id": "formlabs",
-          "posting_id": "8111880",
-          "title": "Senior Accounts Receivable Specialist",
-          "url": "https://careers.formlabs.com/job/8111880/apply/?gh_jid=8111880",
-          "location": "Budapest, Hungary",
-          "raw_updated_at": "2026-08-06T09:41:25-04:00",
+          "posting_id": "7818913",
+          "title": "Senior Advanced Manufacturing Manager",
+          "url": "https://careers.formlabs.com/job/7818913/apply/?gh_jid=7818913",
+          "location": "Boston, MA",
+          "raw_updated_at": "2026-07-20T10:58:46-04:00",
           "tags": [],
-          "first_seen": "2026-08-07"
+          "first_seen": "2026-07-17"
         }
       ],
       "changed": [],
-      "total_postings": 204
+      "total_postings": 203
     },
     {
       "board_id": "str",
@@ -88,9 +296,65 @@
       "board_id": "draper",
       "status": "ok",
       "added": [],
-      "removed": [],
-      "changed": [],
-      "total_postings": 210
+      "removed": [
+        {
+          "board_id": "draper",
+          "posting_id": "JR002362",
+          "title": "Principal Requirements and Test Engineer",
+          "url": "https://draper.wd5.myworkdayjobs.com/en-US/Draper_Careers/job/Cambridge-MA/Senior-Systems--Integration-and-Test-Engineer_JR002362",
+          "location": "Cambridge, MA",
+          "raw_updated_at": "Posted 12 Days Ago",
+          "tags": [],
+          "first_seen": "2026-07-17"
+        },
+        {
+          "board_id": "draper",
+          "posting_id": "JR002721",
+          "title": "Space GNC Co-Op (Fall 2026)",
+          "url": "https://draper.wd5.myworkdayjobs.com/en-US/Draper_Careers/job/Houston-TX/Space-GNC-Co-Op--Fall-2026-_JR002721",
+          "location": "Houston, TX",
+          "raw_updated_at": "Posted 14 Days Ago",
+          "tags": [
+            "student-role"
+          ],
+          "first_seen": "2026-08-03"
+        },
+        {
+          "board_id": "draper",
+          "posting_id": "JR002743",
+          "title": "Government Property & Shipping Director 2",
+          "url": "https://draper.wd5.myworkdayjobs.com/en-US/Draper_Careers/job/Cambridge-MA/Government-Property---Shipping-Director_JR002743",
+          "location": "2 Locations",
+          "raw_updated_at": "Posted 30+ Days Ago",
+          "tags": [],
+          "first_seen": "2026-08-05"
+        }
+      ],
+      "changed": [
+        {
+          "previous": {
+            "board_id": "draper",
+            "posting_id": "JR002674",
+            "title": "Principal Integration and Test Engineer",
+            "url": "https://draper.wd5.myworkdayjobs.com/en-US/Draper_Careers/job/Cambridge-MA/Principal-Integration-and-Test-Engineer_JR002674",
+            "location": "Cambridge, MA",
+            "raw_updated_at": "Posted 13 Days Ago",
+            "tags": [],
+            "first_seen": "2026-07-17"
+          },
+          "current": {
+            "board_id": "draper",
+            "posting_id": "JR002674",
+            "title": "Principal Sensor Integration and Test Engineer",
+            "url": "https://draper.wd5.myworkdayjobs.com/en-US/Draper_Careers/job/Cambridge-MA/Principal-Integration-and-Test-Engineer_JR002674",
+            "location": "Cambridge, MA",
+            "raw_updated_at": "Posted Today",
+            "tags": [],
+            "first_seen": "2026-07-17"
+          }
+        }
+      ],
+      "total_postings": 207
     },
     {
       "board_id": "merl",
@@ -110,9 +374,9 @@
     }
   ],
   "summary": {
-    "added": 1,
-    "removed": 3,
-    "changed": 0,
+    "added": 9,
+    "removed": 12,
+    "changed": 4,
     "boards_ok": 8,
     "boards_error": 0,
     "boards_skipped": 0
