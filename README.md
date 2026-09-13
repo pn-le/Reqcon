@@ -86,7 +86,7 @@ Tip: before writing selectors, check whether the site embeds Greenhouse/Workday 
 ---
 
 <!-- REQCON:START -->
-**Last scan:** 2026-09-12 09:48 EDT · 8 boards · 43 new · 25 removed
+**Last scan:** 2026-09-13 10:44 EDT · 8 boards · 27 new · 26 removed
 
 ✅ Lila Sciences · ✅ BillionToOne · ✅ Anduril · ✅ Formlabs · ✅ STR · ✅ Draper · ✅ MERL (Mitsubishi Electric Research Labs) · ✅ Ubicept
 
@@ -104,31 +104,31 @@ Tip: before writing selectors, check whether the site embeds Greenhouse/Workday 
 | 🎓 Anduril | [2027 Software Quality Assurance Intern](https://boards.greenhouse.io/andurilindustries/jobs/5232025007?gh_jid=5232025007) | Dublin, Dublin, Ireland | 2026-09-09 |
 | 🎓 Formlabs | [AI Software Intern (Winter/Spring 2027)](https://careers.formlabs.com/job/8174874/apply/?gh_jid=8174874) | Somerville, MA | 2026-09-09 |
 | 🎓 MERL (Mitsubishi Electric Research Labs) | [MS0326: Internship - Scalable Numerical Solvers for Systems of Learned Dynamical Components](https://www.merl.com/employment/internship-openings#MS0326) | — | 2026-09-09 |
-| Anduril | [Asset Improvement Lead](https://boards.greenhouse.io/andurilindustries/jobs/5156362007?gh_jid=5156362007) | Costa Mesa, California, United States | 2026-09-12 |
-| Anduril | [Business Operations, Production](https://boards.greenhouse.io/andurilindustries/jobs/5236241007?gh_jid=5236241007) | Washington, District of Columbia, United States | 2026-09-12 |
-| Anduril | [Composite Technician, Second Shift](https://boards.greenhouse.io/andurilindustries/jobs/5217340007?gh_jid=5217340007) | Morrisville, North Carolina, United States | 2026-09-12 |
-| Anduril | [Construction Systems Specialist](https://boards.greenhouse.io/andurilindustries/jobs/5124525007?gh_jid=5124525007) | Costa Mesa, California, United States | 2026-09-12 |
-| Anduril | [Contract Technical Recruiter, Production (Technicians)](https://boards.greenhouse.io/andurilindustries/jobs/5236226007?gh_jid=5236226007) | Ashville, Ohio, United States | 2026-09-12 |
-| Anduril | [Deployment Engineer](https://boards.greenhouse.io/andurilindustries/jobs/5235565007?gh_jid=5235565007) | Broomfield, Colorado, United States; Fort Collins, Colorado, United States | 2026-09-12 |
-| Anduril | [Electrical Integration Systems Engineer, Edge Compute and Communications](https://boards.greenhouse.io/andurilindustries/jobs/5233989007?gh_jid=5233989007) | Costa Mesa, California, United States | 2026-09-12 |
-| Anduril | [Global Sourcing Manager, Connectors & Wire Harness](https://boards.greenhouse.io/andurilindustries/jobs/5162284007?gh_jid=5162284007) | Costa Mesa, California, United States | 2026-09-12 |
-| Anduril | [Information Systems Security Officer, Space](https://boards.greenhouse.io/andurilindustries/jobs/5236276007?gh_jid=5236276007) | Costa Mesa, California, United States | 2026-09-12 |
-| Anduril | [Lead Manufacturing Engineer, Analytics / Digital Tools](https://boards.greenhouse.io/andurilindustries/jobs/5009792007?gh_jid=5009792007) | Costa Mesa, California, United States | 2026-09-12 |
-| Anduril | [Manager, Material Planning, Counter Intrusion ](https://boards.greenhouse.io/andurilindustries/jobs/5235660007?gh_jid=5235660007) | Costa Mesa, California, United States | 2026-09-12 |
-| Anduril | [Manufacturing Security Operations Manager](https://boards.greenhouse.io/andurilindustries/jobs/5234809007?gh_jid=5234809007) | McHenry, Mississippi, United States | 2026-09-12 |
-| Anduril | [Perception Systems Engineer](https://boards.greenhouse.io/andurilindustries/jobs/5219399007?gh_jid=5219399007) | Costa Mesa, California, United States | 2026-09-12 |
-| Anduril | [Product Test Engineer, EW](https://boards.greenhouse.io/andurilindustries/jobs/5227691007?gh_jid=5227691007) | Irvine, California, United States | 2026-09-12 |
-| Anduril | [Production Software Engineer](https://boards.greenhouse.io/andurilindustries/jobs/5189514007?gh_jid=5189514007) | Fort Collins, Colorado, United States | 2026-09-12 |
-| Anduril | [Quality Specialist, Intelligence Systems ](https://boards.greenhouse.io/andurilindustries/jobs/5230802007?gh_jid=5230802007) | Ashville, Ohio, United States | 2026-09-12 |
-| Anduril | [Quality Systems Engineer](https://boards.greenhouse.io/andurilindustries/jobs/5200601007?gh_jid=5200601007) | Ashville, Ohio, United States | 2026-09-12 |
-| Anduril | [Senior Commodity Engineer, Electronics ](https://boards.greenhouse.io/andurilindustries/jobs/5235985007?gh_jid=5235985007) | Boulder, Colorado, United States | 2026-09-12 |
-| Anduril | [Senior Director, Business Development, Air Defense](https://boards.greenhouse.io/andurilindustries/jobs/5178152007?gh_jid=5178152007) | Costa Mesa, California, United States | 2026-09-12 |
-| Anduril | [Senior Electrical Integration Systems Engineer, Edge Compute and Communications](https://boards.greenhouse.io/andurilindustries/jobs/5236153007?gh_jid=5236153007) | Costa Mesa, California, United States | 2026-09-12 |
+| Anduril | [GNC Software Engineer](https://boards.greenhouse.io/andurilindustries/jobs/5236464007?gh_jid=5236464007) | Waltham, Massachusetts, United States | 2026-09-13 |
+| Anduril | [Research Scientist, Battlespace Awareness](https://boards.greenhouse.io/andurilindustries/jobs/5236456007?gh_jid=5236456007) | Waltham, Massachusetts, United States | 2026-09-13 |
+| Anduril | [Research Scientist, Battlespace Awareness ](https://boards.greenhouse.io/andurilindustries/jobs/5236457007?gh_jid=5236457007) | Broomfield, Colorado, United States | 2026-09-13 |
+| Anduril | [Senior GNC Software Engineer](https://boards.greenhouse.io/andurilindustries/jobs/5236465007?gh_jid=5236465007) | Waltham, Massachusetts, United States | 2026-09-13 |
+| Anduril | [Senior Research Scientist, Battlespace Awareness](https://boards.greenhouse.io/andurilindustries/jobs/5236458007?gh_jid=5236458007) | Broomfield, Colorado, United States | 2026-09-13 |
+| Anduril | [Senior Research Scientist, Battlespace Awareness ](https://boards.greenhouse.io/andurilindustries/jobs/5236461007?gh_jid=5236461007) | Waltham, Massachusetts, United States | 2026-09-13 |
+| Anduril | [Senior Software Engineer, Battlespace Awareness ](https://boards.greenhouse.io/andurilindustries/jobs/5236466007?gh_jid=5236466007) | Broomfield, Colorado, United States | 2026-09-13 |
+| Anduril | [Senior Software Engineer, Battlespace Awareness ](https://boards.greenhouse.io/andurilindustries/jobs/5236469007?gh_jid=5236469007) | Waltham, Massachusetts, United States | 2026-09-13 |
+| Anduril | [Senior Software Engineer, Robotics Tracking and Fusion](https://boards.greenhouse.io/andurilindustries/jobs/5236498007?gh_jid=5236498007) | Waltham, Massachusetts, United States | 2026-09-13 |
+| Anduril | [Senior Software Engineer, Robotics Tracking and Fusion](https://boards.greenhouse.io/andurilindustries/jobs/5236499007?gh_jid=5236499007) | Washington, District of Columbia, United States | 2026-09-13 |
+| Anduril | [Senior Software Engineer, Robotics Tracking and Fusion](https://boards.greenhouse.io/andurilindustries/jobs/5236502007?gh_jid=5236502007) | Fort Collins, Colorado, United States | 2026-09-13 |
+| Anduril | [Senior Software Engineer, Rust ](https://boards.greenhouse.io/andurilindustries/jobs/5236470007?gh_jid=5236470007) | Broomfield, Colorado, United States | 2026-09-13 |
+| Anduril | [Senior Software Engineer, Rust ](https://boards.greenhouse.io/andurilindustries/jobs/5236473007?gh_jid=5236473007) | Waltham, Massachusetts, United States | 2026-09-13 |
+| Anduril | [Senior Software Engineer, State Estimation ](https://boards.greenhouse.io/andurilindustries/jobs/5236474007?gh_jid=5236474007) | Broomfield, Colorado, United States | 2026-09-13 |
+| Anduril | [Senior TPM, Mathematical Software & Algorithms](https://boards.greenhouse.io/andurilindustries/jobs/5236483007?gh_jid=5236483007) | Broomfield, Colorado, United States; Fort Collins, Colorado, United States | 2026-09-13 |
+| Anduril | [Software Engineer, Battlespace Awareness ](https://boards.greenhouse.io/andurilindustries/jobs/5236475007?gh_jid=5236475007) | Broomfield, Colorado, United States | 2026-09-13 |
+| Anduril | [Software Engineer, Battlespace Awareness ](https://boards.greenhouse.io/andurilindustries/jobs/5236476007?gh_jid=5236476007) | Waltham, Massachusetts, United States | 2026-09-13 |
+| Anduril | [Software Engineer, Robotics Tracking and Fusion](https://boards.greenhouse.io/andurilindustries/jobs/5236493007?gh_jid=5236493007) | Waltham, Massachusetts, United States | 2026-09-13 |
+| Anduril | [Software Engineer, Robotics Tracking and Fusion](https://boards.greenhouse.io/andurilindustries/jobs/5236494007?gh_jid=5236494007) | Washington, District of Columbia, United States | 2026-09-13 |
+| Anduril | [Software Engineer, Robotics Tracking and Fusion](https://boards.greenhouse.io/andurilindustries/jobs/5236495007?gh_jid=5236495007) | Fort Collins, Colorado, United States | 2026-09-13 |
 
-…and 230 more — see the [latest digest](reports/reqcon-2026-09-12.md).
+…and 257 more — see the [latest digest](reports/reqcon-2026-09-13.md).
 
 <details>
-<summary>All tracked postings (3051)</summary>
+<summary>All tracked postings (3052)</summary>
 
 **Lila Sciences** (115)
 - 🎓 [Co-Op, Data Extraction](https://job-boards.greenhouse.io/lilasciences/jobs/4280811009) — Cambridge, MA USA
@@ -338,7 +338,7 @@ Tip: before writing selectors, check whether the site embeds Greenhouse/Workday 
 - [Senior Software Engineer, Digital Experiences](https://job-boards.greenhouse.io/billiontoone/jobs/4683643005) — Menlo Park, CA
 - [Senior Software Engineer, Prenatal](https://job-boards.greenhouse.io/billiontoone/jobs/4305991005) — Menlo Park, CA
 
-**Anduril** (2292)
+**Anduril** (2293)
 - 🎓 [2026 Mechanical Engineering Intern](https://boards.greenhouse.io/andurilindustries/jobs/5211102007?gh_jid=5211102007) — Sydney, New South Wales, Australia
 - 🎓 [2026 Robotics Engineer Intern](https://boards.greenhouse.io/andurilindustries/jobs/5211095007?gh_jid=5211095007) — Sydney, New South Wales, Australia
 - 🎓 [2026 Software Engineering Intern](https://boards.greenhouse.io/andurilindustries/jobs/5211077007?gh_jid=5211077007) — Sydney, New South Wales, Australia
@@ -536,7 +536,7 @@ Tip: before writing selectors, check whether the site embeds Greenhouse/Workday 
 - [CW Production Recruiting Lead](https://boards.greenhouse.io/andurilindustries/jobs/5230556007?gh_jid=5230556007) — Washington, District of Columbia, United States
 - [CW Production Recruiting Lead](https://boards.greenhouse.io/andurilindustries/jobs/5230562007?gh_jid=5230562007) — Atlanta, Georgia, United States
 
-_…truncated at 400 rows (3051 total)._
+_…truncated at 400 rows (3052 total)._
 
 </details>
 <!-- REQCON:END -->
