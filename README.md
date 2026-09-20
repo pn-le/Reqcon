@@ -86,7 +86,7 @@ Tip: before writing selectors, check whether the site embeds Greenhouse/Workday 
 ---
 
 <!-- REQCON:START -->
-**Last scan:** 2026-09-19 10:03 EDT · 8 boards · 66 new · 34 removed
+**Last scan:** 2026-09-20 10:23 EDT · 8 boards · 2 new · 0 removed
 
 ✅ Lila Sciences · ✅ BillionToOne · ✅ Anduril · ✅ Formlabs · ✅ STR · ✅ Draper · ✅ MERL (Mitsubishi Electric Research Labs) · ✅ Ubicept
 
@@ -112,6 +112,8 @@ Tip: before writing selectors, check whether the site embeds Greenhouse/Workday 
 | 🎓 BillionToOne | [Research Associate Intern](https://job-boards.greenhouse.io/billiontoone/jobs/4733845005) | Menlo Park, CA | 2026-09-15 |
 | 🎓 Formlabs | [Materials Intern (Winter/Spring 2027)](https://careers.formlabs.com/job/8199092/apply/?gh_jid=8199092) | Somerville, MA | 2026-09-14 |
 | 🎓 Formlabs | [Print Process Intern (Winter/Spring 2027)](https://careers.formlabs.com/job/8199269/apply/?gh_jid=8199269) | Somerville, MA | 2026-09-14 |
+| Anduril | [Electrical Technician](https://boards.greenhouse.io/andurilindustries/jobs/5240664007?gh_jid=5240664007) | Dublin, Dublin, Ireland | 2026-09-20 |
+| Anduril | [Senior Mechanical Engineer](https://boards.greenhouse.io/andurilindustries/jobs/5240667007?gh_jid=5240667007) | Dublin, Dublin, Ireland | 2026-09-20 |
 | Anduril | [Associate Director, Corporate Planning & Operations](https://boards.greenhouse.io/andurilindustries/jobs/4964602007?gh_jid=4964602007) | Costa Mesa, California, United States | 2026-09-19 |
 | Anduril | [Associate Director, Global Supply Chain Integration (Europe)](https://boards.greenhouse.io/andurilindustries/jobs/5243001007?gh_jid=5243001007) | Amsterdam, North Holland, Netherlands | 2026-09-19 |
 | Anduril | [Associate Director, Global Supply Chain Integration (Japan)](https://boards.greenhouse.io/andurilindustries/jobs/5243008007?gh_jid=5243008007) | Tokyo, Japan | 2026-09-19 |
@@ -122,13 +124,11 @@ Tip: before writing selectors, check whether the site embeds Greenhouse/Workday 
 | Anduril | [Director, Global Supply Chain Integration (Japan)](https://boards.greenhouse.io/andurilindustries/jobs/5243013007?gh_jid=5243013007) | Tokyo, Japan | 2026-09-19 |
 | Anduril | [Facilities Manager](https://boards.greenhouse.io/andurilindustries/jobs/5239042007?gh_jid=5239042007) | Hudson, New Hampshire, United States | 2026-09-19 |
 | Anduril | [Finance Manager, Intel](https://boards.greenhouse.io/andurilindustries/jobs/5242747007?gh_jid=5242747007) | Reston, Virginia, United States | 2026-09-19 |
-| Anduril | [Finance Manager, SG&A Finance](https://boards.greenhouse.io/andurilindustries/jobs/5242720007?gh_jid=5242720007) | Costa Mesa, California, United States | 2026-09-19 |
-| Anduril | [Firmware Engineer, Manufacturing Test](https://boards.greenhouse.io/andurilindustries/jobs/4987908007?gh_jid=4987908007) | Costa Mesa, California, United States | 2026-09-19 |
 
-…and 338 more — see the [latest digest](reports/reqcon-2026-09-19.md).
+…and 315 more — see the [latest digest](reports/reqcon-2026-09-20.md).
 
 <details>
-<summary>All tracked postings (3150)</summary>
+<summary>All tracked postings (3152)</summary>
 
 **Lila Sciences** (112)
 - 🎓 [Co-Op, Data Extraction](https://job-boards.greenhouse.io/lilasciences/jobs/4280811009) — Cambridge, MA USA
@@ -329,7 +329,7 @@ Tip: before writing selectors, check whether the site embeds Greenhouse/Workday 
 - [Senior Software Engineer, Prenatal](https://job-boards.greenhouse.io/billiontoone/jobs/4305991005) — Menlo Park, CA
 - [Senior Stock Plan Administrator ](https://job-boards.greenhouse.io/billiontoone/jobs/4730826005) — Menlo Park, CA
 
-**Anduril** (2374)
+**Anduril** (2376)
 - 🎓 [2026 Mechanical Engineering Intern](https://boards.greenhouse.io/andurilindustries/jobs/5211102007?gh_jid=5211102007) — Sydney, New South Wales, Australia
 - 🎓 [2026 Robotics Engineer Intern](https://boards.greenhouse.io/andurilindustries/jobs/5211095007?gh_jid=5211095007) — Sydney, New South Wales, Australia
 - 🎓 [2026 Software Engineering Intern](https://boards.greenhouse.io/andurilindustries/jobs/5211077007?gh_jid=5211077007) — Sydney, New South Wales, Australia
@@ -536,7 +536,7 @@ Tip: before writing selectors, check whether the site embeds Greenhouse/Workday 
 - [Demand & Supply Planner, Air Defense](https://boards.greenhouse.io/andurilindustries/jobs/5200160007?gh_jid=5200160007) — Costa Mesa, California, United States
 - [Demand & Supply Planner, Air Dominance & Strike](https://boards.greenhouse.io/andurilindustries/jobs/5165226007?gh_jid=5165226007) — Costa Mesa, California, United States
 
-_…truncated at 400 rows (3150 total)._
+_…truncated at 400 rows (3152 total)._
 
 </details>
 <!-- REQCON:END -->
