@@ -1,6 +1,6 @@
 {
   "lila-sciences": {
-    "fetched_at": "2026-10-02T12:25:26.533136-04:00",
+    "fetched_at": "2026-10-03T10:59:14.172674-04:00",
     "postings": [
       {
         "board_id": "lila-sciences",
@@ -481,6 +481,16 @@
         "raw_updated_at": "2026-09-02T01:00:39-04:00",
         "tags": [],
         "first_seen": "2026-07-17"
+      },
+      {
+        "board_id": "lila-sciences",
+        "posting_id": "4277806009",
+        "title": "Engineer I, Research Operations, (1st shift)",
+        "url": "https://job-boards.greenhouse.io/lilasciences/jobs/4277806009",
+        "location": "Cambridge, MA USA",
+        "raw_updated_at": "2026-10-02T14:13:18-04:00",
+        "tags": [],
+        "first_seen": "2026-10-03"
       },
       {
         "board_id": "lila-sciences",
@@ -1045,7 +1055,7 @@
     ]
   },
   "billiontoone": {
-    "fetched_at": "2026-10-02T12:25:26.533136-04:00",
+    "fetched_at": "2026-10-03T10:59:14.172674-04:00",
     "postings": [
       {
         "board_id": "billiontoone",
@@ -1473,7 +1483,7 @@
         "title": "Sales Training Manager, Prenatal",
         "url": "https://job-boards.greenhouse.io/billiontoone/jobs/4711331005",
         "location": "Remote",
-        "raw_updated_at": "2026-07-21T20:55:27-04:00",
+        "raw_updated_at": "2026-10-02T14:23:40-04:00",
         "tags": [],
         "first_seen": "2026-07-17"
       },
@@ -1543,7 +1553,7 @@
         "title": "Prenatal Account Executive",
         "url": "https://job-boards.greenhouse.io/billiontoone/jobs/4720160005",
         "location": "Salt Lake City, UT",
-        "raw_updated_at": "2026-08-24T13:53:32-04:00",
+        "raw_updated_at": "2026-10-02T19:53:36-04:00",
         "tags": [],
         "first_seen": "2026-08-03"
       },
@@ -1825,7 +1835,7 @@
         "title": "Prenatal Account Executive",
         "url": "https://job-boards.greenhouse.io/billiontoone/jobs/4736895005",
         "location": "St. George, UT",
-        "raw_updated_at": "2026-09-24T13:45:21-04:00",
+        "raw_updated_at": "2026-10-02T19:56:53-04:00",
         "tags": [],
         "first_seen": "2026-09-25"
       },
@@ -1862,7 +1872,7 @@
     ]
   },
   "anduril": {
-    "fetched_at": "2026-10-02T12:25:26.533136-04:00",
+    "fetched_at": "2026-10-03T10:59:14.172674-04:00",
     "postings": [
       {
         "board_id": "anduril",
@@ -4756,6 +4766,16 @@
       },
       {
         "board_id": "anduril",
+        "posting_id": "5030386007",
+        "title": "DevOps Engineer",
+        "url": "https://boards.greenhouse.io/andurilindustries/jobs/5030386007?gh_jid=5030386007",
+        "location": "Fort Collins, Colorado, United States",
+        "raw_updated_at": "2026-10-02T21:48:28-04:00",
+        "tags": [],
+        "first_seen": "2026-10-03"
+      },
+      {
+        "board_id": "anduril",
         "posting_id": "5030602007",
         "title": "Director, Manufacturing Engineering, Intelligence Systems",
         "url": "https://boards.greenhouse.io/andurilindustries/jobs/5030602007?gh_jid=5030602007",
@@ -6266,16 +6286,6 @@
       },
       {
         "board_id": "anduril",
-        "posting_id": "5082586007",
-        "title": "Director of Maneuver Dominance & Maritime, International Trade Compliance",
-        "url": "https://boards.greenhouse.io/andurilindustries/jobs/5082586007?gh_jid=5082586007",
-        "location": "Washington, District of Columbia, United States",
-        "raw_updated_at": "2026-09-24T15:54:51-04:00",
-        "tags": [],
-        "first_seen": "2026-07-17"
-      },
-      {
-        "board_id": "anduril",
         "posting_id": "5082600007",
         "title": "Staff Manufacturing Engineer, Mechanical Actuation Systems",
         "url": "https://boards.greenhouse.io/andurilindustries/jobs/5082600007?gh_jid=5082600007",
@@ -6836,16 +6846,6 @@
       },
       {
         "board_id": "anduril",
-        "posting_id": "5100621007",
-        "title": "Director of Maneuver Dominance & Maritime, International Trade Compliance",
-        "url": "https://boards.greenhouse.io/andurilindustries/jobs/5100621007?gh_jid=5100621007",
-        "location": "Costa Mesa, California, United States",
-        "raw_updated_at": "2026-09-24T15:54:51-04:00",
-        "tags": [],
-        "first_seen": "2026-07-17"
-      },
-      {
-        "board_id": "anduril",
         "posting_id": "5100663007",
         "title": "Mission Operations Engineer",
         "url": "https://boards.greenhouse.io/andurilindustries/jobs/5100663007?gh_jid=5100663007",
@@ -6940,7 +6940,7 @@
         "title": "Chief Engineer, Maritime Integrated Systems",
         "url": "https://boards.greenhouse.io/andurilindustries/jobs/5103884007?gh_jid=5103884007",
         "location": "Quincy, Massachusetts, United States",
-        "raw_updated_at": "2026-09-24T15:54:51-04:00",
+        "raw_updated_at": "2026-10-02T13:06:52-04:00",
         "tags": [],
         "first_seen": "2026-07-17"
       },
@@ -7347,10 +7347,10 @@
       {
         "board_id": "anduril",
         "posting_id": "5116367007",
-        "title": "NPI Engineer, Actuators",
+        "title": "Manufacturing Engineer, Actuators",
         "url": "https://boards.greenhouse.io/andurilindustries/jobs/5116367007?gh_jid=5116367007",
         "location": "Costa Mesa, California, United States",
-        "raw_updated_at": "2026-09-29T10:51:30-04:00",
+        "raw_updated_at": "2026-10-02T21:09:07-04:00",
         "tags": [],
         "first_seen": "2026-09-29"
       },
@@ -7846,16 +7846,6 @@
       },
       {
         "board_id": "anduril",
-        "posting_id": "5129455007",
-        "title": "Senior Technical Program Manager, Small Drones ",
-        "url": "https://boards.greenhouse.io/andurilindustries/jobs/5129455007?gh_jid=5129455007",
-        "location": "Costa Mesa, California, United States",
-        "raw_updated_at": "2026-09-24T15:54:51-04:00",
-        "tags": [],
-        "first_seen": "2026-08-11"
-      },
-      {
-        "board_id": "anduril",
         "posting_id": "5129637007",
         "title": "Senior Product Designer, Design Systems",
         "url": "https://boards.greenhouse.io/andurilindustries/jobs/5129637007?gh_jid=5129637007",
@@ -7943,6 +7933,16 @@
         "raw_updated_at": "2026-09-30T13:42:09-04:00",
         "tags": [],
         "first_seen": "2026-10-01"
+      },
+      {
+        "board_id": "anduril",
+        "posting_id": "5131244007",
+        "title": "Staff Technical Program Manager, Game Development",
+        "url": "https://boards.greenhouse.io/andurilindustries/jobs/5131244007?gh_jid=5131244007",
+        "location": "Costa Mesa, California, United States",
+        "raw_updated_at": "2026-10-02T15:23:42-04:00",
+        "tags": [],
+        "first_seen": "2026-10-03"
       },
       {
         "board_id": "anduril",
@@ -8940,16 +8940,6 @@
       },
       {
         "board_id": "anduril",
-        "posting_id": "5150729007",
-        "title": "Software Program Manager - Radar",
-        "url": "https://boards.greenhouse.io/andurilindustries/jobs/5150729007?gh_jid=5150729007",
-        "location": "Fort Collins, Colorado, United States",
-        "raw_updated_at": "2026-09-24T15:54:51-04:00",
-        "tags": [],
-        "first_seen": "2026-09-22"
-      },
-      {
-        "board_id": "anduril",
         "posting_id": "5151123007",
         "title": "Materials Associate",
         "url": "https://boards.greenhouse.io/andurilindustries/jobs/5151123007?gh_jid=5151123007",
@@ -9714,16 +9704,6 @@
       },
       {
         "board_id": "anduril",
-        "posting_id": "5159567007",
-        "title": "Service Desk Analyst",
-        "url": "https://boards.greenhouse.io/andurilindustries/jobs/5159567007?gh_jid=5159567007",
-        "location": "Quincy, Massachusetts, United States",
-        "raw_updated_at": "2026-09-24T15:54:51-04:00",
-        "tags": [],
-        "first_seen": "2026-08-12"
-      },
-      {
-        "board_id": "anduril",
         "posting_id": "5159698007",
         "title": "GNC Engineer",
         "url": "https://boards.greenhouse.io/andurilindustries/jobs/5159698007?gh_jid=5159698007",
@@ -10445,10 +10425,10 @@
       {
         "board_id": "anduril",
         "posting_id": "5166878007",
-        "title": "Senior Energy Distribution & Management Engineer",
+        "title": "Senior Power Electronics Engineer",
         "url": "https://boards.greenhouse.io/andurilindustries/jobs/5166878007?gh_jid=5166878007",
         "location": "Costa Mesa, California, United States",
-        "raw_updated_at": "2026-09-24T15:54:51-04:00",
+        "raw_updated_at": "2026-10-02T15:04:03-04:00",
         "tags": [],
         "first_seen": "2026-08-03"
       },
@@ -10475,10 +10455,10 @@
       {
         "board_id": "anduril",
         "posting_id": "5166948007",
-        "title": "Endurance Systems Lead",
+        "title": "Mechanical Engineer, Lifting and Handling Equipment",
         "url": "https://boards.greenhouse.io/andurilindustries/jobs/5166948007?gh_jid=5166948007",
         "location": "Costa Mesa, California, United States",
-        "raw_updated_at": "2026-09-24T15:54:51-04:00",
+        "raw_updated_at": "2026-10-02T17:15:57-04:00",
         "tags": [],
         "first_seen": "2026-07-17"
       },
@@ -10495,10 +10475,10 @@
       {
         "board_id": "anduril",
         "posting_id": "5167055007",
-        "title": "Autonomy Lead",
+        "title": "Senior Software Engineer, Vehicle Management Systems ",
         "url": "https://boards.greenhouse.io/andurilindustries/jobs/5167055007?gh_jid=5167055007",
         "location": "Costa Mesa, California, United States",
-        "raw_updated_at": "2026-09-24T15:54:51-04:00",
+        "raw_updated_at": "2026-10-02T14:58:02-04:00",
         "tags": [],
         "first_seen": "2026-07-17"
       },
@@ -11145,10 +11125,10 @@
       {
         "board_id": "anduril",
         "posting_id": "5173854007",
-        "title": "Senior NPI Engineer, Actuators",
+        "title": "Senior Manufacturing Engineer, Actuators",
         "url": "https://boards.greenhouse.io/andurilindustries/jobs/5173854007?gh_jid=5173854007",
         "location": "Costa Mesa, California, United States",
-        "raw_updated_at": "2026-09-29T10:51:21-04:00",
+        "raw_updated_at": "2026-10-02T21:09:20-04:00",
         "tags": [],
         "first_seen": "2026-09-29"
       },
@@ -12278,7 +12258,7 @@
         "title": "Robotic Software Engineer",
         "url": "https://boards.greenhouse.io/andurilindustries/jobs/5183145007?gh_jid=5183145007",
         "location": "Costa Mesa, California, United States",
-        "raw_updated_at": "2026-09-24T15:54:51-04:00",
+        "raw_updated_at": "2026-10-02T15:45:40-04:00",
         "tags": [],
         "first_seen": "2026-08-03"
       },
@@ -13255,10 +13235,10 @@
       {
         "board_id": "anduril",
         "posting_id": "5194918007",
-        "title": "Mission Systems Lead",
+        "title": "Senior Structural Engineer, Vehicle Primary Structure",
         "url": "https://boards.greenhouse.io/andurilindustries/jobs/5194918007?gh_jid=5194918007",
         "location": "Costa Mesa, California, United States",
-        "raw_updated_at": "2026-09-24T15:54:51-04:00",
+        "raw_updated_at": "2026-10-02T13:28:14-04:00",
         "tags": [],
         "first_seen": "2026-08-03"
       },
@@ -13998,7 +13978,7 @@
         "title": "Supply Chain Lead",
         "url": "https://boards.greenhouse.io/andurilindustries/jobs/5199802007?gh_jid=5199802007",
         "location": "Costa Mesa, California, United States",
-        "raw_updated_at": "2026-09-24T15:54:51-04:00",
+        "raw_updated_at": "2026-10-02T19:05:42-04:00",
         "tags": [],
         "first_seen": "2026-09-18"
       },
@@ -14008,7 +13988,7 @@
         "title": "Chief Engineer, Maritime Integrated Systems",
         "url": "https://boards.greenhouse.io/andurilindustries/jobs/5199934007?gh_jid=5199934007",
         "location": "Boston, Massachusetts, United States",
-        "raw_updated_at": "2026-09-24T15:54:51-04:00",
+        "raw_updated_at": "2026-10-02T13:07:13-04:00",
         "tags": [],
         "first_seen": "2026-08-03"
       },
@@ -14121,6 +14101,16 @@
         "raw_updated_at": "2026-09-24T15:54:51-04:00",
         "tags": [],
         "first_seen": "2026-08-21"
+      },
+      {
+        "board_id": "anduril",
+        "posting_id": "5200196007",
+        "title": "Additive Manufacturing Tech, FDM (3D Print)",
+        "url": "https://boards.greenhouse.io/andurilindustries/jobs/5200196007?gh_jid=5200196007",
+        "location": "Costa Mesa, California, United States",
+        "raw_updated_at": "2026-10-02T13:24:55-04:00",
+        "tags": [],
+        "first_seen": "2026-10-03"
       },
       {
         "board_id": "anduril",
@@ -14434,16 +14424,6 @@
       },
       {
         "board_id": "anduril",
-        "posting_id": "5202347007",
-        "title": "Senior Robotics Software Engineer, Behaviors",
-        "url": "https://boards.greenhouse.io/andurilindustries/jobs/5202347007?gh_jid=5202347007",
-        "location": "Costa Mesa, California, United States",
-        "raw_updated_at": "2026-09-24T15:54:51-04:00",
-        "tags": [],
-        "first_seen": "2026-08-15"
-      },
-      {
-        "board_id": "anduril",
         "posting_id": "5202391007",
         "title": "NX CAD Support Engineer",
         "url": "https://boards.greenhouse.io/andurilindustries/jobs/5202391007?gh_jid=5202391007",
@@ -14624,16 +14604,6 @@
       },
       {
         "board_id": "anduril",
-        "posting_id": "5203806007",
-        "title": "Manufacturing Engineer, Digital Tools",
-        "url": "https://boards.greenhouse.io/andurilindustries/jobs/5203806007?gh_jid=5203806007",
-        "location": "Boston, Massachusetts, United States",
-        "raw_updated_at": "2026-09-24T15:54:51-04:00",
-        "tags": [],
-        "first_seen": "2026-08-10"
-      },
-      {
-        "board_id": "anduril",
         "posting_id": "5203835007",
         "title": "Lead Manufacturing Engineer, Sentry ",
         "url": "https://boards.greenhouse.io/andurilindustries/jobs/5203835007?gh_jid=5203835007",
@@ -14798,7 +14768,7 @@
         "title": "Altius - Senior Product Sourcing Engineer",
         "url": "https://boards.greenhouse.io/andurilindustries/jobs/5205961007?gh_jid=5205961007",
         "location": "Costa Mesa, California, United States",
-        "raw_updated_at": "2026-09-24T15:54:51-04:00",
+        "raw_updated_at": "2026-10-02T15:56:50-04:00",
         "tags": [],
         "first_seen": "2026-09-23"
       },
@@ -15344,16 +15314,6 @@
       },
       {
         "board_id": "anduril",
-        "posting_id": "5209644007",
-        "title": "Manager, Manufacturing Test Engineering, Electromagnetic Warfare",
-        "url": "https://boards.greenhouse.io/andurilindustries/jobs/5209644007?gh_jid=5209644007",
-        "location": "Irvine, California, United States",
-        "raw_updated_at": "2026-09-24T15:54:51-04:00",
-        "tags": [],
-        "first_seen": "2026-08-13"
-      },
-      {
-        "board_id": "anduril",
         "posting_id": "5209718007",
         "title": "Senior Technical Recruiter, Production Engineering (Intelligence Systems) ",
         "url": "https://boards.greenhouse.io/andurilindustries/jobs/5209718007?gh_jid=5209718007",
@@ -15741,16 +15701,6 @@
         "raw_updated_at": "2026-09-24T15:54:51-04:00",
         "tags": [],
         "first_seen": "2026-08-14"
-      },
-      {
-        "board_id": "anduril",
-        "posting_id": "5211748007",
-        "title": "Project Manager, Manufacturing",
-        "url": "https://boards.greenhouse.io/andurilindustries/jobs/5211748007?gh_jid=5211748007",
-        "location": "Morrisville, North Carolina, United States",
-        "raw_updated_at": "2026-09-24T15:54:51-04:00",
-        "tags": [],
-        "first_seen": "2026-08-21"
       },
       {
         "board_id": "anduril",
@@ -17194,6 +17144,16 @@
       },
       {
         "board_id": "anduril",
+        "posting_id": "5220660007",
+        "title": "Propulsion Test Engineer, Turbomachinery",
+        "url": "https://boards.greenhouse.io/andurilindustries/jobs/5220660007?gh_jid=5220660007",
+        "location": "Santa Ana, California, United States",
+        "raw_updated_at": "2026-10-02T13:25:35-04:00",
+        "tags": [],
+        "first_seen": "2026-10-03"
+      },
+      {
+        "board_id": "anduril",
         "posting_id": "5220775007",
         "title": "Senior Product Quality Engineer - Altius",
         "url": "https://boards.greenhouse.io/andurilindustries/jobs/5220775007?gh_jid=5220775007",
@@ -17548,7 +17508,7 @@
         "title": "Altius - Product Sourcing Engineer",
         "url": "https://boards.greenhouse.io/andurilindustries/jobs/5223799007?gh_jid=5223799007",
         "location": "Costa Mesa, California, United States",
-        "raw_updated_at": "2026-09-24T15:54:51-04:00",
+        "raw_updated_at": "2026-10-02T15:56:22-04:00",
         "tags": [],
         "first_seen": "2026-09-23"
       },
@@ -17845,10 +17805,10 @@
       {
         "board_id": "anduril",
         "posting_id": "5225671007",
-        "title": "Mission Operations Lead, Maritime",
+        "title": "Mission Operations Engineer, Maritime",
         "url": "https://boards.greenhouse.io/andurilindustries/jobs/5225671007?gh_jid=5225671007",
         "location": "Costa Mesa, California, United States",
-        "raw_updated_at": "2026-09-24T15:54:51-04:00",
+        "raw_updated_at": "2026-10-02T12:49:37-04:00",
         "tags": [],
         "first_seen": "2026-09-19"
       },
@@ -17911,6 +17871,16 @@
         "raw_updated_at": "2026-09-24T15:54:51-04:00",
         "tags": [],
         "first_seen": "2026-08-31"
+      },
+      {
+        "board_id": "anduril",
+        "posting_id": "5225979007",
+        "title": "Senior Electrical Engineer",
+        "url": "https://boards.greenhouse.io/andurilindustries/jobs/5225979007?gh_jid=5225979007",
+        "location": "Costa Mesa, California, United States",
+        "raw_updated_at": "2026-10-02T17:51:10-04:00",
+        "tags": [],
+        "first_seen": "2026-10-03"
       },
       {
         "board_id": "anduril",
@@ -18291,6 +18261,16 @@
         "raw_updated_at": "2026-09-24T15:54:51-04:00",
         "tags": [],
         "first_seen": "2026-09-02"
+      },
+      {
+        "board_id": "anduril",
+        "posting_id": "5227076007",
+        "title": "Tooling Design Engineer, Air Vehicles",
+        "url": "https://boards.greenhouse.io/andurilindustries/jobs/5227076007?gh_jid=5227076007",
+        "location": "Costa Mesa, California, United States",
+        "raw_updated_at": "2026-10-02T13:05:02-04:00",
+        "tags": [],
+        "first_seen": "2026-10-03"
       },
       {
         "board_id": "anduril",
@@ -19008,7 +18988,7 @@
         "title": "Wargaming Research Systems Specialist (Game Designer)",
         "url": "https://boards.greenhouse.io/andurilindustries/jobs/5231194007?gh_jid=5231194007",
         "location": "Abu Dhabi, United Arab Emirates",
-        "raw_updated_at": "2026-09-24T15:54:51-04:00",
+        "raw_updated_at": "2026-10-02T18:29:56-04:00",
         "tags": [],
         "first_seen": "2026-09-09"
       },
@@ -19044,6 +19024,16 @@
       },
       {
         "board_id": "anduril",
+        "posting_id": "5231433007",
+        "title": "CAD Designer, Maritime Production",
+        "url": "https://boards.greenhouse.io/andurilindustries/jobs/5231433007?gh_jid=5231433007",
+        "location": "Santa Ana, California, United States",
+        "raw_updated_at": "2026-10-02T19:00:36-04:00",
+        "tags": [],
+        "first_seen": "2026-10-03"
+      },
+      {
+        "board_id": "anduril",
         "posting_id": "5231568007",
         "title": "Staff Test & Evaluation Engineer - Networked Battlefield Systems",
         "url": "https://boards.greenhouse.io/andurilindustries/jobs/5231568007?gh_jid=5231568007",
@@ -19071,6 +19061,16 @@
         "raw_updated_at": "2026-09-24T15:54:51-04:00",
         "tags": [],
         "first_seen": "2026-09-05"
+      },
+      {
+        "board_id": "anduril",
+        "posting_id": "5231623007",
+        "title": "Manager, Product Quality Engineering",
+        "url": "https://boards.greenhouse.io/andurilindustries/jobs/5231623007?gh_jid=5231623007",
+        "location": "Santa Ana, California, United States",
+        "raw_updated_at": "2026-10-02T14:18:22-04:00",
+        "tags": [],
+        "first_seen": "2026-10-03"
       },
       {
         "board_id": "anduril",
@@ -19119,16 +19119,6 @@
         "url": "https://boards.greenhouse.io/andurilindustries/jobs/5231647007?gh_jid=5231647007",
         "location": "Atlanta, Georgia, United States",
         "raw_updated_at": "2026-09-24T15:54:51-04:00",
-        "tags": [],
-        "first_seen": "2026-09-05"
-      },
-      {
-        "board_id": "anduril",
-        "posting_id": "5231651007",
-        "title": "Electrical Test Engineer",
-        "url": "https://boards.greenhouse.io/andurilindustries/jobs/5231651007?gh_jid=5231651007",
-        "location": "Irvine, California, United States",
-        "raw_updated_at": "2026-09-29T14:52:38-04:00",
         "tags": [],
         "first_seen": "2026-09-05"
       },
@@ -19191,26 +19181,6 @@
         "raw_updated_at": "2026-09-24T15:54:51-04:00",
         "tags": [],
         "first_seen": "2026-09-10"
-      },
-      {
-        "board_id": "anduril",
-        "posting_id": "5232200007",
-        "title": "Hardware Test Engineering Manager",
-        "url": "https://boards.greenhouse.io/andurilindustries/jobs/5232200007?gh_jid=5232200007",
-        "location": "Irvine, California, United States",
-        "raw_updated_at": "2026-09-24T15:54:51-04:00",
-        "tags": [],
-        "first_seen": "2026-09-08"
-      },
-      {
-        "board_id": "anduril",
-        "posting_id": "5232201007",
-        "title": "Production Test Engineering Manager",
-        "url": "https://boards.greenhouse.io/andurilindustries/jobs/5232201007?gh_jid=5232201007",
-        "location": "Irvine, California, United States",
-        "raw_updated_at": "2026-09-24T15:54:51-04:00",
-        "tags": [],
-        "first_seen": "2026-09-08"
       },
       {
         "board_id": "anduril",
@@ -20274,6 +20244,16 @@
       },
       {
         "board_id": "anduril",
+        "posting_id": "5235314007",
+        "title": "Senior Weapons Integration Engineer, Thunder",
+        "url": "https://boards.greenhouse.io/andurilindustries/jobs/5235314007?gh_jid=5235314007",
+        "location": "Costa Mesa, California, United States",
+        "raw_updated_at": "2026-10-02T12:56:26-04:00",
+        "tags": [],
+        "first_seen": "2026-10-03"
+      },
+      {
+        "board_id": "anduril",
         "posting_id": "5235343007",
         "title": "Technical Recruiter, Software - Air Dominance and Strike (Contract)",
         "url": "https://boards.greenhouse.io/andurilindustries/jobs/5235343007?gh_jid=5235343007",
@@ -20998,16 +20978,6 @@
       },
       {
         "board_id": "anduril",
-        "posting_id": "5236911007",
-        "title": "Product Quality Engineer, Dive-LD",
-        "url": "https://boards.greenhouse.io/andurilindustries/jobs/5236911007?gh_jid=5236911007",
-        "location": "Quonset, Rhode Island, United States",
-        "raw_updated_at": "2026-09-28T23:03:20-04:00",
-        "tags": [],
-        "first_seen": "2026-09-29"
-      },
-      {
-        "board_id": "anduril",
         "posting_id": "5236921007",
         "title": "2027 Early Career Industrial Engineer",
         "url": "https://boards.greenhouse.io/andurilindustries/jobs/5236921007?gh_jid=5236921007",
@@ -21083,26 +21053,6 @@
         "url": "https://boards.greenhouse.io/andurilindustries/jobs/5237929007?gh_jid=5237929007",
         "location": "Costa Mesa, California, United States",
         "raw_updated_at": "2026-09-28T20:44:17-04:00",
-        "tags": [],
-        "first_seen": "2026-09-15"
-      },
-      {
-        "board_id": "anduril",
-        "posting_id": "5237946007",
-        "title": "Radio Frequency Test Engineer",
-        "url": "https://boards.greenhouse.io/andurilindustries/jobs/5237946007?gh_jid=5237946007",
-        "location": "Irvine, California, United States",
-        "raw_updated_at": "2026-09-29T14:51:25-04:00",
-        "tags": [],
-        "first_seen": "2026-09-15"
-      },
-      {
-        "board_id": "anduril",
-        "posting_id": "5237951007",
-        "title": "Manufacturing Test Engineer, Electronic Warfare",
-        "url": "https://boards.greenhouse.io/andurilindustries/jobs/5237951007?gh_jid=5237951007",
-        "location": "Irvine, California, United States",
-        "raw_updated_at": "2026-09-24T15:54:51-04:00",
         "tags": [],
         "first_seen": "2026-09-15"
       },
@@ -21651,10 +21601,10 @@
       {
         "board_id": "anduril",
         "posting_id": "5239489007",
-        "title": "Protective Intelligence Lead Analyst",
+        "title": "Protective Intelligence Senior Analyst",
         "url": "https://boards.greenhouse.io/andurilindustries/jobs/5239489007?gh_jid=5239489007",
         "location": "Costa Mesa, California, United States",
-        "raw_updated_at": "2026-09-24T15:54:51-04:00",
+        "raw_updated_at": "2026-10-02T12:51:18-04:00",
         "tags": [],
         "first_seen": "2026-09-17"
       },
@@ -22760,6 +22710,16 @@
       },
       {
         "board_id": "anduril",
+        "posting_id": "5243263007",
+        "title": "Buyer/Planner",
+        "url": "https://boards.greenhouse.io/andurilindustries/jobs/5243263007?gh_jid=5243263007",
+        "location": "Quincy, Massachusetts, United States",
+        "raw_updated_at": "2026-10-02T15:20:45-04:00",
+        "tags": [],
+        "first_seen": "2026-10-03"
+      },
+      {
+        "board_id": "anduril",
         "posting_id": "5243380007",
         "title": "Financial Analyst II, Electromagnetic Warfare",
         "url": "https://boards.greenhouse.io/andurilindustries/jobs/5243380007?gh_jid=5243380007",
@@ -23134,7 +23094,7 @@
         "title": "Environmental Test Engineer",
         "url": "https://boards.greenhouse.io/andurilindustries/jobs/5246041007?gh_jid=5246041007",
         "location": "Waltham, Massachusetts, United States",
-        "raw_updated_at": "2026-10-01T13:18:03-04:00",
+        "raw_updated_at": "2026-10-02T16:27:54-04:00",
         "tags": [],
         "first_seen": "2026-10-01"
       },
@@ -23360,16 +23320,6 @@
       },
       {
         "board_id": "anduril",
-        "posting_id": "5246644007",
-        "title": "Senior Vehicle Power Distribution Engineer",
-        "url": "https://boards.greenhouse.io/andurilindustries/jobs/5246644007?gh_jid=5246644007",
-        "location": "Costa Mesa, California, United States",
-        "raw_updated_at": "2026-09-24T15:54:51-04:00",
-        "tags": [],
-        "first_seen": "2026-09-23"
-      },
-      {
-        "board_id": "anduril",
         "posting_id": "5246665007",
         "title": "Senior Software Engineer, Greenfield Product ",
         "url": "https://boards.greenhouse.io/andurilindustries/jobs/5246665007?gh_jid=5246665007",
@@ -23437,6 +23387,16 @@
         "raw_updated_at": "2026-09-24T15:54:51-04:00",
         "tags": [],
         "first_seen": "2026-09-23"
+      },
+      {
+        "board_id": "anduril",
+        "posting_id": "5246753007",
+        "title": "Senior Product Quality Engineer",
+        "url": "https://boards.greenhouse.io/andurilindustries/jobs/5246753007?gh_jid=5246753007",
+        "location": "Ashville, Ohio, United States",
+        "raw_updated_at": "2026-10-02T12:47:53-04:00",
+        "tags": [],
+        "first_seen": "2026-10-03"
       },
       {
         "board_id": "anduril",
@@ -23527,16 +23487,6 @@
         "raw_updated_at": "2026-09-24T15:54:51-04:00",
         "tags": [],
         "first_seen": "2026-09-25"
-      },
-      {
-        "board_id": "anduril",
-        "posting_id": "5247268007",
-        "title": "Director of Pre-Construction",
-        "url": "https://boards.greenhouse.io/andurilindustries/jobs/5247268007?gh_jid=5247268007",
-        "location": "Costa Mesa, California, United States",
-        "raw_updated_at": "2026-09-29T11:35:33-04:00",
-        "tags": [],
-        "first_seen": "2026-09-29"
       },
       {
         "board_id": "anduril",
@@ -23854,7 +23804,7 @@
         "title": "Head of Production, Maritime",
         "url": "https://boards.greenhouse.io/andurilindustries/jobs/5248269007?gh_jid=5248269007",
         "location": "Santa Ana, California, United States",
-        "raw_updated_at": "2026-09-24T15:54:51-04:00",
+        "raw_updated_at": "2026-10-02T12:57:00-04:00",
         "tags": [],
         "first_seen": "2026-09-25"
       },
@@ -23881,10 +23831,10 @@
       {
         "board_id": "anduril",
         "posting_id": "5248446007",
-        "title": "Integration & Test Engineer",
+        "title": "Integration & Test Engineer (Electrical Systems), Omen",
         "url": "https://boards.greenhouse.io/andurilindustries/jobs/5248446007?gh_jid=5248446007",
         "location": "Costa Mesa, California, United States",
-        "raw_updated_at": "2026-09-28T13:48:44-04:00",
+        "raw_updated_at": "2026-10-02T13:58:12-04:00",
         "tags": [],
         "first_seen": "2026-09-26"
       },
@@ -24380,6 +24330,26 @@
       },
       {
         "board_id": "anduril",
+        "posting_id": "5249522007",
+        "title": "Field Operations Manager, Commercial",
+        "url": "https://boards.greenhouse.io/andurilindustries/jobs/5249522007?gh_jid=5249522007",
+        "location": "Irvine, California, United States",
+        "raw_updated_at": "2026-10-02T17:41:53-04:00",
+        "tags": [],
+        "first_seen": "2026-10-03"
+      },
+      {
+        "board_id": "anduril",
+        "posting_id": "5249524007",
+        "title": "Deployment & Training Manager, Commercial",
+        "url": "https://boards.greenhouse.io/andurilindustries/jobs/5249524007?gh_jid=5249524007",
+        "location": "Irvine, California, United States",
+        "raw_updated_at": "2026-10-02T17:48:50-04:00",
+        "tags": [],
+        "first_seen": "2026-10-03"
+      },
+      {
+        "board_id": "anduril",
         "posting_id": "5249559007",
         "title": "Senior Vulnerability Engineer",
         "url": "https://boards.greenhouse.io/andurilindustries/jobs/5249559007?gh_jid=5249559007",
@@ -24484,7 +24454,7 @@
         "title": "Senior Mechanical Engineer - Lethality",
         "url": "https://boards.greenhouse.io/andurilindustries/jobs/5249948007?gh_jid=5249948007",
         "location": "Costa Mesa, California, United States",
-        "raw_updated_at": "2026-09-26T16:21:08-04:00",
+        "raw_updated_at": "2026-10-02T17:31:28-04:00",
         "tags": [],
         "first_seen": "2026-09-27"
       },
@@ -24581,10 +24551,10 @@
       {
         "board_id": "anduril",
         "posting_id": "5250318007",
-        "title": "Security Controller \u2013 Netherlands",
+        "title": "Senior Security Controller",
         "url": "https://boards.greenhouse.io/andurilindustries/jobs/5250318007?gh_jid=5250318007",
         "location": "Amsterdam, North Holland, Netherlands",
-        "raw_updated_at": "2026-09-29T14:06:27-04:00",
+        "raw_updated_at": "2026-10-03T01:53:57-04:00",
         "tags": [],
         "first_seen": "2026-09-29"
       },
@@ -24794,7 +24764,7 @@
         "title": "Chief Engineer, Dive-LD",
         "url": "https://boards.greenhouse.io/andurilindustries/jobs/5251191007?gh_jid=5251191007",
         "location": "Quincy, Massachusetts, United States",
-        "raw_updated_at": "2026-10-01T11:22:02-04:00",
+        "raw_updated_at": "2026-10-02T13:08:28-04:00",
         "tags": [],
         "first_seen": "2026-10-01"
       },
@@ -24804,7 +24774,7 @@
         "title": "Chief Engineer, Copperhead",
         "url": "https://boards.greenhouse.io/andurilindustries/jobs/5251222007?gh_jid=5251222007",
         "location": "Quincy, Massachusetts, United States",
-        "raw_updated_at": "2026-10-01T11:23:01-04:00",
+        "raw_updated_at": "2026-10-02T13:07:33-04:00",
         "tags": [],
         "first_seen": "2026-10-01"
       },
@@ -24917,6 +24887,16 @@
         "raw_updated_at": "2026-10-01T13:16:55-04:00",
         "tags": [],
         "first_seen": "2026-10-01"
+      },
+      {
+        "board_id": "anduril",
+        "posting_id": "5251881007",
+        "title": "Director of Supply Chain",
+        "url": "https://boards.greenhouse.io/andurilindustries/jobs/5251881007?gh_jid=5251881007",
+        "location": "Atlanta, Georgia, United States",
+        "raw_updated_at": "2026-10-02T14:20:51-04:00",
+        "tags": [],
+        "first_seen": "2026-10-03"
       },
       {
         "board_id": "anduril",
@@ -25582,6 +25562,16 @@
       },
       {
         "board_id": "anduril",
+        "posting_id": "5253538007",
+        "title": "Head of Technical Program Management, EW",
+        "url": "https://boards.greenhouse.io/andurilindustries/jobs/5253538007?gh_jid=5253538007",
+        "location": "Costa Mesa, California, United States",
+        "raw_updated_at": "2026-10-02T12:54:30-04:00",
+        "tags": [],
+        "first_seen": "2026-10-03"
+      },
+      {
+        "board_id": "anduril",
         "posting_id": "5253546007",
         "title": "Material Manager,  Warehouse (Technical Hardware)",
         "url": "https://boards.greenhouse.io/andurilindustries/jobs/5253546007?gh_jid=5253546007",
@@ -25922,6 +25912,26 @@
       },
       {
         "board_id": "anduril",
+        "posting_id": "5254498007",
+        "title": "Senior Financial Analyst, Connected Warfare",
+        "url": "https://boards.greenhouse.io/andurilindustries/jobs/5254498007?gh_jid=5254498007",
+        "location": "Costa Mesa, California, United States; Seattle, Washington, United States; Washington, District of Columbia, United States",
+        "raw_updated_at": "2026-10-02T14:04:24-04:00",
+        "tags": [],
+        "first_seen": "2026-10-03"
+      },
+      {
+        "board_id": "anduril",
+        "posting_id": "5254633007",
+        "title": "Chief Engineer - Tactical Effects",
+        "url": "https://boards.greenhouse.io/andurilindustries/jobs/5254633007?gh_jid=5254633007",
+        "location": "Costa Mesa, California, United States",
+        "raw_updated_at": "2026-10-02T12:41:50-04:00",
+        "tags": [],
+        "first_seen": "2026-10-03"
+      },
+      {
+        "board_id": "anduril",
         "posting_id": "5254684007",
         "title": "Staff DFx Manufacturing Engineer",
         "url": "https://boards.greenhouse.io/andurilindustries/jobs/5254684007?gh_jid=5254684007",
@@ -25962,11 +25972,21 @@
       },
       {
         "board_id": "anduril",
+        "posting_id": "5255079007",
+        "title": "Systems Test Engineer, IBCS-M",
+        "url": "https://boards.greenhouse.io/andurilindustries/jobs/5255079007?gh_jid=5255079007",
+        "location": "Costa Mesa, California, United States",
+        "raw_updated_at": "2026-10-03T09:20:21-04:00",
+        "tags": [],
+        "first_seen": "2026-10-03"
+      },
+      {
+        "board_id": "anduril",
         "posting_id": "5255091007",
         "title": "Special Projects Manager",
         "url": "https://boards.greenhouse.io/andurilindustries/jobs/5255091007?gh_jid=5255091007",
         "location": "Irvine, California, United States",
-        "raw_updated_at": "2026-10-02T11:57:41-04:00",
+        "raw_updated_at": "2026-10-02T18:44:34-04:00",
         "tags": [],
         "first_seen": "2026-10-02"
       },
@@ -25979,6 +25999,16 @@
         "raw_updated_at": "2026-10-02T11:41:11-04:00",
         "tags": [],
         "first_seen": "2026-10-02"
+      },
+      {
+        "board_id": "anduril",
+        "posting_id": "5255525007",
+        "title": "Realtime Software Engineer",
+        "url": "https://boards.greenhouse.io/andurilindustries/jobs/5255525007?gh_jid=5255525007",
+        "location": "Waltham, Massachusetts, United States",
+        "raw_updated_at": "2026-10-02T13:14:05-04:00",
+        "tags": [],
+        "first_seen": "2026-10-03"
       },
       {
         "board_id": "anduril",
@@ -26029,11 +26059,215 @@
         "raw_updated_at": "2026-10-02T12:14:25-04:00",
         "tags": [],
         "first_seen": "2026-10-02"
+      },
+      {
+        "board_id": "anduril",
+        "posting_id": "5255572007",
+        "title": "Deputy Chief Engineer, Tactical Effects",
+        "url": "https://boards.greenhouse.io/andurilindustries/jobs/5255572007?gh_jid=5255572007",
+        "location": "Costa Mesa, California, United States",
+        "raw_updated_at": "2026-10-02T12:39:36-04:00",
+        "tags": [],
+        "first_seen": "2026-10-03"
+      },
+      {
+        "board_id": "anduril",
+        "posting_id": "5255593007",
+        "title": "2027 Industrial Engineer Intern",
+        "url": "https://boards.greenhouse.io/andurilindustries/jobs/5255593007?gh_jid=5255593007",
+        "location": "Ashville, Ohio, United States; Costa Mesa, California, United States",
+        "raw_updated_at": "2026-10-02T12:42:09-04:00",
+        "tags": [
+          "student-role"
+        ],
+        "first_seen": "2026-10-03"
+      },
+      {
+        "board_id": "anduril",
+        "posting_id": "5255657007",
+        "title": "Deputy Chief Engineer, Discovery ",
+        "url": "https://boards.greenhouse.io/andurilindustries/jobs/5255657007?gh_jid=5255657007",
+        "location": "Costa Mesa, California, United States; Waltham, Massachusetts, United States; Washington, District of Columbia, United States",
+        "raw_updated_at": "2026-10-02T13:25:36-04:00",
+        "tags": [],
+        "first_seen": "2026-10-03"
+      },
+      {
+        "board_id": "anduril",
+        "posting_id": "5255827007",
+        "title": "2027 Supply Chain Intern",
+        "url": "https://boards.greenhouse.io/andurilindustries/jobs/5255827007?gh_jid=5255827007",
+        "location": "Costa Mesa, California, United States; Fort Collins, Colorado, United States; Quincy, Massachusetts, United States; Santa Ana, California, United States; Waltham, Massachusetts, United States",
+        "raw_updated_at": "2026-10-02T15:13:40-04:00",
+        "tags": [
+          "student-role"
+        ],
+        "first_seen": "2026-10-03"
+      },
+      {
+        "board_id": "anduril",
+        "posting_id": "5255981007",
+        "title": "Fleet Integration Manager, Surface Maritime",
+        "url": "https://boards.greenhouse.io/andurilindustries/jobs/5255981007?gh_jid=5255981007",
+        "location": "Costa Mesa, California, United States",
+        "raw_updated_at": "2026-10-02T23:03:56-04:00",
+        "tags": [],
+        "first_seen": "2026-10-03"
+      },
+      {
+        "board_id": "anduril",
+        "posting_id": "5256011007",
+        "title": "Lab Manager, Space",
+        "url": "https://boards.greenhouse.io/andurilindustries/jobs/5256011007?gh_jid=5256011007",
+        "location": "Costa Mesa, California, United States",
+        "raw_updated_at": "2026-10-02T17:04:56-04:00",
+        "tags": [],
+        "first_seen": "2026-10-03"
+      },
+      {
+        "board_id": "anduril",
+        "posting_id": "5256023007",
+        "title": "Electrical Test Engineer",
+        "url": "https://boards.greenhouse.io/andurilindustries/jobs/5256023007?gh_jid=5256023007",
+        "location": "Irvine, California, United States",
+        "raw_updated_at": "2026-10-02T17:12:48-04:00",
+        "tags": [],
+        "first_seen": "2026-10-03"
+      },
+      {
+        "board_id": "anduril",
+        "posting_id": "5256033007",
+        "title": "Manufacturing Test Engineer, Electronic Warfare",
+        "url": "https://boards.greenhouse.io/andurilindustries/jobs/5256033007?gh_jid=5256033007",
+        "location": "Irvine, California, United States",
+        "raw_updated_at": "2026-10-02T17:16:12-04:00",
+        "tags": [],
+        "first_seen": "2026-10-03"
+      },
+      {
+        "board_id": "anduril",
+        "posting_id": "5256046007",
+        "title": "Radio Frequency Test Engineer",
+        "url": "https://boards.greenhouse.io/andurilindustries/jobs/5256046007?gh_jid=5256046007",
+        "location": "Irvine, California, United States",
+        "raw_updated_at": "2026-10-02T17:19:08-04:00",
+        "tags": [],
+        "first_seen": "2026-10-03"
+      },
+      {
+        "board_id": "anduril",
+        "posting_id": "5256059007",
+        "title": "Production Test Engineering Manager",
+        "url": "https://boards.greenhouse.io/andurilindustries/jobs/5256059007?gh_jid=5256059007",
+        "location": "Irvine, California, United States",
+        "raw_updated_at": "2026-10-02T17:24:49-04:00",
+        "tags": [],
+        "first_seen": "2026-10-03"
+      },
+      {
+        "board_id": "anduril",
+        "posting_id": "5256064007",
+        "title": "Hardware Test Engineering Manager",
+        "url": "https://boards.greenhouse.io/andurilindustries/jobs/5256064007?gh_jid=5256064007",
+        "location": "Irvine, California, United States",
+        "raw_updated_at": "2026-10-02T17:24:43-04:00",
+        "tags": [],
+        "first_seen": "2026-10-03"
+      },
+      {
+        "board_id": "anduril",
+        "posting_id": "5256069007",
+        "title": "Manager, RF Manufacturing Test Engineering",
+        "url": "https://boards.greenhouse.io/andurilindustries/jobs/5256069007?gh_jid=5256069007",
+        "location": "Irvine, California, United States",
+        "raw_updated_at": "2026-10-02T17:24:47-04:00",
+        "tags": [],
+        "first_seen": "2026-10-03"
+      },
+      {
+        "board_id": "anduril",
+        "posting_id": "5256072007",
+        "title": "Manager, Manufacturing Test Engineering, Electromagnetic Warfare",
+        "url": "https://boards.greenhouse.io/andurilindustries/jobs/5256072007?gh_jid=5256072007",
+        "location": "Irvine, California, United States",
+        "raw_updated_at": "2026-10-02T17:24:44-04:00",
+        "tags": [],
+        "first_seen": "2026-10-03"
+      },
+      {
+        "board_id": "anduril",
+        "posting_id": "5256137007",
+        "title": "Program Security Manager",
+        "url": "https://boards.greenhouse.io/andurilindustries/jobs/5256137007?gh_jid=5256137007",
+        "location": "Costa Mesa, California, United States",
+        "raw_updated_at": "2026-10-02T18:46:12-04:00",
+        "tags": [],
+        "first_seen": "2026-10-03"
+      },
+      {
+        "board_id": "anduril",
+        "posting_id": "5256229007",
+        "title": "Staff Embedded Engineer, EW",
+        "url": "https://boards.greenhouse.io/andurilindustries/jobs/5256229007?gh_jid=5256229007",
+        "location": "Costa Mesa, California, United States",
+        "raw_updated_at": "2026-10-02T19:00:41-04:00",
+        "tags": [],
+        "first_seen": "2026-10-03"
+      },
+      {
+        "board_id": "anduril",
+        "posting_id": "5256233007",
+        "title": "Mission Systems Engineer, Antenna Lead",
+        "url": "https://boards.greenhouse.io/andurilindustries/jobs/5256233007?gh_jid=5256233007",
+        "location": "Costa Mesa, California, United States",
+        "raw_updated_at": "2026-10-02T19:23:27-04:00",
+        "tags": [],
+        "first_seen": "2026-10-03"
+      },
+      {
+        "board_id": "anduril",
+        "posting_id": "5256234007",
+        "title": "Senior Mission Systems Engineer, EO/IR Seekers",
+        "url": "https://boards.greenhouse.io/andurilindustries/jobs/5256234007?gh_jid=5256234007",
+        "location": "Costa Mesa, California, United States",
+        "raw_updated_at": "2026-10-02T19:36:25-04:00",
+        "tags": [],
+        "first_seen": "2026-10-03"
+      },
+      {
+        "board_id": "anduril",
+        "posting_id": "5256304007",
+        "title": "Software Quality Engineer, Radar",
+        "url": "https://boards.greenhouse.io/andurilindustries/jobs/5256304007?gh_jid=5256304007",
+        "location": "Fort Collins, Colorado, United States",
+        "raw_updated_at": "2026-10-02T21:48:35-04:00",
+        "tags": [],
+        "first_seen": "2026-10-03"
+      },
+      {
+        "board_id": "anduril",
+        "posting_id": "5256305007",
+        "title": "Platform Engineer, Radar",
+        "url": "https://boards.greenhouse.io/andurilindustries/jobs/5256305007?gh_jid=5256305007",
+        "location": "Fort Collins, Colorado, United States",
+        "raw_updated_at": "2026-10-02T21:48:33-04:00",
+        "tags": [],
+        "first_seen": "2026-10-03"
+      },
+      {
+        "board_id": "anduril",
+        "posting_id": "5256306007",
+        "title": "DevOps Engineer, Radar",
+        "url": "https://boards.greenhouse.io/andurilindustries/jobs/5256306007?gh_jid=5256306007",
+        "location": "Fort Collins, Colorado, United States",
+        "raw_updated_at": "2026-10-02T21:48:30-04:00",
+        "tags": [],
+        "first_seen": "2026-10-03"
       }
     ]
   },
   "formlabs": {
-    "fetched_at": "2026-10-02T12:25:26.533136-04:00",
+    "fetched_at": "2026-10-03T10:59:14.172674-04:00",
     "postings": [
       {
         "board_id": "formlabs",
@@ -26260,8 +26494,8 @@
         "posting_id": "7711953",
         "title": "Technical Sales Representative",
         "url": "https://careers.formlabs.com/job/7711953/apply/?gh_jid=7711953",
-        "location": "Milwaukee, WI",
-        "raw_updated_at": "2026-07-21T10:09:06-04:00",
+        "location": "Milwaukee, Wisconsin",
+        "raw_updated_at": "2026-10-02T17:42:15-04:00",
         "tags": [],
         "first_seen": "2026-08-03"
       },
@@ -26817,7 +27051,7 @@
         "title": "Fulfillment Specialist",
         "url": "https://careers.formlabs.com/job/8148299/apply/?gh_jid=8148299",
         "location": "Somerville, MA",
-        "raw_updated_at": "2026-10-02T10:52:07-04:00",
+        "raw_updated_at": "2026-10-02T12:35:05-04:00",
         "tags": [],
         "first_seen": "2026-08-22"
       },
@@ -26982,18 +27216,6 @@
         "raw_updated_at": "2026-10-01T13:13:53-04:00",
         "tags": [],
         "first_seen": "2026-09-02"
-      },
-      {
-        "board_id": "formlabs",
-        "posting_id": "8174619",
-        "title": "Campus Recruiting Intern (Fall 2026)",
-        "url": "https://careers.formlabs.com/job/8174619/apply/?gh_jid=8174619",
-        "location": "Somerville, MA",
-        "raw_updated_at": "2026-09-28T10:55:59-04:00",
-        "tags": [
-          "student-role"
-        ],
-        "first_seen": "2026-09-03"
       },
       {
         "board_id": "formlabs",
@@ -28337,9 +28559,59 @@
         "title": "Senior Legal Counsel, Intellectual Property",
         "url": "https://careers.formlabs.com/job/8249177/apply/?gh_jid=8249177",
         "location": "Somerville, MA",
-        "raw_updated_at": "2026-10-02T10:16:37-04:00",
+        "raw_updated_at": "2026-10-02T14:42:49-04:00",
         "tags": [],
         "first_seen": "2026-10-02"
+      },
+      {
+        "board_id": "formlabs",
+        "posting_id": "8249635",
+        "title": "Fulfillment Coordinator - May 2027 Graduates",
+        "url": "https://careers.formlabs.com/job/8249635/apply/?gh_jid=8249635",
+        "location": "Somerville, MA",
+        "raw_updated_at": "2026-10-02T13:00:27-04:00",
+        "tags": [],
+        "first_seen": "2026-10-03"
+      },
+      {
+        "board_id": "formlabs",
+        "posting_id": "8249899",
+        "title": "Manufacturing Engineer",
+        "url": "https://careers.formlabs.com/job/8249899/apply/?gh_jid=8249899",
+        "location": "Somerville, MA",
+        "raw_updated_at": "2026-10-02T18:11:46-04:00",
+        "tags": [],
+        "first_seen": "2026-10-03"
+      },
+      {
+        "board_id": "formlabs",
+        "posting_id": "8250084",
+        "title": "Technical Sales Representative (May 2027 Grad)",
+        "url": "https://careers.formlabs.com/job/8250084/apply/?gh_jid=8250084",
+        "location": "Milwaukee, Wisconsin",
+        "raw_updated_at": "2026-10-02T17:43:07-04:00",
+        "tags": [],
+        "first_seen": "2026-10-03"
+      },
+      {
+        "board_id": "formlabs",
+        "posting_id": "8250096",
+        "title": "Technical Sales Representative (December 2026 Grad)",
+        "url": "https://careers.formlabs.com/job/8250096/apply/?gh_jid=8250096",
+        "location": "Milwaukee, WI",
+        "raw_updated_at": "2026-10-02T17:42:43-04:00",
+        "tags": [],
+        "first_seen": "2026-10-03"
+      },
+      {
+        "board_id": "formlabs",
+        "posting_id": "8250319",
+        "title": "Manufacturing Engineer - May 2027 Graduates",
+        "url": "https://careers.formlabs.com/job/8250319/apply/?gh_jid=8250319",
+        "location": "Somerville, MA",
+        "raw_updated_at": "2026-10-02T18:11:19-04:00",
+        "tags": [],
+        "first_seen": "2026-10-03"
       }
     ]
   },
@@ -29761,7 +30033,7 @@
     ]
   },
   "draper": {
-    "fetched_at": "2026-10-02T12:25:26.533136-04:00",
+    "fetched_at": "2026-10-03T10:59:14.172674-04:00",
     "postings": [
       {
         "board_id": "draper",
@@ -29769,7 +30041,7 @@
         "title": "Security Guard - Per Diem",
         "url": "https://draper.wd5.myworkdayjobs.com/en-US/Draper_Careers/job/Cambridge-MA/Security-Guard---Per-Diem_JR000095",
         "location": "Cambridge, MA",
-        "raw_updated_at": "Posted 8 Days Ago",
+        "raw_updated_at": "Posted 9 Days Ago",
         "tags": [],
         "first_seen": "2026-09-25"
       },
@@ -29779,7 +30051,7 @@
         "title": "Senior Embedded Vulnerability Researcher",
         "url": "https://draper.wd5.myworkdayjobs.com/en-US/Draper_Careers/job/Cambridge-MA/Senior-Embedded-Vulnerability-Researcher_JR000145",
         "location": "2 Locations",
-        "raw_updated_at": "Posted 23 Days Ago",
+        "raw_updated_at": "Posted 24 Days Ago",
         "tags": [],
         "first_seen": "2026-07-17"
       },
@@ -29789,7 +30061,7 @@
         "title": "Senior UVM Digital Verification Engineer",
         "url": "https://draper.wd5.myworkdayjobs.com/en-US/Draper_Careers/job/Cambridge-MA/Senior-UVM-Digital-Verification-Engineer_JR000159",
         "location": "Cambridge, MA",
-        "raw_updated_at": "Posted 30 Days Ago",
+        "raw_updated_at": "Posted 30+ Days Ago",
         "tags": [],
         "first_seen": "2026-08-03"
       },
@@ -29799,7 +30071,7 @@
         "title": "Test and Product Development Systems Engineer",
         "url": "https://draper.wd5.myworkdayjobs.com/en-US/Draper_Careers/job/Cambridge-MA/Test-and-Product-Development-Systems-Engineer_JR000359",
         "location": "Cambridge, MA",
-        "raw_updated_at": "Posted Today",
+        "raw_updated_at": "Posted Yesterday",
         "tags": [],
         "first_seen": "2026-09-04"
       },
@@ -29839,7 +30111,7 @@
         "title": "Optical Instrument Engineer",
         "url": "https://draper.wd5.myworkdayjobs.com/en-US/Draper_Careers/job/Cambridge-MA/Senior-Optical-Instrument-Engineer_JR000895",
         "location": "Cambridge, MA",
-        "raw_updated_at": "Posted 24 Days Ago",
+        "raw_updated_at": "Posted 25 Days Ago",
         "tags": [],
         "first_seen": "2026-07-17"
       },
@@ -29849,7 +30121,7 @@
         "title": "Microsystems Integration Engineer",
         "url": "https://draper.wd5.myworkdayjobs.com/en-US/Draper_Careers/job/Cambridge-MA/Microsystems-Integration-Engineer_JR000898-1",
         "location": "Cambridge, MA",
-        "raw_updated_at": "Posted 24 Days Ago",
+        "raw_updated_at": "Posted 25 Days Ago",
         "tags": [],
         "first_seen": "2026-07-17"
       },
@@ -29869,7 +30141,7 @@
         "title": "Senior Digital Electronics Design Engineer",
         "url": "https://draper.wd5.myworkdayjobs.com/en-US/Draper_Careers/job/Clearfield-UT/Senior-Digital-Engineer_JR000963",
         "location": "Clearfield, UT",
-        "raw_updated_at": "Posted 30 Days Ago",
+        "raw_updated_at": "Posted 30+ Days Ago",
         "tags": [],
         "first_seen": "2026-07-17"
       },
@@ -29879,7 +30151,7 @@
         "title": "Principal Digital Electronics Engineer",
         "url": "https://draper.wd5.myworkdayjobs.com/en-US/Draper_Careers/job/Clearfield-UT/Principal-Digital-Engineer_JR000964",
         "location": "Clearfield, UT",
-        "raw_updated_at": "Posted 30 Days Ago",
+        "raw_updated_at": "Posted 30+ Days Ago",
         "tags": [],
         "first_seen": "2026-07-17"
       },
@@ -29899,7 +30171,7 @@
         "title": "Senior Cyber Effects Engineer",
         "url": "https://draper.wd5.myworkdayjobs.com/en-US/Draper_Careers/job/Cambridge-MA/Senior-Cyber-Software-Engineer_JR000996",
         "location": "2 Locations",
-        "raw_updated_at": "Posted 3 Days Ago",
+        "raw_updated_at": "Posted 4 Days Ago",
         "tags": [],
         "first_seen": "2026-07-17"
       },
@@ -29909,7 +30181,7 @@
         "title": "Principal Cyber Effects Engineer",
         "url": "https://draper.wd5.myworkdayjobs.com/en-US/Draper_Careers/job/Cambridge-MA/Principal-Cyber-Software-Engineer_JR001001",
         "location": "2 Locations",
-        "raw_updated_at": "Posted 3 Days Ago",
+        "raw_updated_at": "Posted 4 Days Ago",
         "tags": [],
         "first_seen": "2026-07-17"
       },
@@ -29919,7 +30191,7 @@
         "title": "Senior Embedded Software Engineer",
         "url": "https://draper.wd5.myworkdayjobs.com/en-US/Draper_Careers/job/Cambridge-MA/Embedded-Software-Engineer_JR001099",
         "location": "Cambridge, MA",
-        "raw_updated_at": "Posted 4 Days Ago",
+        "raw_updated_at": "Posted 5 Days Ago",
         "tags": [],
         "first_seen": "2026-07-17"
       },
@@ -29939,7 +30211,7 @@
         "title": "Senior Guidance & Control Engineer",
         "url": "https://draper.wd5.myworkdayjobs.com/en-US/Draper_Careers/job/Cambridge-MA/Guidance---Control-Engineer_JR001141",
         "location": "3 Locations",
-        "raw_updated_at": "Posted 8 Days Ago",
+        "raw_updated_at": "Posted 9 Days Ago",
         "tags": [],
         "first_seen": "2026-07-17"
       },
@@ -29959,7 +30231,7 @@
         "title": "Senior Optical Engineer",
         "url": "https://draper.wd5.myworkdayjobs.com/en-US/Draper_Careers/job/Cambridge-MA/Applied-Physicist-SMTS_JR001237",
         "location": "Cambridge, MA",
-        "raw_updated_at": "Posted 18 Days Ago",
+        "raw_updated_at": "Posted 19 Days Ago",
         "tags": [],
         "first_seen": "2026-07-17"
       },
@@ -29969,7 +30241,7 @@
         "title": "Embedded Software Engineer",
         "url": "https://draper.wd5.myworkdayjobs.com/en-US/Draper_Careers/job/Cambridge-MA/Embedded-Software-Engineer_JR001254",
         "location": "Cambridge, MA",
-        "raw_updated_at": "Posted 4 Days Ago",
+        "raw_updated_at": "Posted 5 Days Ago",
         "tags": [],
         "first_seen": "2026-09-28"
       },
@@ -29979,7 +30251,7 @@
         "title": "Senior Analog/Mixed Signal ASIC Design Engineer",
         "url": "https://draper.wd5.myworkdayjobs.com/en-US/Draper_Careers/job/Cambridge-MA/Senior-Analog-Mixed-Signal-ASIC-Architect_JR001279",
         "location": "Cambridge, MA",
-        "raw_updated_at": "Posted 30 Days Ago",
+        "raw_updated_at": "Posted 30+ Days Ago",
         "tags": [],
         "first_seen": "2026-07-17"
       },
@@ -30009,7 +30281,7 @@
         "title": "Principal Hardware Instrument Engineer",
         "url": "https://draper.wd5.myworkdayjobs.com/en-US/Draper_Careers/job/Cambridge-MA/Principal-Hardware-Instrument-Engineer_JR001439",
         "location": "Cambridge, MA",
-        "raw_updated_at": "Posted 30 Days Ago",
+        "raw_updated_at": "Posted 30+ Days Ago",
         "tags": [],
         "first_seen": "2026-07-17"
       },
@@ -30019,7 +30291,7 @@
         "title": "Senior Sensor Electronics Engineer",
         "url": "https://draper.wd5.myworkdayjobs.com/en-US/Draper_Careers/job/Cambridge-MA/Hardware-Power-Engr-SMTS_JR001440",
         "location": "Cambridge, MA",
-        "raw_updated_at": "Posted 30 Days Ago",
+        "raw_updated_at": "Posted 30+ Days Ago",
         "tags": [],
         "first_seen": "2026-07-17"
       },
@@ -30069,7 +30341,7 @@
         "title": "Microelectronics Manufacturing and Process Engineer",
         "url": "https://draper.wd5.myworkdayjobs.com/en-US/Draper_Careers/job/Cambridge-MA/Microelectronics-Manufacturing-and-Process-Engineer_JR001602",
         "location": "Cambridge, MA",
-        "raw_updated_at": "Posted 8 Days Ago",
+        "raw_updated_at": "Posted 9 Days Ago",
         "tags": [],
         "first_seen": "2026-07-17"
       },
@@ -30079,7 +30351,7 @@
         "title": "Principal Process Engineer (SMT Manufacturing)",
         "url": "https://draper.wd5.myworkdayjobs.com/en-US/Draper_Careers/job/Cambridge-MA/Surface-Mount-Technology-Manufacturing-and-Process-Engineer_JR001603",
         "location": "Cambridge, MA",
-        "raw_updated_at": "Posted Yesterday",
+        "raw_updated_at": "Posted 2 Days Ago",
         "tags": [],
         "first_seen": "2026-07-17"
       },
@@ -30089,7 +30361,7 @@
         "title": "Senior Software Verification & Validation Engineer",
         "url": "https://draper.wd5.myworkdayjobs.com/en-US/Draper_Careers/job/Cambridge-MA/Senior-Software-Verification---Validation-Engineer_JR001658",
         "location": "Cambridge, MA",
-        "raw_updated_at": "Posted 4 Days Ago",
+        "raw_updated_at": "Posted 5 Days Ago",
         "tags": [],
         "first_seen": "2026-07-17"
       },
@@ -30119,7 +30391,7 @@
         "title": "Tech B (Electronics Assembly | Semiconductors)",
         "url": "https://draper.wd5.myworkdayjobs.com/en-US/Draper_Careers/job/Cambridge-MA/Tech-B--Electronics-Assembly---Semiconductors-_JR001665",
         "location": "Cambridge, MA",
-        "raw_updated_at": "Posted 24 Days Ago",
+        "raw_updated_at": "Posted 25 Days Ago",
         "tags": [],
         "first_seen": "2026-09-09"
       },
@@ -30139,7 +30411,7 @@
         "title": "Distinguished Systems Engineer for Embedded Microsystems Architecture and Design",
         "url": "https://draper.wd5.myworkdayjobs.com/en-US/Draper_Careers/job/Cambridge-MA/Principal-Systems-Engineer-for-Embedded-Microsystems-Architecture-and-Design_JR001784",
         "location": "Cambridge, MA",
-        "raw_updated_at": "Posted 8 Days Ago",
+        "raw_updated_at": "Posted 9 Days Ago",
         "tags": [],
         "first_seen": "2026-07-17"
       },
@@ -30149,7 +30421,7 @@
         "title": "Senior Mission Critical Software Engineer",
         "url": "https://draper.wd5.myworkdayjobs.com/en-US/Draper_Careers/job/Cambridge-MA/Senior-Mission-Critical-Software-Engineer_JR001844",
         "location": "Cambridge, MA",
-        "raw_updated_at": "Posted 4 Days Ago",
+        "raw_updated_at": "Posted 5 Days Ago",
         "tags": [],
         "first_seen": "2026-07-17"
       },
@@ -30159,7 +30431,7 @@
         "title": "Project Tech (Destructive Physical Analysis/Metrology )",
         "url": "https://draper.wd5.myworkdayjobs.com/en-US/Draper_Careers/job/Cambridge-MA/Project-Tech--Destructive-Physical-Analysis-Metrology--_JR001861",
         "location": "Cambridge, MA",
-        "raw_updated_at": "Posted Yesterday",
+        "raw_updated_at": "Posted 2 Days Ago",
         "tags": [],
         "first_seen": "2026-10-02"
       },
@@ -30169,7 +30441,7 @@
         "title": "Principal Embedded Software Engineer",
         "url": "https://draper.wd5.myworkdayjobs.com/en-US/Draper_Careers/job/Cambridge-MA/Principal-Embedded-Software-Engineer_JR001899",
         "location": "Cambridge, MA",
-        "raw_updated_at": "Posted 4 Days Ago",
+        "raw_updated_at": "Posted 5 Days Ago",
         "tags": [],
         "first_seen": "2026-07-17"
       },
@@ -30199,7 +30471,7 @@
         "title": "Mixed-Signal Electronic Design Engineer 2",
         "url": "https://draper.wd5.myworkdayjobs.com/en-US/Draper_Careers/job/Cambridge-MA/Mixed-Signal-Electronic-Design-Engineer_JR001938",
         "location": "Cambridge, MA",
-        "raw_updated_at": "Posted 30 Days Ago",
+        "raw_updated_at": "Posted 30+ Days Ago",
         "tags": [],
         "first_seen": "2026-07-17"
       },
@@ -30219,7 +30491,7 @@
         "title": "Flight Software Engineer, Distinguished",
         "url": "https://draper.wd5.myworkdayjobs.com/en-US/Draper_Careers/job/Cambridge-MA/Principal-Flight-Software-Engineer_JR001973",
         "location": "Cambridge, MA",
-        "raw_updated_at": "Posted 4 Days Ago",
+        "raw_updated_at": "Posted 5 Days Ago",
         "tags": [],
         "first_seen": "2026-07-17"
       },
@@ -30239,7 +30511,7 @@
         "title": "Navigation Analyst",
         "url": "https://draper.wd5.myworkdayjobs.com/en-US/Draper_Careers/job/Cambridge-MA/Navigation-Analyst_JR002039",
         "location": "Cambridge, MA",
-        "raw_updated_at": "Posted 3 Days Ago",
+        "raw_updated_at": "Posted 4 Days Ago",
         "tags": [],
         "first_seen": "2026-07-17"
       },
@@ -30249,7 +30521,7 @@
         "title": "Senior Navigation Analysis Engineer",
         "url": "https://draper.wd5.myworkdayjobs.com/en-US/Draper_Careers/job/Cambridge-MA/Senior-Navigation-Analysis-Engineer_JR002040",
         "location": "Cambridge, MA",
-        "raw_updated_at": "Posted 3 Days Ago",
+        "raw_updated_at": "Posted 4 Days Ago",
         "tags": [],
         "first_seen": "2026-07-17"
       },
@@ -30259,7 +30531,7 @@
         "title": "Electronics Hardware Design Engineer",
         "url": "https://draper.wd5.myworkdayjobs.com/en-US/Draper_Careers/job/Cambridge-MA/Electronics-Hardware-Design-Engineer_JR002059",
         "location": "Cambridge, MA",
-        "raw_updated_at": "Posted 30 Days Ago",
+        "raw_updated_at": "Posted 30+ Days Ago",
         "tags": [],
         "first_seen": "2026-07-17"
       },
@@ -30269,7 +30541,7 @@
         "title": "UVM Digital Verification Engineer",
         "url": "https://draper.wd5.myworkdayjobs.com/en-US/Draper_Careers/job/Cambridge-MA/UVM-Digital-Verification-Engineer_JR002068",
         "location": "Cambridge, MA",
-        "raw_updated_at": "Posted 30 Days Ago",
+        "raw_updated_at": "Posted 30+ Days Ago",
         "tags": [],
         "first_seen": "2026-09-03"
       },
@@ -30289,7 +30561,7 @@
         "title": "Senior Digital ASIC Design Engineer",
         "url": "https://draper.wd5.myworkdayjobs.com/en-US/Draper_Careers/job/Cambridge-MA/Principal-Digital-ASIC-Design-Engineer_JR002105",
         "location": "Cambridge, MA",
-        "raw_updated_at": "Posted 30 Days Ago",
+        "raw_updated_at": "Posted 30+ Days Ago",
         "tags": [],
         "first_seen": "2026-07-17"
       },
@@ -30329,7 +30601,7 @@
         "title": "Principal Embedded Software Engineer",
         "url": "https://draper.wd5.myworkdayjobs.com/en-US/Draper_Careers/job/Cambridge-MA/Principal-Embedded-Software-Engineer_JR002163-1",
         "location": "Cambridge, MA",
-        "raw_updated_at": "Posted 4 Days Ago",
+        "raw_updated_at": "Posted 5 Days Ago",
         "tags": [],
         "first_seen": "2026-08-03"
       },
@@ -30349,7 +30621,7 @@
         "title": "Principal Guidance & Control Engineer",
         "url": "https://draper.wd5.myworkdayjobs.com/en-US/Draper_Careers/job/Cambridge-MA/Principal-Guidance---Control-Engineer_JR002173",
         "location": "3 Locations",
-        "raw_updated_at": "Posted 8 Days Ago",
+        "raw_updated_at": "Posted 9 Days Ago",
         "tags": [],
         "first_seen": "2026-07-17"
       },
@@ -30359,7 +30631,7 @@
         "title": "Senior Production Planner/Scheduler",
         "url": "https://draper.wd5.myworkdayjobs.com/en-US/Draper_Careers/job/Cambridge-MA/Scheduler-III-Master-Scheduler_JR002179-1",
         "location": "Cambridge, MA",
-        "raw_updated_at": "Posted 30 Days Ago",
+        "raw_updated_at": "Posted 30+ Days Ago",
         "tags": [],
         "first_seen": "2026-09-02"
       },
@@ -30369,7 +30641,7 @@
         "title": "Principal RF Communications Engineer",
         "url": "https://draper.wd5.myworkdayjobs.com/en-US/Draper_Careers/job/Cambridge-MA/Principal-RF-Communications-Engineer_JR002180-1",
         "location": "Cambridge, MA",
-        "raw_updated_at": "Posted 30 Days Ago",
+        "raw_updated_at": "Posted 30+ Days Ago",
         "tags": [],
         "first_seen": "2026-07-17"
       },
@@ -30389,7 +30661,7 @@
         "title": "Senior Industrial Engineer",
         "url": "https://draper.wd5.myworkdayjobs.com/en-US/Draper_Careers/job/Cambridge-MA/Senior-Industrial-Engineer_JR002222",
         "location": "Cambridge, MA",
-        "raw_updated_at": "Posted 24 Days Ago",
+        "raw_updated_at": "Posted 25 Days Ago",
         "tags": [],
         "first_seen": "2026-07-17"
       },
@@ -30399,7 +30671,7 @@
         "title": "Hardware Electronics Engineer 2",
         "url": "https://draper.wd5.myworkdayjobs.com/en-US/Draper_Careers/job/Cambridge-MA/Hardware-Electronics-Engineer-2_JR002230",
         "location": "Cambridge, MA",
-        "raw_updated_at": "Posted 30 Days Ago",
+        "raw_updated_at": "Posted 30+ Days Ago",
         "tags": [],
         "first_seen": "2026-07-17"
       },
@@ -30429,7 +30701,7 @@
         "title": "Principal Hardware Radiation Test Engineer",
         "url": "https://draper.wd5.myworkdayjobs.com/en-US/Draper_Careers/job/Odon-IN/Hardware-Radiation-Test-Engineer_JR002238",
         "location": "Odon, IN",
-        "raw_updated_at": "Posted 24 Days Ago",
+        "raw_updated_at": "Posted 25 Days Ago",
         "tags": [],
         "first_seen": "2026-07-17"
       },
@@ -30439,7 +30711,7 @@
         "title": "Senior Digital Electronics Design Engineer",
         "url": "https://draper.wd5.myworkdayjobs.com/en-US/Draper_Careers/job/Cambridge-MA/Senior-Digital-Electronics-Design-Engineer_JR002239",
         "location": "Cambridge, MA",
-        "raw_updated_at": "Posted 30 Days Ago",
+        "raw_updated_at": "Posted 30+ Days Ago",
         "tags": [],
         "first_seen": "2026-07-17"
       },
@@ -30449,7 +30721,7 @@
         "title": "Senior Mechanical Design Engineer",
         "url": "https://draper.wd5.myworkdayjobs.com/en-US/Draper_Careers/job/Odon-IN/Senior-Mechanical-Design-Engineer_JR002268",
         "location": "Odon, IN",
-        "raw_updated_at": "Posted 24 Days Ago",
+        "raw_updated_at": "Posted 25 Days Ago",
         "tags": [],
         "first_seen": "2026-07-17"
       },
@@ -30469,7 +30741,7 @@
         "title": "Principal Embedded Software Engineer",
         "url": "https://draper.wd5.myworkdayjobs.com/en-US/Draper_Careers/job/Cambridge-MA/Principal-Embedded-Software-Engineer_JR002284",
         "location": "Cambridge, MA",
-        "raw_updated_at": "Posted 4 Days Ago",
+        "raw_updated_at": "Posted 5 Days Ago",
         "tags": [],
         "first_seen": "2026-07-17"
       },
@@ -30479,7 +30751,7 @@
         "title": "Senior Software Autonomy Engineer",
         "url": "https://draper.wd5.myworkdayjobs.com/en-US/Draper_Careers/job/Cambridge-MA/Senior-Software-Autonomy-Engineer_JR002288",
         "location": "Cambridge, MA",
-        "raw_updated_at": "Posted 3 Days Ago",
+        "raw_updated_at": "Posted 4 Days Ago",
         "tags": [],
         "first_seen": "2026-09-15"
       },
@@ -30509,7 +30781,7 @@
         "title": "Senior/Principal Hardware ASIC Validation Engineer",
         "url": "https://draper.wd5.myworkdayjobs.com/en-US/Draper_Careers/job/Cambridge-MA/Hardware-ASIC-Validation-Engineer_JR002311",
         "location": "2 Locations",
-        "raw_updated_at": "Posted 30 Days Ago",
+        "raw_updated_at": "Posted 30+ Days Ago",
         "tags": [],
         "first_seen": "2026-07-17"
       },
@@ -30529,7 +30801,7 @@
         "title": "Senior Requirements and Test Engineer",
         "url": "https://draper.wd5.myworkdayjobs.com/en-US/Draper_Careers/job/Cambridge-MA/Senior-Systems--Integration-and-Test-Engineer_JR002362",
         "location": "Cambridge, MA",
-        "raw_updated_at": "Posted 22 Days Ago",
+        "raw_updated_at": "Posted 23 Days Ago",
         "tags": [],
         "first_seen": "2026-09-11"
       },
@@ -30569,7 +30841,7 @@
         "title": "Flight Software Engineer",
         "url": "https://draper.wd5.myworkdayjobs.com/en-US/Draper_Careers/job/Cambridge-MA/Flight-Software-Engineer_JR002392",
         "location": "Cambridge, MA",
-        "raw_updated_at": "Posted 4 Days Ago",
+        "raw_updated_at": "Posted 5 Days Ago",
         "tags": [],
         "first_seen": "2026-07-17"
       },
@@ -30599,7 +30871,7 @@
         "title": "Embedded Software Engineer",
         "url": "https://draper.wd5.myworkdayjobs.com/en-US/Draper_Careers/job/Cambridge-MA/Senior-Embedded-Software-Engineer_JR002409",
         "location": "Cambridge, MA",
-        "raw_updated_at": "Posted 4 Days Ago",
+        "raw_updated_at": "Posted 5 Days Ago",
         "tags": [],
         "first_seen": "2026-07-17"
       },
@@ -30609,7 +30881,7 @@
         "title": "Principal Digital Signal Processing System Engineer",
         "url": "https://draper.wd5.myworkdayjobs.com/en-US/Draper_Careers/job/Cambridge-MA/Principal-Digital-Signal-Processing-System-Engineer_JR002416",
         "location": "Cambridge, MA",
-        "raw_updated_at": "Posted 15 Days Ago",
+        "raw_updated_at": "Posted 16 Days Ago",
         "tags": [],
         "first_seen": "2026-07-17"
       },
@@ -30619,7 +30891,7 @@
         "title": "DevSecOps Engineer",
         "url": "https://draper.wd5.myworkdayjobs.com/en-US/Draper_Careers/job/Cambridge-MA/Senior-DevSecOps-Engineer_JR002421",
         "location": "Cambridge, MA",
-        "raw_updated_at": "Posted 3 Days Ago",
+        "raw_updated_at": "Posted 4 Days Ago",
         "tags": [],
         "first_seen": "2026-07-17"
       },
@@ -30669,7 +30941,7 @@
         "title": "Senior Embedded Software Engineer",
         "url": "https://draper.wd5.myworkdayjobs.com/en-US/Draper_Careers/job/Clearfield-UT/Senior-Software-Engineer_JR002450",
         "location": "Clearfield, UT",
-        "raw_updated_at": "Posted 3 Days Ago",
+        "raw_updated_at": "Posted 4 Days Ago",
         "tags": [],
         "first_seen": "2026-07-17"
       },
@@ -30689,7 +30961,7 @@
         "title": "Senior Radiation Analysis Engineer",
         "url": "https://draper.wd5.myworkdayjobs.com/en-US/Draper_Careers/job/Cambridge-MA/Senior-Radiation-Analysis-Engineer_JR002455",
         "location": "Cambridge, MA",
-        "raw_updated_at": "Posted 3 Days Ago",
+        "raw_updated_at": "Posted 4 Days Ago",
         "tags": [],
         "first_seen": "2026-07-17"
       },
@@ -30699,7 +30971,7 @@
         "title": "Principal Embedded Software Engineer",
         "url": "https://draper.wd5.myworkdayjobs.com/en-US/Draper_Careers/job/Cambridge-MA/Principal-Embedded-Software-Engineer_JR002468",
         "location": "Cambridge, MA",
-        "raw_updated_at": "Posted 3 Days Ago",
+        "raw_updated_at": "Posted 4 Days Ago",
         "tags": [],
         "first_seen": "2026-07-17"
       },
@@ -30709,7 +30981,7 @@
         "title": "Senior Flight Software Engineer",
         "url": "https://draper.wd5.myworkdayjobs.com/en-US/Draper_Careers/job/Cambridge-MA/Senior-Flight-Software-Engineer_JR002469",
         "location": "Cambridge, MA",
-        "raw_updated_at": "Posted 3 Days Ago",
+        "raw_updated_at": "Posted 4 Days Ago",
         "tags": [],
         "first_seen": "2026-07-17"
       },
@@ -30719,7 +30991,7 @@
         "title": "Hardware Analysis Engineer (SMTS)",
         "url": "https://draper.wd5.myworkdayjobs.com/en-US/Draper_Careers/job/Cambridge-MA/Hardware-Analysis-Engineer--SMTS-_JR002472-1",
         "location": "Cambridge, MA",
-        "raw_updated_at": "Posted 4 Days Ago",
+        "raw_updated_at": "Posted 5 Days Ago",
         "tags": [],
         "first_seen": "2026-09-28"
       },
@@ -30739,7 +31011,7 @@
         "title": "Supervisor 2, Instrument Technicians",
         "url": "https://draper.wd5.myworkdayjobs.com/en-US/Draper_Careers/job/Cambridge-MA/Supervisor-2--Instrument-Technicians_JR002492",
         "location": "Cambridge, MA",
-        "raw_updated_at": "Posted 24 Days Ago",
+        "raw_updated_at": "Posted 25 Days Ago",
         "tags": [],
         "first_seen": "2026-07-17"
       },
@@ -30749,7 +31021,7 @@
         "title": "Group Leader, Advanced Microelectronics Manufacturing",
         "url": "https://draper.wd5.myworkdayjobs.com/en-US/Draper_Careers/job/Cambridge-MA/Group-Leader--Advanced-Microelectronics-Manufacturing_JR002499",
         "location": "Cambridge, MA",
-        "raw_updated_at": "Posted 24 Days Ago",
+        "raw_updated_at": "Posted 25 Days Ago",
         "tags": [],
         "first_seen": "2026-07-17"
       },
@@ -30769,7 +31041,7 @@
         "title": "Senior Systems Analysis Engineer",
         "url": "https://draper.wd5.myworkdayjobs.com/en-US/Draper_Careers/job/Cambridge-MA/Senior-Systems-Analysis-Engineer_JR002504",
         "location": "Cambridge, MA",
-        "raw_updated_at": "Posted 3 Days Ago",
+        "raw_updated_at": "Posted 4 Days Ago",
         "tags": [],
         "first_seen": "2026-07-17"
       },
@@ -30779,7 +31051,7 @@
         "title": "Sr. Electromagnetic Design Engineer",
         "url": "https://draper.wd5.myworkdayjobs.com/en-US/Draper_Careers/job/Cambridge-MA/Sr-Electromagnetic-Design-Engineer_JR002532",
         "location": "Cambridge, MA",
-        "raw_updated_at": "Posted 24 Days Ago",
+        "raw_updated_at": "Posted 25 Days Ago",
         "tags": [],
         "first_seen": "2026-07-17"
       },
@@ -30799,7 +31071,7 @@
         "title": "Senior Equipment Specialist",
         "url": "https://draper.wd5.myworkdayjobs.com/en-US/Draper_Careers/job/Cambridge-MA/Senior-Equipment-Specialist_JR002556",
         "location": "Cambridge, MA",
-        "raw_updated_at": "Posted Yesterday",
+        "raw_updated_at": "Posted 2 Days Ago",
         "tags": [],
         "first_seen": "2026-07-17"
       },
@@ -30809,7 +31081,7 @@
         "title": "Principal Design for Manufacturing and Assembly (DfX) Engineer",
         "url": "https://draper.wd5.myworkdayjobs.com/en-US/Draper_Careers/job/Cambridge-MA/Principal-Hardware-Product-Engineer_JR002576",
         "location": "Cambridge, MA",
-        "raw_updated_at": "Posted 24 Days Ago",
+        "raw_updated_at": "Posted 25 Days Ago",
         "tags": [],
         "first_seen": "2026-07-17"
       },
@@ -30819,7 +31091,7 @@
         "title": "Senior System Requirements & Concepts Engineer",
         "url": "https://draper.wd5.myworkdayjobs.com/en-US/Draper_Careers/job/Cambridge-MA/Senior-System-Requirements---Concepts-Engineer_JR002587",
         "location": "Cambridge, MA",
-        "raw_updated_at": "Posted 29 Days Ago",
+        "raw_updated_at": "Posted 30 Days Ago",
         "tags": [],
         "first_seen": "2026-07-17"
       },
@@ -30829,7 +31101,7 @@
         "title": "Senior Integration and Test Engineer",
         "url": "https://draper.wd5.myworkdayjobs.com/en-US/Draper_Careers/job/Cambridge-MA/Senior-Integration-and-Test-Engineer_JR002594",
         "location": "Cambridge, MA",
-        "raw_updated_at": "Posted 15 Days Ago",
+        "raw_updated_at": "Posted 16 Days Ago",
         "tags": [],
         "first_seen": "2026-07-17"
       },
@@ -30839,7 +31111,7 @@
         "title": "Principal Integration and Test Engineer",
         "url": "https://draper.wd5.myworkdayjobs.com/en-US/Draper_Careers/job/Cambridge-MA/Principal-Integration-and-Test-Engineer_JR002595",
         "location": "Cambridge, MA",
-        "raw_updated_at": "Posted 30 Days Ago",
+        "raw_updated_at": "Posted 30+ Days Ago",
         "tags": [],
         "first_seen": "2026-07-17"
       },
@@ -30849,7 +31121,7 @@
         "title": "MEMs Microfabrication Process Engineer (Metrology, Test, BEOL, or Bond)",
         "url": "https://draper.wd5.myworkdayjobs.com/en-US/Draper_Careers/job/Cambridge-MA/MEMs-Microfabrication-Process-Engineer--Metrology--Test--BEOL--or-Bond-_JR002602",
         "location": "Cambridge, MA",
-        "raw_updated_at": "Posted 24 Days Ago",
+        "raw_updated_at": "Posted 25 Days Ago",
         "tags": [],
         "first_seen": "2026-07-17"
       },
@@ -30859,7 +31131,7 @@
         "title": "Principal Radiation Architecture Engineer",
         "url": "https://draper.wd5.myworkdayjobs.com/en-US/Draper_Careers/job/Cambridge-MA/Principal-Radiation-Architecture-Engineer_JR002605",
         "location": "Cambridge, MA",
-        "raw_updated_at": "Posted 3 Days Ago",
+        "raw_updated_at": "Posted 4 Days Ago",
         "tags": [],
         "first_seen": "2026-07-17"
       },
@@ -30879,7 +31151,7 @@
         "title": "Senior Flight Software Engineer",
         "url": "https://draper.wd5.myworkdayjobs.com/en-US/Draper_Careers/job/Cambridge-MA/Senior-Flight-Software-Engineer_JR002617",
         "location": "Cambridge, MA",
-        "raw_updated_at": "Posted 3 Days Ago",
+        "raw_updated_at": "Posted 4 Days Ago",
         "tags": [],
         "first_seen": "2026-07-17"
       },
@@ -30889,7 +31161,7 @@
         "title": "Entry Level RF Engineer",
         "url": "https://draper.wd5.myworkdayjobs.com/en-US/Draper_Careers/job/Cambridge-MA/Entry-Level-RF-Engineer_JR002626",
         "location": "Cambridge, MA",
-        "raw_updated_at": "Posted 30 Days Ago",
+        "raw_updated_at": "Posted 30+ Days Ago",
         "tags": [],
         "first_seen": "2026-07-17"
       },
@@ -30909,7 +31181,7 @@
         "title": "ASIC CAD Engineer",
         "url": "https://draper.wd5.myworkdayjobs.com/en-US/Draper_Careers/job/Cambridge-MA/ASIC-CAD-Engineer_JR002635",
         "location": "Cambridge, MA",
-        "raw_updated_at": "Posted 30 Days Ago",
+        "raw_updated_at": "Posted 30+ Days Ago",
         "tags": [],
         "first_seen": "2026-07-17"
       },
@@ -30939,7 +31211,7 @@
         "title": "Manager, Classified IT/Applications",
         "url": "https://draper.wd5.myworkdayjobs.com/en-US/Draper_Careers/job/Cambridge-MA/Manager--Classified-IT-Applications_JR002652",
         "location": "Cambridge, MA",
-        "raw_updated_at": "Posted 10 Days Ago",
+        "raw_updated_at": "Posted 11 Days Ago",
         "tags": [],
         "first_seen": "2026-08-25"
       },
@@ -30959,7 +31231,7 @@
         "title": "Senior System Requirements Engineer",
         "url": "https://draper.wd5.myworkdayjobs.com/en-US/Draper_Careers/job/Cambridge-MA/Senior-System-Requirements-Engineer_JR002660",
         "location": "Cambridge, MA",
-        "raw_updated_at": "Posted 29 Days Ago",
+        "raw_updated_at": "Posted 30 Days Ago",
         "tags": [],
         "first_seen": "2026-07-17"
       },
@@ -30979,7 +31251,7 @@
         "title": "Program Manager 2",
         "url": "https://draper.wd5.myworkdayjobs.com/en-US/Draper_Careers/job/Huntsville-AL/Program-Manager-2_JR002672",
         "location": "Huntsville, AL",
-        "raw_updated_at": "Posted 15 Days Ago",
+        "raw_updated_at": "Posted 16 Days Ago",
         "tags": [],
         "first_seen": "2026-09-17"
       },
@@ -30989,7 +31261,7 @@
         "title": "Principal Sensor Integration and Test Engineer",
         "url": "https://draper.wd5.myworkdayjobs.com/en-US/Draper_Careers/job/Cambridge-MA/Principal-Integration-and-Test-Engineer_JR002674",
         "location": "Cambridge, MA",
-        "raw_updated_at": "Posted 24 Days Ago",
+        "raw_updated_at": "Posted 25 Days Ago",
         "tags": [],
         "first_seen": "2026-07-17"
       },
@@ -30999,7 +31271,7 @@
         "title": "Group Lead - Operating Systems and Emulators",
         "url": "https://draper.wd5.myworkdayjobs.com/en-US/Draper_Careers/job/Cambridge-MA/Group-Lead---Operating-Systems-and-Emulators_JR002681",
         "location": "Cambridge, MA",
-        "raw_updated_at": "Posted 3 Days Ago",
+        "raw_updated_at": "Posted 4 Days Ago",
         "tags": [],
         "first_seen": "2026-07-17"
       },
@@ -31009,7 +31281,7 @@
         "title": "Group Lead - Embedded Systems Technology II",
         "url": "https://draper.wd5.myworkdayjobs.com/en-US/Draper_Careers/job/Cambridge-MA/Group-Lead---Embedded-Systems-Technology-II_JR002682",
         "location": "Cambridge, MA",
-        "raw_updated_at": "Posted 3 Days Ago",
+        "raw_updated_at": "Posted 4 Days Ago",
         "tags": [],
         "first_seen": "2026-07-17"
       },
@@ -31019,7 +31291,7 @@
         "title": "Project Lead ASIC Engineer",
         "url": "https://draper.wd5.myworkdayjobs.com/en-US/Draper_Careers/job/Cambridge-MA/Project-Lead-ASIC-Engineer_JR002683",
         "location": "Cambridge, MA",
-        "raw_updated_at": "Posted 30 Days Ago",
+        "raw_updated_at": "Posted 30+ Days Ago",
         "tags": [],
         "first_seen": "2026-07-17"
       },
@@ -31061,7 +31333,7 @@
         "title": "ECAD Layout and Implementation Group Leader",
         "url": "https://draper.wd5.myworkdayjobs.com/en-US/Draper_Careers/job/Cambridge-MA/ECAD-Implementation-Group-Leader_JR002695-1",
         "location": "Cambridge, MA",
-        "raw_updated_at": "Posted 30 Days Ago",
+        "raw_updated_at": "Posted 30+ Days Ago",
         "tags": [],
         "first_seen": "2026-08-03"
       },
@@ -31071,7 +31343,7 @@
         "title": "ECAD Advanced Technologies Group Leader",
         "url": "https://draper.wd5.myworkdayjobs.com/en-US/Draper_Careers/job/Cambridge-MA/ECAD-Technology-Group-Leader_JR002696",
         "location": "Cambridge, MA",
-        "raw_updated_at": "Posted 30 Days Ago",
+        "raw_updated_at": "Posted 30+ Days Ago",
         "tags": [],
         "first_seen": "2026-08-03"
       },
@@ -31091,7 +31363,7 @@
         "title": "Government Property Manager",
         "url": "https://draper.wd5.myworkdayjobs.com/en-US/Draper_Careers/job/Cambridge-MA/Government-Property-Manager_JR002703",
         "location": "Cambridge, MA",
-        "raw_updated_at": "Posted 11 Days Ago",
+        "raw_updated_at": "Posted 12 Days Ago",
         "tags": [],
         "first_seen": "2026-08-03"
       },
@@ -31111,7 +31383,7 @@
         "title": "Government Accounting and Compliance, Analyst 2",
         "url": "https://draper.wd5.myworkdayjobs.com/en-US/Draper_Careers/job/Cambridge-MA/Government-Accounting-and-Compliance--Analyst-2_JR002724",
         "location": "4 Locations",
-        "raw_updated_at": "Posted 17 Days Ago",
+        "raw_updated_at": "Posted 18 Days Ago",
         "tags": [],
         "first_seen": "2026-08-21"
       },
@@ -31131,7 +31403,7 @@
         "title": "Cost Estimating Analyst 2",
         "url": "https://draper.wd5.myworkdayjobs.com/en-US/Draper_Careers/job/Cambridge-MA/Cost-Estimating-Analyst-2_JR002729",
         "location": "3 Locations",
-        "raw_updated_at": "Posted 17 Days Ago",
+        "raw_updated_at": "Posted 18 Days Ago",
         "tags": [],
         "first_seen": "2026-09-12"
       },
@@ -31141,7 +31413,7 @@
         "title": "IC Packaging Design & Layout Engineer",
         "url": "https://draper.wd5.myworkdayjobs.com/en-US/Draper_Careers/job/Cambridge-MA/IC-Packaging-Design---Layout-Engineer_JR002746",
         "location": "Cambridge, MA",
-        "raw_updated_at": "Posted 30 Days Ago",
+        "raw_updated_at": "Posted 30+ Days Ago",
         "tags": [],
         "first_seen": "2026-08-03"
       },
@@ -31151,7 +31423,7 @@
         "title": "Principal System Quality Engineer",
         "url": "https://draper.wd5.myworkdayjobs.com/en-US/Draper_Careers/job/Clearfield-UT/Principal-System-Quality-Engineer_JR002749",
         "location": "Clearfield, UT",
-        "raw_updated_at": "Posted 8 Days Ago",
+        "raw_updated_at": "Posted 9 Days Ago",
         "tags": [],
         "first_seen": "2026-08-06"
       },
@@ -31161,7 +31433,7 @@
         "title": "Software & Model Quality Assurance Engineer",
         "url": "https://draper.wd5.myworkdayjobs.com/en-US/Draper_Careers/job/Cambridge-MA/Software---Model-Quality-Assurance-Engineer_JR002752",
         "location": "Cambridge, MA",
-        "raw_updated_at": "Posted 4 Days Ago",
+        "raw_updated_at": "Posted 5 Days Ago",
         "tags": [],
         "first_seen": "2026-09-28"
       },
@@ -31171,7 +31443,7 @@
         "title": "IS Security Officer 1",
         "url": "https://draper.wd5.myworkdayjobs.com/en-US/Draper_Careers/job/Cambridge-MA/IS-Security-Officer-2_JR002755",
         "location": "Cambridge, MA",
-        "raw_updated_at": "Posted 17 Days Ago",
+        "raw_updated_at": "Posted 18 Days Ago",
         "tags": [],
         "first_seen": "2026-08-21"
       },
@@ -31193,7 +31465,7 @@
         "title": "Group Leader \u2013 Mission Software Architectures & Applications II",
         "url": "https://draper.wd5.myworkdayjobs.com/en-US/Draper_Careers/job/Cambridge-MA/Group-Leader---Mission-Software-Architectures---Applications-II_JR002770",
         "location": "Cambridge, MA",
-        "raw_updated_at": "Posted 3 Days Ago",
+        "raw_updated_at": "Posted 4 Days Ago",
         "tags": [],
         "first_seen": "2026-08-20"
       },
@@ -31203,7 +31475,7 @@
         "title": "GN&C Modeling, Simulation and Analysis Intern (Summer 2027)",
         "url": "https://draper.wd5.myworkdayjobs.com/en-US/Draper_Careers/job/Cambridge-MA/GN-C-Modeling--Simulation-and-Analysis-Intern--Summer-2027-_JR002773-1",
         "location": "Cambridge, MA",
-        "raw_updated_at": "Posted 3 Days Ago",
+        "raw_updated_at": "Posted 4 Days Ago",
         "tags": [
           "student-role"
         ],
@@ -31225,7 +31497,7 @@
         "title": "Senior Solid-State Sensor Engineer",
         "url": "https://draper.wd5.myworkdayjobs.com/en-US/Draper_Careers/job/Cambridge-MA/Senior-Solid-State-Sensor-Engineer_JR002790",
         "location": "Cambridge, MA",
-        "raw_updated_at": "Posted 23 Days Ago",
+        "raw_updated_at": "Posted 24 Days Ago",
         "tags": [],
         "first_seen": "2026-08-12"
       },
@@ -31245,7 +31517,7 @@
         "title": "Senior Power Electronics Engineer",
         "url": "https://draper.wd5.myworkdayjobs.com/en-US/Draper_Careers/job/Cambridge-MA/Senior-Power-Electronics-Engineer_JR002799",
         "location": "Cambridge, MA",
-        "raw_updated_at": "Posted 30 Days Ago",
+        "raw_updated_at": "Posted 30+ Days Ago",
         "tags": [],
         "first_seen": "2026-08-15"
       },
@@ -31255,7 +31527,7 @@
         "title": "Principal Power Electronics Engineer",
         "url": "https://draper.wd5.myworkdayjobs.com/en-US/Draper_Careers/job/Cambridge-MA/Principal-Power-Electronics-Engineer_JR002800",
         "location": "Cambridge, MA",
-        "raw_updated_at": "Posted 30 Days Ago",
+        "raw_updated_at": "Posted 30+ Days Ago",
         "tags": [],
         "first_seen": "2026-08-15"
       },
@@ -31265,7 +31537,7 @@
         "title": "Senior Precision Analog/Power Electronics Engineer",
         "url": "https://draper.wd5.myworkdayjobs.com/en-US/Draper_Careers/job/Cambridge-MA/Senior-Precision-Analog-Power-Electronics-Engineer_JR002801-1",
         "location": "Cambridge, MA",
-        "raw_updated_at": "Posted 30 Days Ago",
+        "raw_updated_at": "Posted 30+ Days Ago",
         "tags": [],
         "first_seen": "2026-08-15"
       },
@@ -31285,7 +31557,7 @@
         "title": "Senior Mixed Signal Electronics Design Engineer",
         "url": "https://draper.wd5.myworkdayjobs.com/en-US/Draper_Careers/job/Cambridge-MA/Senior-Mixed-Signal-Electronics-Design-Engineer_JR002803",
         "location": "Cambridge, MA",
-        "raw_updated_at": "Posted 30 Days Ago",
+        "raw_updated_at": "Posted 30+ Days Ago",
         "tags": [],
         "first_seen": "2026-08-15"
       },
@@ -31295,7 +31567,7 @@
         "title": "Mixed Signal Electronic Design Engineer",
         "url": "https://draper.wd5.myworkdayjobs.com/en-US/Draper_Careers/job/Cambridge-MA/Mixed-Signal-Electronic-Design-Engineer_JR002804",
         "location": "Cambridge, MA",
-        "raw_updated_at": "Posted 30 Days Ago",
+        "raw_updated_at": "Posted 30+ Days Ago",
         "tags": [],
         "first_seen": "2026-08-15"
       },
@@ -31315,7 +31587,7 @@
         "title": "Senior Electronics Design Engineer",
         "url": "https://draper.wd5.myworkdayjobs.com/en-US/Draper_Careers/job/Cambridge-MA/Senior-Electronics-Design-Engineer_JR002806",
         "location": "Cambridge, MA",
-        "raw_updated_at": "Posted 30 Days Ago",
+        "raw_updated_at": "Posted 30+ Days Ago",
         "tags": [],
         "first_seen": "2026-08-13"
       },
@@ -31335,7 +31607,7 @@
         "title": "Senior Digital Electronics Design Engineer",
         "url": "https://draper.wd5.myworkdayjobs.com/en-US/Draper_Careers/job/Cambridge-MA/Senior-Digital-Electronics-Design-Engineer_JR002808",
         "location": "Cambridge, MA",
-        "raw_updated_at": "Posted 30 Days Ago",
+        "raw_updated_at": "Posted 30+ Days Ago",
         "tags": [],
         "first_seen": "2026-08-15"
       },
@@ -31355,7 +31627,7 @@
         "title": "Electronic Hardware Design Engineer",
         "url": "https://draper.wd5.myworkdayjobs.com/en-US/Draper_Careers/job/Cambridge-MA/Electronic-Hardware-Design-Engineer_JR002810",
         "location": "Cambridge, MA",
-        "raw_updated_at": "Posted 30 Days Ago",
+        "raw_updated_at": "Posted 30+ Days Ago",
         "tags": [],
         "first_seen": "2026-08-15"
       },
@@ -31365,7 +31637,7 @@
         "title": "Senior Digital Electronics Design Engineer",
         "url": "https://draper.wd5.myworkdayjobs.com/en-US/Draper_Careers/job/Cambridge-MA/Senior-Digital-Electronics-Design-Engineer_JR002811",
         "location": "Cambridge, MA",
-        "raw_updated_at": "Posted 30 Days Ago",
+        "raw_updated_at": "Posted 30+ Days Ago",
         "tags": [],
         "first_seen": "2026-08-15"
       },
@@ -31375,7 +31647,7 @@
         "title": "Senior Sensor Electronics Engineer",
         "url": "https://draper.wd5.myworkdayjobs.com/en-US/Draper_Careers/job/Cambridge-MA/Senior-Sensor-Electronics-Engineer_JR002812",
         "location": "Cambridge, MA",
-        "raw_updated_at": "Posted 30 Days Ago",
+        "raw_updated_at": "Posted 30+ Days Ago",
         "tags": [],
         "first_seen": "2026-08-13"
       },
@@ -31385,7 +31657,7 @@
         "title": "Principal Hardware Instrument Engineer",
         "url": "https://draper.wd5.myworkdayjobs.com/en-US/Draper_Careers/job/Cambridge-MA/Principal-Hardware-Instrument-Engineer_JR002813",
         "location": "Cambridge, MA",
-        "raw_updated_at": "Posted 30 Days Ago",
+        "raw_updated_at": "Posted 30+ Days Ago",
         "tags": [],
         "first_seen": "2026-08-13"
       },
@@ -31395,7 +31667,7 @@
         "title": "Director 1, Corporate Facility Security Officer",
         "url": "https://draper.wd5.myworkdayjobs.com/en-US/Draper_Careers/job/Cambridge-MA/Director-1--Corporate-Facility-Security-Officer_JR002829",
         "location": "Cambridge, MA",
-        "raw_updated_at": "Posted 4 Days Ago",
+        "raw_updated_at": "Posted 5 Days Ago",
         "tags": [],
         "first_seen": "2026-09-28"
       },
@@ -31405,7 +31677,7 @@
         "title": "Operations Program Manager",
         "url": "https://draper.wd5.myworkdayjobs.com/en-US/Draper_Careers/job/Cambridge-MA/Operations-Program-Manager_JR002830",
         "location": "Cambridge, MA",
-        "raw_updated_at": "Posted 23 Days Ago",
+        "raw_updated_at": "Posted 24 Days Ago",
         "tags": [],
         "first_seen": "2026-09-04"
       },
@@ -31435,7 +31707,7 @@
         "title": "Sr. Financial Analyst",
         "url": "https://draper.wd5.myworkdayjobs.com/en-US/Draper_Careers/job/Cambridge-MA/Sr-Financial-Analyst_JR002837",
         "location": "Cambridge, MA",
-        "raw_updated_at": "Posted 8 Days Ago",
+        "raw_updated_at": "Posted 9 Days Ago",
         "tags": [],
         "first_seen": "2026-08-21"
       },
@@ -31455,7 +31727,7 @@
         "title": "Principal Systems Engineer",
         "url": "https://draper.wd5.myworkdayjobs.com/en-US/Draper_Careers/job/Cambridge-MA/Principal-Systems-Engineer_JR002839-1",
         "location": "2 Locations",
-        "raw_updated_at": "Posted 30 Days Ago",
+        "raw_updated_at": "Posted 30+ Days Ago",
         "tags": [],
         "first_seen": "2026-09-03"
       },
@@ -31475,7 +31747,7 @@
         "title": "Manager, Network Engineering and Telecommunications",
         "url": "https://draper.wd5.myworkdayjobs.com/en-US/Draper_Careers/job/Cambridge-MA/Manager--Network-Engineering-and-Telecommunications_JR002844",
         "location": "Cambridge, MA",
-        "raw_updated_at": "Posted 9 Days Ago",
+        "raw_updated_at": "Posted 10 Days Ago",
         "tags": [],
         "first_seen": "2026-09-25"
       },
@@ -31485,7 +31757,7 @@
         "title": "Inspector B",
         "url": "https://draper.wd5.myworkdayjobs.com/en-US/Draper_Careers/job/Cambridge-MA/Inspector-B_JR002872-1",
         "location": "Cambridge, MA",
-        "raw_updated_at": "Posted 2 Days Ago",
+        "raw_updated_at": "Posted 3 Days Ago",
         "tags": [],
         "first_seen": "2026-09-11"
       },
@@ -31495,7 +31767,7 @@
         "title": "Information Security Officer 2",
         "url": "https://draper.wd5.myworkdayjobs.com/en-US/Draper_Careers/job/Cambridge-MA/Information-Security-Officer-2_JR002880",
         "location": "2 Locations",
-        "raw_updated_at": "Posted 18 Days Ago",
+        "raw_updated_at": "Posted 19 Days Ago",
         "tags": [],
         "first_seen": "2026-09-15"
       },
@@ -31505,7 +31777,7 @@
         "title": "Production Quality Engineer",
         "url": "https://draper.wd5.myworkdayjobs.com/en-US/Draper_Careers/job/St-Petersburg-FL/Production-Quality-Engineer_JR002881-1",
         "location": "St. Petersburg, FL",
-        "raw_updated_at": "Posted 4 Days Ago",
+        "raw_updated_at": "Posted 5 Days Ago",
         "tags": [],
         "first_seen": "2026-09-28"
       },
@@ -31515,7 +31787,7 @@
         "title": "Systems Engineering Co-Op (Spring 2027)",
         "url": "https://draper.wd5.myworkdayjobs.com/en-US/Draper_Careers/job/Cambridge-MA/Systems-Engineering-Co-Op--Spring-2027-_JR002882",
         "location": "Cambridge, MA",
-        "raw_updated_at": "Posted 21 Days Ago",
+        "raw_updated_at": "Posted 22 Days Ago",
         "tags": [
           "student-role"
         ],
@@ -31563,7 +31835,7 @@
         "title": "Principal Program Finance Analyst",
         "url": "https://draper.wd5.myworkdayjobs.com/en-US/Draper_Careers/job/Cambridge-MA/Principal-Program-Finance-Analyst_JR002887",
         "location": "5 Locations",
-        "raw_updated_at": "Posted 30 Days Ago",
+        "raw_updated_at": "Posted 30+ Days Ago",
         "tags": [],
         "first_seen": "2026-09-03"
       },
@@ -31583,7 +31855,7 @@
         "title": "Program Finance Analyst 2",
         "url": "https://draper.wd5.myworkdayjobs.com/en-US/Draper_Careers/job/Cambridge-MA/Program-Finance-Analyst-2_JR002889",
         "location": "6 Locations",
-        "raw_updated_at": "Posted 30 Days Ago",
+        "raw_updated_at": "Posted 30+ Days Ago",
         "tags": [],
         "first_seen": "2026-09-03"
       },
@@ -31593,7 +31865,7 @@
         "title": "Senior Classified Systems Administrator",
         "url": "https://draper.wd5.myworkdayjobs.com/en-US/Draper_Careers/job/Cambridge-MA/Senior-Classified-Systems-Administrator_JR002890",
         "location": "Cambridge, MA",
-        "raw_updated_at": "Posted 10 Days Ago",
+        "raw_updated_at": "Posted 11 Days Ago",
         "tags": [],
         "first_seen": "2026-09-21"
       },
@@ -31603,7 +31875,7 @@
         "title": "Project Tech",
         "url": "https://draper.wd5.myworkdayjobs.com/en-US/Draper_Careers/job/Cambridge-MA/Project-Tech_JR002891",
         "location": "Cambridge, MA",
-        "raw_updated_at": "Posted 21 Days Ago",
+        "raw_updated_at": "Posted 22 Days Ago",
         "tags": [],
         "first_seen": "2026-09-11"
       },
@@ -31613,7 +31885,7 @@
         "title": "System Quality Engineer",
         "url": "https://draper.wd5.myworkdayjobs.com/en-US/Draper_Careers/job/St-Petersburg-FL/System-Quality-Engineer_JR002893",
         "location": "St. Petersburg, FL",
-        "raw_updated_at": "Posted 22 Days Ago",
+        "raw_updated_at": "Posted 23 Days Ago",
         "tags": [],
         "first_seen": "2026-09-10"
       },
@@ -31623,7 +31895,7 @@
         "title": "Environmental Test Support Technician",
         "url": "https://draper.wd5.myworkdayjobs.com/en-US/Draper_Careers/job/Cambridge-MA/Environmental-Test-Support-Technician_JR002896-1",
         "location": "Cambridge, MA",
-        "raw_updated_at": "Posted 22 Days Ago",
+        "raw_updated_at": "Posted 23 Days Ago",
         "tags": [],
         "first_seen": "2026-09-10"
       },
@@ -31633,7 +31905,7 @@
         "title": "Senior Systems Engineer",
         "url": "https://draper.wd5.myworkdayjobs.com/en-US/Draper_Careers/job/Cambridge-MA/Senior-Systems-Engineer_JR002897",
         "location": "2 Locations",
-        "raw_updated_at": "Posted 30 Days Ago",
+        "raw_updated_at": "Posted 30+ Days Ago",
         "tags": [],
         "first_seen": "2026-09-03"
       },
@@ -31643,7 +31915,7 @@
         "title": "Principal Full Stack Web Developer",
         "url": "https://draper.wd5.myworkdayjobs.com/en-US/Draper_Careers/job/St-Petersburg-FL/Principal-Full-Stack-Web-Developer_JR002898",
         "location": "St. Petersburg, FL",
-        "raw_updated_at": "Posted 16 Days Ago",
+        "raw_updated_at": "Posted 17 Days Ago",
         "tags": [],
         "first_seen": "2026-09-09"
       },
@@ -31653,7 +31925,7 @@
         "title": "Senior Mechanical Design Engineer",
         "url": "https://draper.wd5.myworkdayjobs.com/en-US/Draper_Careers/job/Cambridge-MA/Senior-Mechanical-Design-Engineer_JR002900",
         "location": "2 Locations",
-        "raw_updated_at": "Posted 30 Days Ago",
+        "raw_updated_at": "Posted 30+ Days Ago",
         "tags": [],
         "first_seen": "2026-09-03"
       },
@@ -31663,7 +31935,7 @@
         "title": "Mid-Level Full Stack Web Developer",
         "url": "https://draper.wd5.myworkdayjobs.com/en-US/Draper_Careers/job/St-Petersburg-FL/Mid-Level-Full-Stack-Web-Developer_JR002905",
         "location": "St. Petersburg, FL",
-        "raw_updated_at": "Posted 18 Days Ago",
+        "raw_updated_at": "Posted 19 Days Ago",
         "tags": [],
         "first_seen": "2026-09-14"
       },
@@ -31673,7 +31945,7 @@
         "title": "Mid-Level Full Stack Web Developer (MTS-2)",
         "url": "https://draper.wd5.myworkdayjobs.com/en-US/Draper_Careers/job/Cambridge-MA/Mid-Level-Full-Stack-Web-Developer--MTS-2-_JR002907",
         "location": "Cambridge, MA",
-        "raw_updated_at": "Posted 18 Days Ago",
+        "raw_updated_at": "Posted 19 Days Ago",
         "tags": [],
         "first_seen": "2026-09-14"
       },
@@ -31683,7 +31955,7 @@
         "title": "Senior Full Stack Web Developer",
         "url": "https://draper.wd5.myworkdayjobs.com/en-US/Draper_Careers/job/St-Petersburg-FL/Senior-Full-Stack-Web-Developer_JR002908",
         "location": "St. Petersburg, FL",
-        "raw_updated_at": "Posted 23 Days Ago",
+        "raw_updated_at": "Posted 24 Days Ago",
         "tags": [],
         "first_seen": "2026-09-09"
       },
@@ -31693,7 +31965,7 @@
         "title": "Sr. Program Finance Analyst",
         "url": "https://draper.wd5.myworkdayjobs.com/en-US/Draper_Careers/job/Cambridge-MA/Sr-Program-Finance-Analyst_JR002912",
         "location": "7 Locations",
-        "raw_updated_at": "Posted 22 Days Ago",
+        "raw_updated_at": "Posted 23 Days Ago",
         "tags": [],
         "first_seen": "2026-09-11"
       },
@@ -31703,7 +31975,7 @@
         "title": "Chief Engineer - Navy Strategic Systems",
         "url": "https://draper.wd5.myworkdayjobs.com/en-US/Draper_Careers/job/Cambridge-MA/Chief-Engineer---Navy-Strategic-Systems_JR002918",
         "location": "Cambridge, MA",
-        "raw_updated_at": "Posted 16 Days Ago",
+        "raw_updated_at": "Posted 17 Days Ago",
         "tags": [],
         "first_seen": "2026-09-16"
       },
@@ -31713,7 +31985,7 @@
         "title": "\u202fGroup Leader\u2013Production Test Development and Execution",
         "url": "https://draper.wd5.myworkdayjobs.com/en-US/Draper_Careers/job/Cambridge-MA/XMLNAME--Group-Leader-Production-Test-Development-and-Execution_JR002925",
         "location": "Cambridge, MA",
-        "raw_updated_at": "Posted 10 Days Ago",
+        "raw_updated_at": "Posted 11 Days Ago",
         "tags": [],
         "first_seen": "2026-09-23"
       },
@@ -31723,7 +31995,7 @@
         "title": "Principal Production Test Engineer",
         "url": "https://draper.wd5.myworkdayjobs.com/en-US/Draper_Careers/job/Cambridge-MA/Principal-Production-Test-Engineer_JR002930",
         "location": "Cambridge, MA",
-        "raw_updated_at": "Posted 10 Days Ago",
+        "raw_updated_at": "Posted 11 Days Ago",
         "tags": [],
         "first_seen": "2026-09-18"
       },
@@ -31733,7 +32005,7 @@
         "title": "Senior Digital Signal Processing Systems Engineer",
         "url": "https://draper.wd5.myworkdayjobs.com/en-US/Draper_Careers/job/Cambridge-MA/Senior-Digital-Signal-Processing-Systems-Engineer_JR002931",
         "location": "Cambridge, MA",
-        "raw_updated_at": "Posted 15 Days Ago",
+        "raw_updated_at": "Posted 16 Days Ago",
         "tags": [],
         "first_seen": "2026-09-17"
       },
@@ -31743,7 +32015,7 @@
         "title": "Senior RF Integration & Test Engineer",
         "url": "https://draper.wd5.myworkdayjobs.com/en-US/Draper_Careers/job/Cambridge-MA/Senior-RF-Integration---Test-Engineer_JR002932",
         "location": "Cambridge, MA",
-        "raw_updated_at": "Posted 15 Days Ago",
+        "raw_updated_at": "Posted 16 Days Ago",
         "tags": [],
         "first_seen": "2026-09-17"
       },
@@ -31753,7 +32025,7 @@
         "title": "Requirements Engineer",
         "url": "https://draper.wd5.myworkdayjobs.com/en-US/Draper_Careers/job/Cambridge-MA/Requirements-Engineer_JR002937",
         "location": "3 Locations",
-        "raw_updated_at": "Posted 4 Days Ago",
+        "raw_updated_at": "Posted 5 Days Ago",
         "tags": [],
         "first_seen": "2026-09-29"
       },
@@ -31763,7 +32035,7 @@
         "title": "Senior Requirements Engineer",
         "url": "https://draper.wd5.myworkdayjobs.com/en-US/Draper_Careers/job/Cambridge-MA/Senior-Requirements-Engineer_JR002938",
         "location": "3 Locations",
-        "raw_updated_at": "Posted 4 Days Ago",
+        "raw_updated_at": "Posted 5 Days Ago",
         "tags": [],
         "first_seen": "2026-09-29"
       },
@@ -31773,7 +32045,7 @@
         "title": "Positioning, Navigation, and Timing Instrumentation Group Leader",
         "url": "https://draper.wd5.myworkdayjobs.com/en-US/Draper_Careers/job/Cambridge-MA/Positioning--Navigation--and-Timing-Instrumentation-Group-Leader_JR002939",
         "location": "Cambridge, MA",
-        "raw_updated_at": "Posted 10 Days Ago",
+        "raw_updated_at": "Posted 11 Days Ago",
         "tags": [],
         "first_seen": "2026-09-23"
       },
@@ -31783,7 +32055,7 @@
         "title": "Mechanical Engineering & System Packaging Co-Op (Spring 2027)",
         "url": "https://draper.wd5.myworkdayjobs.com/en-US/Draper_Careers/job/Cambridge-MA/Mechanical-Engineering---System-Packaging-Co-Op--Spring-2027-_JR002940",
         "location": "Cambridge, MA",
-        "raw_updated_at": "Posted 3 Days Ago",
+        "raw_updated_at": "Posted 4 Days Ago",
         "tags": [
           "student-role"
         ],
@@ -31795,7 +32067,7 @@
         "title": "Electrical Engineering Co-Op (Spring 2027)",
         "url": "https://draper.wd5.myworkdayjobs.com/en-US/Draper_Careers/job/Cambridge-MA/Electrical-Engineering-Co-Op--Spring-2027-_JR002941",
         "location": "Cambridge, MA",
-        "raw_updated_at": "Posted 10 Days Ago",
+        "raw_updated_at": "Posted 11 Days Ago",
         "tags": [
           "student-role"
         ],
@@ -31807,7 +32079,7 @@
         "title": "Materials and Chemistry Engineering Co-op (Spring 2027)",
         "url": "https://draper.wd5.myworkdayjobs.com/en-US/Draper_Careers/job/Cambridge-MA/Materials-and-Chemistry-Engineering-Co-op--Spring-2027-_JR002942",
         "location": "Cambridge, MA",
-        "raw_updated_at": "Posted 11 Days Ago",
+        "raw_updated_at": "Posted 12 Days Ago",
         "tags": [
           "student-role"
         ],
@@ -31819,7 +32091,7 @@
         "title": "Mechanical Engineering & System Packaging Intern (Summer 2027)",
         "url": "https://draper.wd5.myworkdayjobs.com/en-US/Draper_Careers/job/Cambridge-MA/Mechanical-Engineering---System-Packaging-Intern--Summer-2027-_JR002943",
         "location": "Cambridge, MA",
-        "raw_updated_at": "Posted 11 Days Ago",
+        "raw_updated_at": "Posted 12 Days Ago",
         "tags": [
           "student-role"
         ],
@@ -31831,7 +32103,7 @@
         "title": "Digital Engineering\u202f\u2013\u202fRequirements Engineering Co-Op (Spring 2027)",
         "url": "https://draper.wd5.myworkdayjobs.com/en-US/Draper_Careers/job/Lowell-MA/Digital-Engineering---Requirements-Engineering-Co-Op--Spring-2027-_JR002944",
         "location": "3 Locations",
-        "raw_updated_at": "Posted 3 Days Ago",
+        "raw_updated_at": "Posted 4 Days Ago",
         "tags": [
           "student-role"
         ],
@@ -31843,7 +32115,7 @@
         "title": "Digital Engineering\u202f\u2013\u202fRequirements Engineering Intern (Summer 2027)",
         "url": "https://draper.wd5.myworkdayjobs.com/en-US/Draper_Careers/job/Lowell-MA/Digital-Engineering---Requirements-Engineering-Intern--Summer-2027-_JR002945-1",
         "location": "3 Locations",
-        "raw_updated_at": "Posted 3 Days Ago",
+        "raw_updated_at": "Posted 4 Days Ago",
         "tags": [
           "student-role"
         ],
@@ -31855,7 +32127,7 @@
         "title": "Software Machine Learning Engineer SMTS",
         "url": "https://draper.wd5.myworkdayjobs.com/en-US/Draper_Careers/job/Cambridge-MA/Software-Machine-Learning-Engineer-SMTS_JR002948",
         "location": "2 Locations",
-        "raw_updated_at": "Posted 10 Days Ago",
+        "raw_updated_at": "Posted 11 Days Ago",
         "tags": [],
         "first_seen": "2026-09-23"
       },
@@ -31865,7 +32137,7 @@
         "title": "Software Machine Learning Engineer MTS1",
         "url": "https://draper.wd5.myworkdayjobs.com/en-US/Draper_Careers/job/Cambridge-MA/Software-Machine-Learning-Engineer-MTS1_JR002949",
         "location": "2 Locations",
-        "raw_updated_at": "Posted 10 Days Ago",
+        "raw_updated_at": "Posted 11 Days Ago",
         "tags": [],
         "first_seen": "2026-09-23"
       },
@@ -31875,7 +32147,7 @@
         "title": "Quality Analyst",
         "url": "https://draper.wd5.myworkdayjobs.com/en-US/Draper_Careers/job/Cambridge-MA/Quality-Analyst_JR002950",
         "location": "Cambridge, MA",
-        "raw_updated_at": "Posted 8 Days Ago",
+        "raw_updated_at": "Posted 9 Days Ago",
         "tags": [],
         "first_seen": "2026-09-25"
       },
@@ -31885,7 +32157,7 @@
         "title": "Program Manger 2",
         "url": "https://draper.wd5.myworkdayjobs.com/en-US/Draper_Careers/job/Cambridge-MA/Program-Manger-2_JR002952",
         "location": "2 Locations",
-        "raw_updated_at": "Posted 9 Days Ago",
+        "raw_updated_at": "Posted 10 Days Ago",
         "tags": [],
         "first_seen": "2026-09-23"
       },
@@ -31895,7 +32167,7 @@
         "title": "Classified Systems Administrator 2",
         "url": "https://draper.wd5.myworkdayjobs.com/en-US/Draper_Careers/job/Cambridge-MA/Classified-Systems-Administrator-2_JR002954",
         "location": "Cambridge, MA",
-        "raw_updated_at": "Posted 2 Days Ago",
+        "raw_updated_at": "Posted 3 Days Ago",
         "tags": [],
         "first_seen": "2026-09-30"
       },
@@ -31905,7 +32177,7 @@
         "title": "Principal System Concepts Engineer",
         "url": "https://draper.wd5.myworkdayjobs.com/en-US/Draper_Careers/job/Cambridge-MA/Principal-System-Concepts-Engineer_JR002958",
         "location": "Cambridge, MA",
-        "raw_updated_at": "Posted 3 Days Ago",
+        "raw_updated_at": "Posted 4 Days Ago",
         "tags": [],
         "first_seen": "2026-09-29"
       },
@@ -31915,7 +32187,7 @@
         "title": "Cable And Harnessing Intern (Summer 2027)",
         "url": "https://draper.wd5.myworkdayjobs.com/en-US/Draper_Careers/job/Cambridge-MA/Cable-And-Harnessing-Intern--Summer-2027-_JR002963",
         "location": "Cambridge, MA",
-        "raw_updated_at": "Posted 2 Days Ago",
+        "raw_updated_at": "Posted 3 Days Ago",
         "tags": [
           "student-role"
         ],
@@ -31927,7 +32199,7 @@
         "title": "Digital Engineering Developer",
         "url": "https://draper.wd5.myworkdayjobs.com/en-US/Draper_Careers/job/Cambridge-MA/Digital-Engineering-Developer_JR002964",
         "location": "3 Locations",
-        "raw_updated_at": "Posted 4 Days Ago",
+        "raw_updated_at": "Posted 5 Days Ago",
         "tags": [],
         "first_seen": "2026-09-29"
       },
@@ -31937,7 +32209,7 @@
         "title": "Requirements and Design Engineer",
         "url": "https://draper.wd5.myworkdayjobs.com/en-US/Draper_Careers/job/Cambridge-MA/Requirements-and-Design-Engineer_JR002965",
         "location": "Cambridge, MA",
-        "raw_updated_at": "Posted 7 Days Ago",
+        "raw_updated_at": "Posted 8 Days Ago",
         "tags": [],
         "first_seen": "2026-09-26"
       },
@@ -31947,7 +32219,7 @@
         "title": "Systems Test Engineer",
         "url": "https://draper.wd5.myworkdayjobs.com/en-US/Draper_Careers/job/Cape-CanaveralTitusville-FL/Systems-Test-Engineer_JR002971",
         "location": "Cape Canaveral/Titusville, FL",
-        "raw_updated_at": "Posted 2 Days Ago",
+        "raw_updated_at": "Posted 3 Days Ago",
         "tags": [],
         "first_seen": "2026-09-30"
       },
@@ -31957,7 +32229,7 @@
         "title": "Integrated Circuits Intern",
         "url": "https://draper.wd5.myworkdayjobs.com/en-US/Draper_Careers/job/Cambridge-MA/Integrated-Circuits-Intern_JR002973",
         "location": "Cambridge, MA",
-        "raw_updated_at": "Posted 2 Days Ago",
+        "raw_updated_at": "Posted 3 Days Ago",
         "tags": [
           "student-role"
         ],
@@ -31969,7 +32241,7 @@
         "title": "Co-Op Student Engineering",
         "url": "https://draper.wd5.myworkdayjobs.com/en-US/Draper_Careers/job/Lowell-MA/Co-Op-Student-Engineering_JR002974",
         "location": "2 Locations",
-        "raw_updated_at": "Posted 3 Days Ago",
+        "raw_updated_at": "Posted 4 Days Ago",
         "tags": [
           "student-role"
         ],
@@ -31981,7 +32253,7 @@
         "title": "Requirements & Concepts Engineer",
         "url": "https://draper.wd5.myworkdayjobs.com/en-US/Draper_Careers/job/Cambridge-MA/Requirements---Concepts-Engineer_JR002975",
         "location": "Cambridge, MA",
-        "raw_updated_at": "Posted 3 Days Ago",
+        "raw_updated_at": "Posted 4 Days Ago",
         "tags": [],
         "first_seen": "2026-09-30"
       },
@@ -31991,7 +32263,7 @@
         "title": "ECAD Layout Design Engineer",
         "url": "https://draper.wd5.myworkdayjobs.com/en-US/Draper_Careers/job/Cambridge-MA/ECAD-Layout-Design-Engineer_JR002976",
         "location": "2 Locations",
-        "raw_updated_at": "Posted 2 Days Ago",
+        "raw_updated_at": "Posted 3 Days Ago",
         "tags": [],
         "first_seen": "2026-09-30"
       },
@@ -32001,7 +32273,7 @@
         "title": "Senior System Concepts Engineer",
         "url": "https://draper.wd5.myworkdayjobs.com/en-US/Draper_Careers/job/Cambridge-MA/Senior-System-Concepts-Engineer_JR002977",
         "location": "Cambridge, MA",
-        "raw_updated_at": "Posted Yesterday",
+        "raw_updated_at": "Posted 2 Days Ago",
         "tags": [],
         "first_seen": "2026-10-01"
       },
@@ -32011,7 +32283,7 @@
         "title": "Cable Harness and Interconnect Design Engineer",
         "url": "https://draper.wd5.myworkdayjobs.com/en-US/Draper_Careers/job/Cambridge-MA/Cable-Harness-and-Interconnect-Design-Engineer_JR002981",
         "location": "Cambridge, MA",
-        "raw_updated_at": "Posted Yesterday",
+        "raw_updated_at": "Posted 2 Days Ago",
         "tags": [],
         "first_seen": "2026-10-01"
       },
@@ -32021,7 +32293,7 @@
         "title": "Distinguished System Requirements Engineer",
         "url": "https://draper.wd5.myworkdayjobs.com/en-US/Draper_Careers/job/Clearfield-UT/Distinguished-System-Requirements-Engineer_JR002983-1",
         "location": "Clearfield, UT",
-        "raw_updated_at": "Posted Yesterday",
+        "raw_updated_at": "Posted 2 Days Ago",
         "tags": [],
         "first_seen": "2026-10-01"
       },
@@ -32031,7 +32303,7 @@
         "title": "Quality Engineer",
         "url": "https://draper.wd5.myworkdayjobs.com/en-US/Draper_Careers/job/Cambridge-MA/Quality-Engineer_JR002987-1",
         "location": "Cambridge, MA",
-        "raw_updated_at": "Posted Yesterday",
+        "raw_updated_at": "Posted 2 Days Ago",
         "tags": [],
         "first_seen": "2026-10-02"
       }
