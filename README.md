@@ -86,7 +86,7 @@ Tip: before writing selectors, check whether the site embeds Greenhouse/Workday 
 ---
 
 <!-- REQCON:START -->
-**Last scan:** 2026-10-03 10:59 EDT · 8 boards · 45 new · 18 removed
+**Last scan:** 2026-10-04 11:34 EDT · 8 boards · 2 new · 7 removed
 
 ✅ Lila Sciences · ✅ BillionToOne · ✅ Anduril · ✅ Formlabs · ✅ STR · ✅ Draper · ✅ MERL (Mitsubishi Electric Research Labs) · ✅ Ubicept
 
@@ -104,6 +104,8 @@ Tip: before writing selectors, check whether the site embeds Greenhouse/Workday 
 | 🎓 Draper | [Digital Engineering – Requirements Engineering Intern (Summer 2027)](https://draper.wd5.myworkdayjobs.com/en-US/Draper_Careers/job/Lowell-MA/Digital-Engineering---Requirements-Engineering-Intern--Summer-2027-_JR002945-1) | 3 Locations | 2026-09-29 |
 | 🎓 Draper | [GN&C Modeling, Simulation and Analysis Intern (Summer 2027)](https://draper.wd5.myworkdayjobs.com/en-US/Draper_Careers/job/Cambridge-MA/GN-C-Modeling--Simulation-and-Analysis-Intern--Summer-2027-_JR002773-1) | Cambridge, MA | 2026-09-29 |
 | 🎓 Draper | [Mechanical Engineering & System Packaging Co-Op (Spring 2027)](https://draper.wd5.myworkdayjobs.com/en-US/Draper_Careers/job/Cambridge-MA/Mechanical-Engineering---System-Packaging-Co-Op--Spring-2027-_JR002940) | Cambridge, MA | 2026-09-29 |
+| Anduril | [Production Operations Manager, Maritime Manufacturing](https://boards.greenhouse.io/andurilindustries/jobs/5253234007?gh_jid=5253234007) | Santa Ana, California, United States | 2026-10-04 |
+| Anduril | [Technical Program Manager, PMO](https://boards.greenhouse.io/andurilindustries/jobs/5256456007?gh_jid=5256456007) | Santa Ana, California, United States | 2026-10-04 |
 | Anduril | [Additive Manufacturing Tech, FDM (3D Print)](https://boards.greenhouse.io/andurilindustries/jobs/5200196007?gh_jid=5200196007) | Costa Mesa, California, United States | 2026-10-03 |
 | Anduril | [Buyer/Planner](https://boards.greenhouse.io/andurilindustries/jobs/5243263007?gh_jid=5243263007) | Quincy, Massachusetts, United States | 2026-10-03 |
 | Anduril | [CAD Designer, Maritime Production](https://boards.greenhouse.io/andurilindustries/jobs/5231433007?gh_jid=5231433007) | Santa Ana, California, United States | 2026-10-03 |
@@ -122,13 +124,11 @@ Tip: before writing selectors, check whether the site embeds Greenhouse/Workday 
 | Anduril | [Lab Manager, Space](https://boards.greenhouse.io/andurilindustries/jobs/5256011007?gh_jid=5256011007) | Costa Mesa, California, United States | 2026-10-03 |
 | Anduril | [Manager, Manufacturing Test Engineering, Electromagnetic Warfare](https://boards.greenhouse.io/andurilindustries/jobs/5256072007?gh_jid=5256072007) | Irvine, California, United States | 2026-10-03 |
 | Anduril | [Manager, Product Quality Engineering](https://boards.greenhouse.io/andurilindustries/jobs/5231623007?gh_jid=5231623007) | Santa Ana, California, United States | 2026-10-03 |
-| Anduril | [Manager, RF Manufacturing Test Engineering](https://boards.greenhouse.io/andurilindustries/jobs/5256069007?gh_jid=5256069007) | Irvine, California, United States | 2026-10-03 |
-| Anduril | [Manufacturing Test Engineer, Electronic Warfare](https://boards.greenhouse.io/andurilindustries/jobs/5256033007?gh_jid=5256033007) | Irvine, California, United States | 2026-10-03 |
 
-…and 381 more — see the [latest digest](reports/reqcon-2026-10-03.md).
+…and 381 more — see the [latest digest](reports/reqcon-2026-10-04.md).
 
 <details>
-<summary>All tracked postings (3234)</summary>
+<summary>All tracked postings (3229)</summary>
 
 **Lila Sciences** (105)
 - [(Senior) Director, Portfolio Strategy, Life Sciences](https://job-boards.greenhouse.io/lilasciences/jobs/4258093009) — Cambridge, MA USA
@@ -320,7 +320,7 @@ Tip: before writing selectors, check whether the site embeds Greenhouse/Workday 
 - [Senior Software Engineer, Prenatal](https://job-boards.greenhouse.io/billiontoone/jobs/4305991005) — Menlo Park, CA
 - [Senior Stock Plan Administrator ](https://job-boards.greenhouse.io/billiontoone/jobs/4730826005) — Menlo Park, CA
 
-**Anduril** (2435)
+**Anduril** (2432)
 - 🎓 [2026 Guidance, Navigation & Control Engineer Intern](https://boards.greenhouse.io/andurilindustries/jobs/5252665007?gh_jid=5252665007) — Sydney, New South Wales, Australia
 - 🎓 [2027 Electrical Engineer Intern](https://boards.greenhouse.io/andurilindustries/jobs/5148101007?gh_jid=5148101007) — Atlanta, Georgia, United States; Boston, Massachusetts, United States; Broomfield, Colorado, United States; Colorado Springs, Colorado, United States; Costa Mesa, California, United States; Fort Collins, Colorado, United States; Irvine, California, United States; Reston, Virginia, United States; Seattle, Washington, United States
 - 🎓 [2027 Flight Software Engineer Intern](https://boards.greenhouse.io/andurilindustries/jobs/5239083007?gh_jid=5239083007) — Costa Mesa, California, United States
@@ -536,7 +536,7 @@ Tip: before writing selectors, check whether the site embeds Greenhouse/Workday 
 - [Demand & Supply Planner, Air Defense](https://boards.greenhouse.io/andurilindustries/jobs/5200160007?gh_jid=5200160007) — Costa Mesa, California, United States
 - [Demand & Supply Planner, Air Dominance & Strike](https://boards.greenhouse.io/andurilindustries/jobs/5165226007?gh_jid=5165226007) — Costa Mesa, California, United States
 
-_…truncated at 400 rows (3234 total)._
+_…truncated at 400 rows (3229 total)._
 
 </details>
 <!-- REQCON:END -->

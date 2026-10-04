@@ -1,21 +1,10 @@
 {
-  "run_at": "2026-10-03T10:59:14.172674-04:00",
+  "run_at": "2026-10-04T11:34:19.836425-04:00",
   "boards": [
     {
       "board_id": "lila-sciences",
       "status": "ok",
-      "added": [
-        {
-          "board_id": "lila-sciences",
-          "posting_id": "4277806009",
-          "title": "Engineer I, Research Operations, (1st shift)",
-          "url": "https://job-boards.greenhouse.io/lilasciences/jobs/4277806009",
-          "location": "Cambridge, MA USA",
-          "raw_updated_at": "2026-10-02T14:13:18-04:00",
-          "tags": [],
-          "first_seen": "2026-10-03"
-        }
-      ],
+      "added": [],
       "removed": [],
       "changed": [],
       "total_postings": 105
@@ -34,888 +23,86 @@
       "added": [
         {
           "board_id": "anduril",
-          "posting_id": "5255593007",
-          "title": "2027 Industrial Engineer Intern",
-          "url": "https://boards.greenhouse.io/andurilindustries/jobs/5255593007?gh_jid=5255593007",
-          "location": "Ashville, Ohio, United States; Costa Mesa, California, United States",
-          "raw_updated_at": "2026-10-02T12:42:09-04:00",
-          "tags": [
-            "student-role"
-          ],
-          "first_seen": "2026-10-03"
-        },
-        {
-          "board_id": "anduril",
-          "posting_id": "5255827007",
-          "title": "2027 Supply Chain Intern",
-          "url": "https://boards.greenhouse.io/andurilindustries/jobs/5255827007?gh_jid=5255827007",
-          "location": "Costa Mesa, California, United States; Fort Collins, Colorado, United States; Quincy, Massachusetts, United States; Santa Ana, California, United States; Waltham, Massachusetts, United States",
-          "raw_updated_at": "2026-10-02T15:13:40-04:00",
-          "tags": [
-            "student-role"
-          ],
-          "first_seen": "2026-10-03"
-        },
-        {
-          "board_id": "anduril",
-          "posting_id": "5200196007",
-          "title": "Additive Manufacturing Tech, FDM (3D Print)",
-          "url": "https://boards.greenhouse.io/andurilindustries/jobs/5200196007?gh_jid=5200196007",
-          "location": "Costa Mesa, California, United States",
-          "raw_updated_at": "2026-10-02T13:24:55-04:00",
-          "tags": [],
-          "first_seen": "2026-10-03"
-        },
-        {
-          "board_id": "anduril",
-          "posting_id": "5243263007",
-          "title": "Buyer/Planner",
-          "url": "https://boards.greenhouse.io/andurilindustries/jobs/5243263007?gh_jid=5243263007",
-          "location": "Quincy, Massachusetts, United States",
-          "raw_updated_at": "2026-10-02T15:20:45-04:00",
-          "tags": [],
-          "first_seen": "2026-10-03"
-        },
-        {
-          "board_id": "anduril",
-          "posting_id": "5231433007",
-          "title": "CAD Designer, Maritime Production",
-          "url": "https://boards.greenhouse.io/andurilindustries/jobs/5231433007?gh_jid=5231433007",
+          "posting_id": "5253234007",
+          "title": "Production Operations Manager, Maritime Manufacturing",
+          "url": "https://boards.greenhouse.io/andurilindustries/jobs/5253234007?gh_jid=5253234007",
           "location": "Santa Ana, California, United States",
-          "raw_updated_at": "2026-10-02T19:00:36-04:00",
+          "raw_updated_at": "2026-10-04T10:38:31-04:00",
           "tags": [],
-          "first_seen": "2026-10-03"
+          "first_seen": "2026-10-04"
         },
         {
           "board_id": "anduril",
-          "posting_id": "5254633007",
-          "title": "Chief Engineer - Tactical Effects",
-          "url": "https://boards.greenhouse.io/andurilindustries/jobs/5254633007?gh_jid=5254633007",
-          "location": "Costa Mesa, California, United States",
-          "raw_updated_at": "2026-10-02T12:41:50-04:00",
-          "tags": [],
-          "first_seen": "2026-10-03"
-        },
-        {
-          "board_id": "anduril",
-          "posting_id": "5249524007",
-          "title": "Deployment & Training Manager, Commercial",
-          "url": "https://boards.greenhouse.io/andurilindustries/jobs/5249524007?gh_jid=5249524007",
-          "location": "Irvine, California, United States",
-          "raw_updated_at": "2026-10-02T17:48:50-04:00",
-          "tags": [],
-          "first_seen": "2026-10-03"
-        },
-        {
-          "board_id": "anduril",
-          "posting_id": "5255657007",
-          "title": "Deputy Chief Engineer, Discovery ",
-          "url": "https://boards.greenhouse.io/andurilindustries/jobs/5255657007?gh_jid=5255657007",
-          "location": "Costa Mesa, California, United States; Waltham, Massachusetts, United States; Washington, District of Columbia, United States",
-          "raw_updated_at": "2026-10-02T13:25:36-04:00",
-          "tags": [],
-          "first_seen": "2026-10-03"
-        },
-        {
-          "board_id": "anduril",
-          "posting_id": "5255572007",
-          "title": "Deputy Chief Engineer, Tactical Effects",
-          "url": "https://boards.greenhouse.io/andurilindustries/jobs/5255572007?gh_jid=5255572007",
-          "location": "Costa Mesa, California, United States",
-          "raw_updated_at": "2026-10-02T12:39:36-04:00",
-          "tags": [],
-          "first_seen": "2026-10-03"
-        },
-        {
-          "board_id": "anduril",
-          "posting_id": "5030386007",
-          "title": "DevOps Engineer",
-          "url": "https://boards.greenhouse.io/andurilindustries/jobs/5030386007?gh_jid=5030386007",
-          "location": "Fort Collins, Colorado, United States",
-          "raw_updated_at": "2026-10-02T21:48:28-04:00",
-          "tags": [],
-          "first_seen": "2026-10-03"
-        },
-        {
-          "board_id": "anduril",
-          "posting_id": "5256306007",
-          "title": "DevOps Engineer, Radar",
-          "url": "https://boards.greenhouse.io/andurilindustries/jobs/5256306007?gh_jid=5256306007",
-          "location": "Fort Collins, Colorado, United States",
-          "raw_updated_at": "2026-10-02T21:48:30-04:00",
-          "tags": [],
-          "first_seen": "2026-10-03"
-        },
-        {
-          "board_id": "anduril",
-          "posting_id": "5251881007",
-          "title": "Director of Supply Chain",
-          "url": "https://boards.greenhouse.io/andurilindustries/jobs/5251881007?gh_jid=5251881007",
-          "location": "Atlanta, Georgia, United States",
-          "raw_updated_at": "2026-10-02T14:20:51-04:00",
-          "tags": [],
-          "first_seen": "2026-10-03"
-        },
-        {
-          "board_id": "anduril",
-          "posting_id": "5256023007",
-          "title": "Electrical Test Engineer",
-          "url": "https://boards.greenhouse.io/andurilindustries/jobs/5256023007?gh_jid=5256023007",
-          "location": "Irvine, California, United States",
-          "raw_updated_at": "2026-10-02T17:12:48-04:00",
-          "tags": [],
-          "first_seen": "2026-10-03"
-        },
-        {
-          "board_id": "anduril",
-          "posting_id": "5249522007",
-          "title": "Field Operations Manager, Commercial",
-          "url": "https://boards.greenhouse.io/andurilindustries/jobs/5249522007?gh_jid=5249522007",
-          "location": "Irvine, California, United States",
-          "raw_updated_at": "2026-10-02T17:41:53-04:00",
-          "tags": [],
-          "first_seen": "2026-10-03"
-        },
-        {
-          "board_id": "anduril",
-          "posting_id": "5255981007",
-          "title": "Fleet Integration Manager, Surface Maritime",
-          "url": "https://boards.greenhouse.io/andurilindustries/jobs/5255981007?gh_jid=5255981007",
-          "location": "Costa Mesa, California, United States",
-          "raw_updated_at": "2026-10-02T23:03:56-04:00",
-          "tags": [],
-          "first_seen": "2026-10-03"
-        },
-        {
-          "board_id": "anduril",
-          "posting_id": "5256064007",
-          "title": "Hardware Test Engineering Manager",
-          "url": "https://boards.greenhouse.io/andurilindustries/jobs/5256064007?gh_jid=5256064007",
-          "location": "Irvine, California, United States",
-          "raw_updated_at": "2026-10-02T17:24:43-04:00",
-          "tags": [],
-          "first_seen": "2026-10-03"
-        },
-        {
-          "board_id": "anduril",
-          "posting_id": "5253538007",
-          "title": "Head of Technical Program Management, EW",
-          "url": "https://boards.greenhouse.io/andurilindustries/jobs/5253538007?gh_jid=5253538007",
-          "location": "Costa Mesa, California, United States",
-          "raw_updated_at": "2026-10-02T12:54:30-04:00",
-          "tags": [],
-          "first_seen": "2026-10-03"
-        },
-        {
-          "board_id": "anduril",
-          "posting_id": "5256011007",
-          "title": "Lab Manager, Space",
-          "url": "https://boards.greenhouse.io/andurilindustries/jobs/5256011007?gh_jid=5256011007",
-          "location": "Costa Mesa, California, United States",
-          "raw_updated_at": "2026-10-02T17:04:56-04:00",
-          "tags": [],
-          "first_seen": "2026-10-03"
-        },
-        {
-          "board_id": "anduril",
-          "posting_id": "5256072007",
-          "title": "Manager, Manufacturing Test Engineering, Electromagnetic Warfare",
-          "url": "https://boards.greenhouse.io/andurilindustries/jobs/5256072007?gh_jid=5256072007",
-          "location": "Irvine, California, United States",
-          "raw_updated_at": "2026-10-02T17:24:44-04:00",
-          "tags": [],
-          "first_seen": "2026-10-03"
-        },
-        {
-          "board_id": "anduril",
-          "posting_id": "5231623007",
-          "title": "Manager, Product Quality Engineering",
-          "url": "https://boards.greenhouse.io/andurilindustries/jobs/5231623007?gh_jid=5231623007",
+          "posting_id": "5256456007",
+          "title": "Technical Program Manager, PMO",
+          "url": "https://boards.greenhouse.io/andurilindustries/jobs/5256456007?gh_jid=5256456007",
           "location": "Santa Ana, California, United States",
-          "raw_updated_at": "2026-10-02T14:18:22-04:00",
+          "raw_updated_at": "2026-10-04T10:18:22-04:00",
           "tags": [],
-          "first_seen": "2026-10-03"
-        },
-        {
-          "board_id": "anduril",
-          "posting_id": "5256069007",
-          "title": "Manager, RF Manufacturing Test Engineering",
-          "url": "https://boards.greenhouse.io/andurilindustries/jobs/5256069007?gh_jid=5256069007",
-          "location": "Irvine, California, United States",
-          "raw_updated_at": "2026-10-02T17:24:47-04:00",
-          "tags": [],
-          "first_seen": "2026-10-03"
-        },
-        {
-          "board_id": "anduril",
-          "posting_id": "5256033007",
-          "title": "Manufacturing Test Engineer, Electronic Warfare",
-          "url": "https://boards.greenhouse.io/andurilindustries/jobs/5256033007?gh_jid=5256033007",
-          "location": "Irvine, California, United States",
-          "raw_updated_at": "2026-10-02T17:16:12-04:00",
-          "tags": [],
-          "first_seen": "2026-10-03"
-        },
-        {
-          "board_id": "anduril",
-          "posting_id": "5256233007",
-          "title": "Mission Systems Engineer, Antenna Lead",
-          "url": "https://boards.greenhouse.io/andurilindustries/jobs/5256233007?gh_jid=5256233007",
-          "location": "Costa Mesa, California, United States",
-          "raw_updated_at": "2026-10-02T19:23:27-04:00",
-          "tags": [],
-          "first_seen": "2026-10-03"
-        },
-        {
-          "board_id": "anduril",
-          "posting_id": "5256305007",
-          "title": "Platform Engineer, Radar",
-          "url": "https://boards.greenhouse.io/andurilindustries/jobs/5256305007?gh_jid=5256305007",
-          "location": "Fort Collins, Colorado, United States",
-          "raw_updated_at": "2026-10-02T21:48:33-04:00",
-          "tags": [],
-          "first_seen": "2026-10-03"
-        },
-        {
-          "board_id": "anduril",
-          "posting_id": "5256059007",
-          "title": "Production Test Engineering Manager",
-          "url": "https://boards.greenhouse.io/andurilindustries/jobs/5256059007?gh_jid=5256059007",
-          "location": "Irvine, California, United States",
-          "raw_updated_at": "2026-10-02T17:24:49-04:00",
-          "tags": [],
-          "first_seen": "2026-10-03"
-        },
-        {
-          "board_id": "anduril",
-          "posting_id": "5256137007",
-          "title": "Program Security Manager",
-          "url": "https://boards.greenhouse.io/andurilindustries/jobs/5256137007?gh_jid=5256137007",
-          "location": "Costa Mesa, California, United States",
-          "raw_updated_at": "2026-10-02T18:46:12-04:00",
-          "tags": [],
-          "first_seen": "2026-10-03"
-        },
-        {
-          "board_id": "anduril",
-          "posting_id": "5220660007",
-          "title": "Propulsion Test Engineer, Turbomachinery",
-          "url": "https://boards.greenhouse.io/andurilindustries/jobs/5220660007?gh_jid=5220660007",
-          "location": "Santa Ana, California, United States",
-          "raw_updated_at": "2026-10-02T13:25:35-04:00",
-          "tags": [],
-          "first_seen": "2026-10-03"
-        },
-        {
-          "board_id": "anduril",
-          "posting_id": "5256046007",
-          "title": "Radio Frequency Test Engineer",
-          "url": "https://boards.greenhouse.io/andurilindustries/jobs/5256046007?gh_jid=5256046007",
-          "location": "Irvine, California, United States",
-          "raw_updated_at": "2026-10-02T17:19:08-04:00",
-          "tags": [],
-          "first_seen": "2026-10-03"
-        },
-        {
-          "board_id": "anduril",
-          "posting_id": "5255525007",
-          "title": "Realtime Software Engineer",
-          "url": "https://boards.greenhouse.io/andurilindustries/jobs/5255525007?gh_jid=5255525007",
-          "location": "Waltham, Massachusetts, United States",
-          "raw_updated_at": "2026-10-02T13:14:05-04:00",
-          "tags": [],
-          "first_seen": "2026-10-03"
-        },
-        {
-          "board_id": "anduril",
-          "posting_id": "5225979007",
-          "title": "Senior Electrical Engineer",
-          "url": "https://boards.greenhouse.io/andurilindustries/jobs/5225979007?gh_jid=5225979007",
-          "location": "Costa Mesa, California, United States",
-          "raw_updated_at": "2026-10-02T17:51:10-04:00",
-          "tags": [],
-          "first_seen": "2026-10-03"
-        },
-        {
-          "board_id": "anduril",
-          "posting_id": "5254498007",
-          "title": "Senior Financial Analyst, Connected Warfare",
-          "url": "https://boards.greenhouse.io/andurilindustries/jobs/5254498007?gh_jid=5254498007",
-          "location": "Costa Mesa, California, United States; Seattle, Washington, United States; Washington, District of Columbia, United States",
-          "raw_updated_at": "2026-10-02T14:04:24-04:00",
-          "tags": [],
-          "first_seen": "2026-10-03"
-        },
-        {
-          "board_id": "anduril",
-          "posting_id": "5256234007",
-          "title": "Senior Mission Systems Engineer, EO/IR Seekers",
-          "url": "https://boards.greenhouse.io/andurilindustries/jobs/5256234007?gh_jid=5256234007",
-          "location": "Costa Mesa, California, United States",
-          "raw_updated_at": "2026-10-02T19:36:25-04:00",
-          "tags": [],
-          "first_seen": "2026-10-03"
-        },
-        {
-          "board_id": "anduril",
-          "posting_id": "5246753007",
-          "title": "Senior Product Quality Engineer",
-          "url": "https://boards.greenhouse.io/andurilindustries/jobs/5246753007?gh_jid=5246753007",
-          "location": "Ashville, Ohio, United States",
-          "raw_updated_at": "2026-10-02T12:47:53-04:00",
-          "tags": [],
-          "first_seen": "2026-10-03"
-        },
-        {
-          "board_id": "anduril",
-          "posting_id": "5235314007",
-          "title": "Senior Weapons Integration Engineer, Thunder",
-          "url": "https://boards.greenhouse.io/andurilindustries/jobs/5235314007?gh_jid=5235314007",
-          "location": "Costa Mesa, California, United States",
-          "raw_updated_at": "2026-10-02T12:56:26-04:00",
-          "tags": [],
-          "first_seen": "2026-10-03"
-        },
-        {
-          "board_id": "anduril",
-          "posting_id": "5256304007",
-          "title": "Software Quality Engineer, Radar",
-          "url": "https://boards.greenhouse.io/andurilindustries/jobs/5256304007?gh_jid=5256304007",
-          "location": "Fort Collins, Colorado, United States",
-          "raw_updated_at": "2026-10-02T21:48:35-04:00",
-          "tags": [],
-          "first_seen": "2026-10-03"
-        },
-        {
-          "board_id": "anduril",
-          "posting_id": "5256229007",
-          "title": "Staff Embedded Engineer, EW",
-          "url": "https://boards.greenhouse.io/andurilindustries/jobs/5256229007?gh_jid=5256229007",
-          "location": "Costa Mesa, California, United States",
-          "raw_updated_at": "2026-10-02T19:00:41-04:00",
-          "tags": [],
-          "first_seen": "2026-10-03"
-        },
-        {
-          "board_id": "anduril",
-          "posting_id": "5131244007",
-          "title": "Staff Technical Program Manager, Game Development",
-          "url": "https://boards.greenhouse.io/andurilindustries/jobs/5131244007?gh_jid=5131244007",
-          "location": "Costa Mesa, California, United States",
-          "raw_updated_at": "2026-10-02T15:23:42-04:00",
-          "tags": [],
-          "first_seen": "2026-10-03"
-        },
-        {
-          "board_id": "anduril",
-          "posting_id": "5255079007",
-          "title": "Systems Test Engineer, IBCS-M",
-          "url": "https://boards.greenhouse.io/andurilindustries/jobs/5255079007?gh_jid=5255079007",
-          "location": "Costa Mesa, California, United States",
-          "raw_updated_at": "2026-10-03T09:20:21-04:00",
-          "tags": [],
-          "first_seen": "2026-10-03"
-        },
-        {
-          "board_id": "anduril",
-          "posting_id": "5227076007",
-          "title": "Tooling Design Engineer, Air Vehicles",
-          "url": "https://boards.greenhouse.io/andurilindustries/jobs/5227076007?gh_jid=5227076007",
-          "location": "Costa Mesa, California, United States",
-          "raw_updated_at": "2026-10-02T13:05:02-04:00",
-          "tags": [],
-          "first_seen": "2026-10-03"
+          "first_seen": "2026-10-04"
         }
       ],
       "removed": [
         {
           "board_id": "anduril",
-          "posting_id": "5082586007",
-          "title": "Director of Maneuver Dominance & Maritime, International Trade Compliance",
-          "url": "https://boards.greenhouse.io/andurilindustries/jobs/5082586007?gh_jid=5082586007",
-          "location": "Washington, District of Columbia, United States",
+          "posting_id": "5126216007",
+          "title": "Production Operations Manager, Maritime",
+          "url": "https://boards.greenhouse.io/andurilindustries/jobs/5126216007?gh_jid=5126216007",
+          "location": "Santa Ana, California, United States",
           "raw_updated_at": "2026-09-24T15:54:51-04:00",
           "tags": [],
           "first_seen": "2026-07-17"
         },
         {
           "board_id": "anduril",
-          "posting_id": "5100621007",
-          "title": "Director of Maneuver Dominance & Maritime, International Trade Compliance",
-          "url": "https://boards.greenhouse.io/andurilindustries/jobs/5100621007?gh_jid=5100621007",
-          "location": "Costa Mesa, California, United States",
+          "posting_id": "5134342007",
+          "title": "Quality Specialist, Maritime",
+          "url": "https://boards.greenhouse.io/andurilindustries/jobs/5134342007?gh_jid=5134342007",
+          "location": "Santa Ana, California, United States",
           "raw_updated_at": "2026-09-24T15:54:51-04:00",
           "tags": [],
           "first_seen": "2026-07-17"
         },
         {
           "board_id": "anduril",
-          "posting_id": "5129455007",
-          "title": "Senior Technical Program Manager, Small Drones ",
-          "url": "https://boards.greenhouse.io/andurilindustries/jobs/5129455007?gh_jid=5129455007",
-          "location": "Costa Mesa, California, United States",
+          "posting_id": "5167428007",
+          "title": "Quality Engineer, Maritime",
+          "url": "https://boards.greenhouse.io/andurilindustries/jobs/5167428007?gh_jid=5167428007",
+          "location": "Santa Ana, California, United States",
           "raw_updated_at": "2026-09-24T15:54:51-04:00",
           "tags": [],
-          "first_seen": "2026-08-11"
+          "first_seen": "2026-07-17"
         },
         {
           "board_id": "anduril",
-          "posting_id": "5150729007",
-          "title": "Software Program Manager - Radar",
-          "url": "https://boards.greenhouse.io/andurilindustries/jobs/5150729007?gh_jid=5150729007",
-          "location": "Fort Collins, Colorado, United States",
+          "posting_id": "5167525007",
+          "title": "Metrology Engineer, Maritime",
+          "url": "https://boards.greenhouse.io/andurilindustries/jobs/5167525007?gh_jid=5167525007",
+          "location": "Santa Ana, California, United States",
           "raw_updated_at": "2026-09-24T15:54:51-04:00",
           "tags": [],
-          "first_seen": "2026-09-22"
+          "first_seen": "2026-07-17"
         },
         {
           "board_id": "anduril",
-          "posting_id": "5159567007",
-          "title": "Service Desk Analyst",
-          "url": "https://boards.greenhouse.io/andurilindustries/jobs/5159567007?gh_jid=5159567007",
-          "location": "Quincy, Massachusetts, United States",
+          "posting_id": "5182778007",
+          "title": "Metrology Engineer/CMM Programmer, Maritime Division",
+          "url": "https://boards.greenhouse.io/andurilindustries/jobs/5182778007?gh_jid=5182778007",
+          "location": "Santa Ana, California, United States",
           "raw_updated_at": "2026-09-24T15:54:51-04:00",
           "tags": [],
-          "first_seen": "2026-08-12"
-        },
-        {
-          "board_id": "anduril",
-          "posting_id": "5202347007",
-          "title": "Senior Robotics Software Engineer, Behaviors",
-          "url": "https://boards.greenhouse.io/andurilindustries/jobs/5202347007?gh_jid=5202347007",
-          "location": "Costa Mesa, California, United States",
-          "raw_updated_at": "2026-09-24T15:54:51-04:00",
-          "tags": [],
-          "first_seen": "2026-08-15"
-        },
-        {
-          "board_id": "anduril",
-          "posting_id": "5203806007",
-          "title": "Manufacturing Engineer, Digital Tools",
-          "url": "https://boards.greenhouse.io/andurilindustries/jobs/5203806007?gh_jid=5203806007",
-          "location": "Boston, Massachusetts, United States",
-          "raw_updated_at": "2026-09-24T15:54:51-04:00",
-          "tags": [],
-          "first_seen": "2026-08-10"
-        },
-        {
-          "board_id": "anduril",
-          "posting_id": "5209644007",
-          "title": "Manager, Manufacturing Test Engineering, Electromagnetic Warfare",
-          "url": "https://boards.greenhouse.io/andurilindustries/jobs/5209644007?gh_jid=5209644007",
-          "location": "Irvine, California, United States",
-          "raw_updated_at": "2026-09-24T15:54:51-04:00",
-          "tags": [],
-          "first_seen": "2026-08-13"
-        },
-        {
-          "board_id": "anduril",
-          "posting_id": "5211748007",
-          "title": "Project Manager, Manufacturing",
-          "url": "https://boards.greenhouse.io/andurilindustries/jobs/5211748007?gh_jid=5211748007",
-          "location": "Morrisville, North Carolina, United States",
-          "raw_updated_at": "2026-09-24T15:54:51-04:00",
-          "tags": [],
-          "first_seen": "2026-08-21"
-        },
-        {
-          "board_id": "anduril",
-          "posting_id": "5231651007",
-          "title": "Electrical Test Engineer",
-          "url": "https://boards.greenhouse.io/andurilindustries/jobs/5231651007?gh_jid=5231651007",
-          "location": "Irvine, California, United States",
-          "raw_updated_at": "2026-09-29T14:52:38-04:00",
-          "tags": [],
-          "first_seen": "2026-09-05"
-        },
-        {
-          "board_id": "anduril",
-          "posting_id": "5232200007",
-          "title": "Hardware Test Engineering Manager",
-          "url": "https://boards.greenhouse.io/andurilindustries/jobs/5232200007?gh_jid=5232200007",
-          "location": "Irvine, California, United States",
-          "raw_updated_at": "2026-09-24T15:54:51-04:00",
-          "tags": [],
-          "first_seen": "2026-09-08"
-        },
-        {
-          "board_id": "anduril",
-          "posting_id": "5232201007",
-          "title": "Production Test Engineering Manager",
-          "url": "https://boards.greenhouse.io/andurilindustries/jobs/5232201007?gh_jid=5232201007",
-          "location": "Irvine, California, United States",
-          "raw_updated_at": "2026-09-24T15:54:51-04:00",
-          "tags": [],
-          "first_seen": "2026-09-08"
-        },
-        {
-          "board_id": "anduril",
-          "posting_id": "5236911007",
-          "title": "Product Quality Engineer, Dive-LD",
-          "url": "https://boards.greenhouse.io/andurilindustries/jobs/5236911007?gh_jid=5236911007",
-          "location": "Quonset, Rhode Island, United States",
-          "raw_updated_at": "2026-09-28T23:03:20-04:00",
-          "tags": [],
-          "first_seen": "2026-09-29"
-        },
-        {
-          "board_id": "anduril",
-          "posting_id": "5237946007",
-          "title": "Radio Frequency Test Engineer",
-          "url": "https://boards.greenhouse.io/andurilindustries/jobs/5237946007?gh_jid=5237946007",
-          "location": "Irvine, California, United States",
-          "raw_updated_at": "2026-09-29T14:51:25-04:00",
-          "tags": [],
-          "first_seen": "2026-09-15"
-        },
-        {
-          "board_id": "anduril",
-          "posting_id": "5237951007",
-          "title": "Manufacturing Test Engineer, Electronic Warfare",
-          "url": "https://boards.greenhouse.io/andurilindustries/jobs/5237951007?gh_jid=5237951007",
-          "location": "Irvine, California, United States",
-          "raw_updated_at": "2026-09-24T15:54:51-04:00",
-          "tags": [],
-          "first_seen": "2026-09-15"
-        },
-        {
-          "board_id": "anduril",
-          "posting_id": "5246644007",
-          "title": "Senior Vehicle Power Distribution Engineer",
-          "url": "https://boards.greenhouse.io/andurilindustries/jobs/5246644007?gh_jid=5246644007",
-          "location": "Costa Mesa, California, United States",
-          "raw_updated_at": "2026-09-24T15:54:51-04:00",
-          "tags": [],
-          "first_seen": "2026-09-23"
-        },
-        {
-          "board_id": "anduril",
-          "posting_id": "5247268007",
-          "title": "Director of Pre-Construction",
-          "url": "https://boards.greenhouse.io/andurilindustries/jobs/5247268007?gh_jid=5247268007",
-          "location": "Costa Mesa, California, United States",
-          "raw_updated_at": "2026-09-29T11:35:33-04:00",
-          "tags": [],
-          "first_seen": "2026-09-29"
+          "first_seen": "2026-07-17"
         }
       ],
-      "changed": [
-        {
-          "previous": {
-            "board_id": "anduril",
-            "posting_id": "5248446007",
-            "title": "Integration & Test Engineer",
-            "url": "https://boards.greenhouse.io/andurilindustries/jobs/5248446007?gh_jid=5248446007",
-            "location": "Costa Mesa, California, United States",
-            "raw_updated_at": "2026-09-28T13:48:44-04:00",
-            "tags": [],
-            "first_seen": "2026-09-26"
-          },
-          "current": {
-            "board_id": "anduril",
-            "posting_id": "5248446007",
-            "title": "Integration & Test Engineer (Electrical Systems), Omen",
-            "url": "https://boards.greenhouse.io/andurilindustries/jobs/5248446007?gh_jid=5248446007",
-            "location": "Costa Mesa, California, United States",
-            "raw_updated_at": "2026-10-02T13:58:12-04:00",
-            "tags": [],
-            "first_seen": "2026-09-26"
-          }
-        },
-        {
-          "previous": {
-            "board_id": "anduril",
-            "posting_id": "5116367007",
-            "title": "NPI Engineer, Actuators",
-            "url": "https://boards.greenhouse.io/andurilindustries/jobs/5116367007?gh_jid=5116367007",
-            "location": "Costa Mesa, California, United States",
-            "raw_updated_at": "2026-09-29T10:51:30-04:00",
-            "tags": [],
-            "first_seen": "2026-09-29"
-          },
-          "current": {
-            "board_id": "anduril",
-            "posting_id": "5116367007",
-            "title": "Manufacturing Engineer, Actuators",
-            "url": "https://boards.greenhouse.io/andurilindustries/jobs/5116367007?gh_jid=5116367007",
-            "location": "Costa Mesa, California, United States",
-            "raw_updated_at": "2026-10-02T21:09:07-04:00",
-            "tags": [],
-            "first_seen": "2026-09-29"
-          }
-        },
-        {
-          "previous": {
-            "board_id": "anduril",
-            "posting_id": "5166948007",
-            "title": "Endurance Systems Lead",
-            "url": "https://boards.greenhouse.io/andurilindustries/jobs/5166948007?gh_jid=5166948007",
-            "location": "Costa Mesa, California, United States",
-            "raw_updated_at": "2026-09-24T15:54:51-04:00",
-            "tags": [],
-            "first_seen": "2026-07-17"
-          },
-          "current": {
-            "board_id": "anduril",
-            "posting_id": "5166948007",
-            "title": "Mechanical Engineer, Lifting and Handling Equipment",
-            "url": "https://boards.greenhouse.io/andurilindustries/jobs/5166948007?gh_jid=5166948007",
-            "location": "Costa Mesa, California, United States",
-            "raw_updated_at": "2026-10-02T17:15:57-04:00",
-            "tags": [],
-            "first_seen": "2026-07-17"
-          }
-        },
-        {
-          "previous": {
-            "board_id": "anduril",
-            "posting_id": "5225671007",
-            "title": "Mission Operations Lead, Maritime",
-            "url": "https://boards.greenhouse.io/andurilindustries/jobs/5225671007?gh_jid=5225671007",
-            "location": "Costa Mesa, California, United States",
-            "raw_updated_at": "2026-09-24T15:54:51-04:00",
-            "tags": [],
-            "first_seen": "2026-09-19"
-          },
-          "current": {
-            "board_id": "anduril",
-            "posting_id": "5225671007",
-            "title": "Mission Operations Engineer, Maritime",
-            "url": "https://boards.greenhouse.io/andurilindustries/jobs/5225671007?gh_jid=5225671007",
-            "location": "Costa Mesa, California, United States",
-            "raw_updated_at": "2026-10-02T12:49:37-04:00",
-            "tags": [],
-            "first_seen": "2026-09-19"
-          }
-        },
-        {
-          "previous": {
-            "board_id": "anduril",
-            "posting_id": "5239489007",
-            "title": "Protective Intelligence Lead Analyst",
-            "url": "https://boards.greenhouse.io/andurilindustries/jobs/5239489007?gh_jid=5239489007",
-            "location": "Costa Mesa, California, United States",
-            "raw_updated_at": "2026-09-24T15:54:51-04:00",
-            "tags": [],
-            "first_seen": "2026-09-17"
-          },
-          "current": {
-            "board_id": "anduril",
-            "posting_id": "5239489007",
-            "title": "Protective Intelligence Senior Analyst",
-            "url": "https://boards.greenhouse.io/andurilindustries/jobs/5239489007?gh_jid=5239489007",
-            "location": "Costa Mesa, California, United States",
-            "raw_updated_at": "2026-10-02T12:51:18-04:00",
-            "tags": [],
-            "first_seen": "2026-09-17"
-          }
-        },
-        {
-          "previous": {
-            "board_id": "anduril",
-            "posting_id": "5173854007",
-            "title": "Senior NPI Engineer, Actuators",
-            "url": "https://boards.greenhouse.io/andurilindustries/jobs/5173854007?gh_jid=5173854007",
-            "location": "Costa Mesa, California, United States",
-            "raw_updated_at": "2026-09-29T10:51:21-04:00",
-            "tags": [],
-            "first_seen": "2026-09-29"
-          },
-          "current": {
-            "board_id": "anduril",
-            "posting_id": "5173854007",
-            "title": "Senior Manufacturing Engineer, Actuators",
-            "url": "https://boards.greenhouse.io/andurilindustries/jobs/5173854007?gh_jid=5173854007",
-            "location": "Costa Mesa, California, United States",
-            "raw_updated_at": "2026-10-02T21:09:20-04:00",
-            "tags": [],
-            "first_seen": "2026-09-29"
-          }
-        },
-        {
-          "previous": {
-            "board_id": "anduril",
-            "posting_id": "5166878007",
-            "title": "Senior Energy Distribution & Management Engineer",
-            "url": "https://boards.greenhouse.io/andurilindustries/jobs/5166878007?gh_jid=5166878007",
-            "location": "Costa Mesa, California, United States",
-            "raw_updated_at": "2026-09-24T15:54:51-04:00",
-            "tags": [],
-            "first_seen": "2026-08-03"
-          },
-          "current": {
-            "board_id": "anduril",
-            "posting_id": "5166878007",
-            "title": "Senior Power Electronics Engineer",
-            "url": "https://boards.greenhouse.io/andurilindustries/jobs/5166878007?gh_jid=5166878007",
-            "location": "Costa Mesa, California, United States",
-            "raw_updated_at": "2026-10-02T15:04:03-04:00",
-            "tags": [],
-            "first_seen": "2026-08-03"
-          }
-        },
-        {
-          "previous": {
-            "board_id": "anduril",
-            "posting_id": "5250318007",
-            "title": "Security Controller \u2013 Netherlands",
-            "url": "https://boards.greenhouse.io/andurilindustries/jobs/5250318007?gh_jid=5250318007",
-            "location": "Amsterdam, North Holland, Netherlands",
-            "raw_updated_at": "2026-09-29T14:06:27-04:00",
-            "tags": [],
-            "first_seen": "2026-09-29"
-          },
-          "current": {
-            "board_id": "anduril",
-            "posting_id": "5250318007",
-            "title": "Senior Security Controller",
-            "url": "https://boards.greenhouse.io/andurilindustries/jobs/5250318007?gh_jid=5250318007",
-            "location": "Amsterdam, North Holland, Netherlands",
-            "raw_updated_at": "2026-10-03T01:53:57-04:00",
-            "tags": [],
-            "first_seen": "2026-09-29"
-          }
-        },
-        {
-          "previous": {
-            "board_id": "anduril",
-            "posting_id": "5167055007",
-            "title": "Autonomy Lead",
-            "url": "https://boards.greenhouse.io/andurilindustries/jobs/5167055007?gh_jid=5167055007",
-            "location": "Costa Mesa, California, United States",
-            "raw_updated_at": "2026-09-24T15:54:51-04:00",
-            "tags": [],
-            "first_seen": "2026-07-17"
-          },
-          "current": {
-            "board_id": "anduril",
-            "posting_id": "5167055007",
-            "title": "Senior Software Engineer, Vehicle Management Systems ",
-            "url": "https://boards.greenhouse.io/andurilindustries/jobs/5167055007?gh_jid=5167055007",
-            "location": "Costa Mesa, California, United States",
-            "raw_updated_at": "2026-10-02T14:58:02-04:00",
-            "tags": [],
-            "first_seen": "2026-07-17"
-          }
-        },
-        {
-          "previous": {
-            "board_id": "anduril",
-            "posting_id": "5194918007",
-            "title": "Mission Systems Lead",
-            "url": "https://boards.greenhouse.io/andurilindustries/jobs/5194918007?gh_jid=5194918007",
-            "location": "Costa Mesa, California, United States",
-            "raw_updated_at": "2026-09-24T15:54:51-04:00",
-            "tags": [],
-            "first_seen": "2026-08-03"
-          },
-          "current": {
-            "board_id": "anduril",
-            "posting_id": "5194918007",
-            "title": "Senior Structural Engineer, Vehicle Primary Structure",
-            "url": "https://boards.greenhouse.io/andurilindustries/jobs/5194918007?gh_jid=5194918007",
-            "location": "Costa Mesa, California, United States",
-            "raw_updated_at": "2026-10-02T13:28:14-04:00",
-            "tags": [],
-            "first_seen": "2026-08-03"
-          }
-        }
-      ],
-      "total_postings": 2435
+      "changed": [],
+      "total_postings": 2432
     },
     {
       "board_id": "formlabs",
       "status": "ok",
-      "added": [
-        {
-          "board_id": "formlabs",
-          "posting_id": "8249635",
-          "title": "Fulfillment Coordinator - May 2027 Graduates",
-          "url": "https://careers.formlabs.com/job/8249635/apply/?gh_jid=8249635",
-          "location": "Somerville, MA",
-          "raw_updated_at": "2026-10-02T13:00:27-04:00",
-          "tags": [],
-          "first_seen": "2026-10-03"
-        },
-        {
-          "board_id": "formlabs",
-          "posting_id": "8249899",
-          "title": "Manufacturing Engineer",
-          "url": "https://careers.formlabs.com/job/8249899/apply/?gh_jid=8249899",
-          "location": "Somerville, MA",
-          "raw_updated_at": "2026-10-02T18:11:46-04:00",
-          "tags": [],
-          "first_seen": "2026-10-03"
-        },
-        {
-          "board_id": "formlabs",
-          "posting_id": "8250319",
-          "title": "Manufacturing Engineer - May 2027 Graduates",
-          "url": "https://careers.formlabs.com/job/8250319/apply/?gh_jid=8250319",
-          "location": "Somerville, MA",
-          "raw_updated_at": "2026-10-02T18:11:19-04:00",
-          "tags": [],
-          "first_seen": "2026-10-03"
-        },
-        {
-          "board_id": "formlabs",
-          "posting_id": "8250096",
-          "title": "Technical Sales Representative (December 2026 Grad)",
-          "url": "https://careers.formlabs.com/job/8250096/apply/?gh_jid=8250096",
-          "location": "Milwaukee, WI",
-          "raw_updated_at": "2026-10-02T17:42:43-04:00",
-          "tags": [],
-          "first_seen": "2026-10-03"
-        },
-        {
-          "board_id": "formlabs",
-          "posting_id": "8250084",
-          "title": "Technical Sales Representative (May 2027 Grad)",
-          "url": "https://careers.formlabs.com/job/8250084/apply/?gh_jid=8250084",
-          "location": "Milwaukee, Wisconsin",
-          "raw_updated_at": "2026-10-02T17:43:07-04:00",
-          "tags": [],
-          "first_seen": "2026-10-03"
-        }
-      ],
-      "removed": [
-        {
-          "board_id": "formlabs",
-          "posting_id": "8174619",
-          "title": "Campus Recruiting Intern (Fall 2026)",
-          "url": "https://careers.formlabs.com/job/8174619/apply/?gh_jid=8174619",
-          "location": "Somerville, MA",
-          "raw_updated_at": "2026-09-28T10:55:59-04:00",
-          "tags": [
-            "student-role"
-          ],
-          "first_seen": "2026-09-03"
-        }
-      ],
-      "changed": [
-        {
-          "previous": {
-            "board_id": "formlabs",
-            "posting_id": "7711953",
-            "title": "Technical Sales Representative",
-            "url": "https://careers.formlabs.com/job/7711953/apply/?gh_jid=7711953",
-            "location": "Milwaukee, WI",
-            "raw_updated_at": "2026-07-21T10:09:06-04:00",
-            "tags": [],
-            "first_seen": "2026-08-03"
-          },
-          "current": {
-            "board_id": "formlabs",
-            "posting_id": "7711953",
-            "title": "Technical Sales Representative",
-            "url": "https://careers.formlabs.com/job/7711953/apply/?gh_jid=7711953",
-            "location": "Milwaukee, Wisconsin",
-            "raw_updated_at": "2026-10-02T17:42:15-04:00",
-            "tags": [],
-            "first_seen": "2026-08-03"
-          }
-        }
-      ],
+      "added": [],
+      "removed": [],
+      "changed": [],
       "total_postings": 232
     },
     {
@@ -930,9 +117,30 @@
       "board_id": "draper",
       "status": "ok",
       "added": [],
-      "removed": [],
+      "removed": [
+        {
+          "board_id": "draper",
+          "posting_id": "JR002594",
+          "title": "Senior Integration and Test Engineer",
+          "url": "https://draper.wd5.myworkdayjobs.com/en-US/Draper_Careers/job/Cambridge-MA/Senior-Integration-and-Test-Engineer_JR002594",
+          "location": "Cambridge, MA",
+          "raw_updated_at": "Posted 16 Days Ago",
+          "tags": [],
+          "first_seen": "2026-07-17"
+        },
+        {
+          "board_id": "draper",
+          "posting_id": "JR002595",
+          "title": "Principal Integration and Test Engineer",
+          "url": "https://draper.wd5.myworkdayjobs.com/en-US/Draper_Careers/job/Cambridge-MA/Principal-Integration-and-Test-Engineer_JR002595",
+          "location": "Cambridge, MA",
+          "raw_updated_at": "Posted 30+ Days Ago",
+          "tags": [],
+          "first_seen": "2026-07-17"
+        }
+      ],
       "changed": [],
-      "total_postings": 224
+      "total_postings": 222
     },
     {
       "board_id": "merl",
@@ -952,9 +160,9 @@
     }
   ],
   "summary": {
-    "added": 45,
-    "removed": 18,
-    "changed": 11,
+    "added": 2,
+    "removed": 7,
+    "changed": 0,
     "boards_ok": 8,
     "boards_error": 0,
     "boards_skipped": 0
