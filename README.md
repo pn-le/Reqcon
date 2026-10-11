@@ -86,7 +86,7 @@ Tip: before writing selectors, check whether the site embeds Greenhouse/Workday 
 ---
 
 <!-- REQCON:START -->
-**Last scan:** 2026-10-10 12:00 EDT · 8 boards · 25 new · 11 removed
+**Last scan:** 2026-10-11 12:27 EDT · 8 boards · 4 new · 4 removed
 
 ✅ Lila Sciences · ✅ BillionToOne · ✅ Anduril · ✅ Formlabs · ✅ STR · ✅ Draper · ✅ MERL (Mitsubishi Electric Research Labs) · ✅ Ubicept
 
@@ -112,6 +112,10 @@ Tip: before writing selectors, check whether the site embeds Greenhouse/Workday 
 | 🎓 Anduril | [Winter 2027 Quality & Test Engineer Co-op](https://boards.greenhouse.io/andurilindustries/jobs/5257571007?gh_jid=5257571007) | Ashville, Ohio, United States; Santa Ana, California, United States | 2026-10-06 |
 | 🎓 Anduril | [Winter 2027 Reliability Engineer Co-op](https://boards.greenhouse.io/andurilindustries/jobs/5257693007?gh_jid=5257693007) | Costa Mesa, California, United States | 2026-10-06 |
 | 🎓 Formlabs | [Talent Acquisition Intern](https://careers.formlabs.com/job/8255650/apply/?gh_jid=8255650) | Budapest, Hungary | 2026-10-05 |
+| Anduril | [Senior Front End Software Engineer, React](https://boards.greenhouse.io/andurilindustries/jobs/5262987007?gh_jid=5262987007) | Arlington, Virginia, United States; Seattle, Washington, United States; Washington, District of Columbia, United States | 2026-10-11 |
+| Anduril | [Senior Software Engineer, Strategic Defense ](https://boards.greenhouse.io/andurilindustries/jobs/5261122007?gh_jid=5261122007) | Costa Mesa, California, United States; Huntsville, Alabama, United States; Irvine, California, United States; Reston, Virginia, United States; Seattle, Washington, United States; Washington, District of Columbia, United States | 2026-10-11 |
+| Anduril | [Senior Software Engineer, Strategic Defense (Active Clearance)](https://boards.greenhouse.io/andurilindustries/jobs/5249697007?gh_jid=5249697007) | Aberdeen, Maryland, United States; Colorado Springs, Colorado, United States; San Antonio, Texas, United States; Tampa, Florida, United States | 2026-10-11 |
+| Anduril | [Software Engineer, Strategic Defense](https://boards.greenhouse.io/andurilindustries/jobs/5260733007?gh_jid=5260733007) | Costa Mesa, California, United States; Huntsville, Alabama, United States; Irvine, California, United States; Reston, Virginia, United States; Seattle, Washington, United States; Washington, District of Columbia, United States | 2026-10-11 |
 | Anduril | [ Senior People Program Manager](https://boards.greenhouse.io/andurilindustries/jobs/5262725007?gh_jid=5262725007) | Seattle, Washington, United States | 2026-10-10 |
 | Anduril | [Aviation Maintenance Engineer - Advanced Effects](https://boards.greenhouse.io/andurilindustries/jobs/5262583007?gh_jid=5262583007) | Costa Mesa, California, United States | 2026-10-10 |
 | Anduril | [Facility Security Officer](https://boards.greenhouse.io/andurilindustries/jobs/5261472007?gh_jid=5261472007) | McHenry, Mississippi, United States | 2026-10-10 |
@@ -120,12 +124,8 @@ Tip: before writing selectors, check whether the site embeds Greenhouse/Workday 
 | Anduril | [Manager, Manufacturing Maintenance](https://boards.greenhouse.io/andurilindustries/jobs/5261009007?gh_jid=5261009007) | Costa Mesa, California, United States | 2026-10-10 |
 | Anduril | [People Program Manager](https://boards.greenhouse.io/andurilindustries/jobs/5262714007?gh_jid=5262714007) | Washington, District of Columbia, United States | 2026-10-10 |
 | Anduril | [People Program Manager](https://boards.greenhouse.io/andurilindustries/jobs/5262715007?gh_jid=5262715007) | Boston, Massachusetts, United States | 2026-10-10 |
-| Anduril | [Power Controls Engineer](https://boards.greenhouse.io/andurilindustries/jobs/5262870007?gh_jid=5262870007) | Costa Mesa, California, United States | 2026-10-10 |
-| Anduril | [Senior Controls Engineer](https://boards.greenhouse.io/andurilindustries/jobs/5262868007?gh_jid=5262868007) | Costa Mesa, California, United States | 2026-10-10 |
-| Anduril | [Senior Network Engineer, Air Defense](https://boards.greenhouse.io/andurilindustries/jobs/5260016007?gh_jid=5260016007) | Irvine, California, United States | 2026-10-10 |
-| Anduril | [Senior Orbital Software Engineer, Space](https://boards.greenhouse.io/andurilindustries/jobs/4872454007?gh_jid=4872454007) | Costa Mesa, California, United States | 2026-10-10 |
 
-…and 295 more — see the [latest digest](reports/reqcon-2026-10-10.md).
+…and 297 more — see the [latest digest](reports/reqcon-2026-10-11.md).
 
 <details>
 <summary>All tracked postings (3302)</summary>
