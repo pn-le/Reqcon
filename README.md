@@ -86,7 +86,7 @@ Tip: before writing selectors, check whether the site embeds Greenhouse/Workday 
 ---
 
 <!-- REQCON:START -->
-**Last scan:** 2026-10-11 12:27 EDT · 8 boards · 4 new · 4 removed
+**Last scan:** 2026-10-12 16:03 EDT · 8 boards · 7 new · 6 removed
 
 ✅ Lila Sciences · ✅ BillionToOne · ✅ Anduril · ✅ Formlabs · ✅ STR · ✅ Draper · ✅ MERL (Mitsubishi Electric Research Labs) · ✅ Ubicept
 
@@ -111,24 +111,24 @@ Tip: before writing selectors, check whether the site embeds Greenhouse/Workday 
 | 🎓 Anduril | [2027 Systems Engineer Intern](https://boards.greenhouse.io/andurilindustries/jobs/5257690007?gh_jid=5257690007) | Boston, Massachusetts, United States; Costa Mesa, California, United States; Fort Collins, Colorado, United States; Reston, Virginia, United States; Seattle, Washington, United States | 2026-10-06 |
 | 🎓 Anduril | [Winter 2027 Quality & Test Engineer Co-op](https://boards.greenhouse.io/andurilindustries/jobs/5257571007?gh_jid=5257571007) | Ashville, Ohio, United States; Santa Ana, California, United States | 2026-10-06 |
 | 🎓 Anduril | [Winter 2027 Reliability Engineer Co-op](https://boards.greenhouse.io/andurilindustries/jobs/5257693007?gh_jid=5257693007) | Costa Mesa, California, United States | 2026-10-06 |
-| 🎓 Formlabs | [Talent Acquisition Intern](https://careers.formlabs.com/job/8255650/apply/?gh_jid=8255650) | Budapest, Hungary | 2026-10-05 |
+| Anduril | [Modeling and Simulation Engineer, Maritime Production](https://boards.greenhouse.io/andurilindustries/jobs/5166903007?gh_jid=5166903007) | Santa Ana, California, United States | 2026-10-12 |
+| Anduril | [Senior Technical Program Manager](https://boards.greenhouse.io/andurilindustries/jobs/5263066007?gh_jid=5263066007) | Sydney, New South Wales, Australia | 2026-10-12 |
+| Formlabs | [Head of Software Product Management ](https://careers.formlabs.com/job/8273112/apply/?gh_jid=8273112) | Somerville, MA | 2026-10-12 |
+| Formlabs | [Product Manager, Software](https://careers.formlabs.com/job/8195508/apply/?gh_jid=8195508) | Somerville, MA | 2026-10-12 |
+| Formlabs | [Senior DevOps Engineer](https://careers.formlabs.com/job/8273652/apply/?gh_jid=8273652) | Budapest, Hungary | 2026-10-12 |
+| Formlabs | [Senior Product Manager, Hardware](https://careers.formlabs.com/job/8273118/apply/?gh_jid=8273118) | Somerville, MA | 2026-10-12 |
+| STR | [Associate Embedded Systems Emulation Engineer](https://job-boards.greenhouse.io/systemstechnologyresearch/jobs/4721162006) | Woburn, MA | 2026-10-12 |
 | Anduril | [Senior Front End Software Engineer, React](https://boards.greenhouse.io/andurilindustries/jobs/5262987007?gh_jid=5262987007) | Arlington, Virginia, United States; Seattle, Washington, United States; Washington, District of Columbia, United States | 2026-10-11 |
 | Anduril | [Senior Software Engineer, Strategic Defense ](https://boards.greenhouse.io/andurilindustries/jobs/5261122007?gh_jid=5261122007) | Costa Mesa, California, United States; Huntsville, Alabama, United States; Irvine, California, United States; Reston, Virginia, United States; Seattle, Washington, United States; Washington, District of Columbia, United States | 2026-10-11 |
 | Anduril | [Senior Software Engineer, Strategic Defense (Active Clearance)](https://boards.greenhouse.io/andurilindustries/jobs/5249697007?gh_jid=5249697007) | Aberdeen, Maryland, United States; Colorado Springs, Colorado, United States; San Antonio, Texas, United States; Tampa, Florida, United States | 2026-10-11 |
 | Anduril | [Software Engineer, Strategic Defense](https://boards.greenhouse.io/andurilindustries/jobs/5260733007?gh_jid=5260733007) | Costa Mesa, California, United States; Huntsville, Alabama, United States; Irvine, California, United States; Reston, Virginia, United States; Seattle, Washington, United States; Washington, District of Columbia, United States | 2026-10-11 |
 | Anduril | [ Senior People Program Manager](https://boards.greenhouse.io/andurilindustries/jobs/5262725007?gh_jid=5262725007) | Seattle, Washington, United States | 2026-10-10 |
 | Anduril | [Aviation Maintenance Engineer - Advanced Effects](https://boards.greenhouse.io/andurilindustries/jobs/5262583007?gh_jid=5262583007) | Costa Mesa, California, United States | 2026-10-10 |
-| Anduril | [Facility Security Officer](https://boards.greenhouse.io/andurilindustries/jobs/5261472007?gh_jid=5261472007) | McHenry, Mississippi, United States | 2026-10-10 |
-| Anduril | [Facility Security Officer](https://boards.greenhouse.io/andurilindustries/jobs/5261478007?gh_jid=5261478007) | Huntsville, Alabama, United States | 2026-10-10 |
-| Anduril | [Manager, Manufacturing Asset Reliability ](https://boards.greenhouse.io/andurilindustries/jobs/5262568007?gh_jid=5262568007) | Costa Mesa, California, United States | 2026-10-10 |
-| Anduril | [Manager, Manufacturing Maintenance](https://boards.greenhouse.io/andurilindustries/jobs/5261009007?gh_jid=5261009007) | Costa Mesa, California, United States | 2026-10-10 |
-| Anduril | [People Program Manager](https://boards.greenhouse.io/andurilindustries/jobs/5262714007?gh_jid=5262714007) | Washington, District of Columbia, United States | 2026-10-10 |
-| Anduril | [People Program Manager](https://boards.greenhouse.io/andurilindustries/jobs/5262715007?gh_jid=5262715007) | Boston, Massachusetts, United States | 2026-10-10 |
 
-…and 297 more — see the [latest digest](reports/reqcon-2026-10-11.md).
+…and 252 more — see the [latest digest](reports/reqcon-2026-10-12.md).
 
 <details>
-<summary>All tracked postings (3302)</summary>
+<summary>All tracked postings (3303)</summary>
 
 **Lila Sciences** (108)
 - [(Senior) Director, Portfolio Strategy, Life Sciences](https://job-boards.greenhouse.io/lilasciences/jobs/4258093009) — Cambridge, MA USA
@@ -536,7 +536,7 @@ Tip: before writing selectors, check whether the site embeds Greenhouse/Workday 
 - [Controls Engineer, Manufacturing Automation](https://boards.greenhouse.io/andurilindustries/jobs/5234565007?gh_jid=5234565007) — Ashville, Ohio, United States
 - [Controls Engineer, Manufacturing Automation ](https://boards.greenhouse.io/andurilindustries/jobs/5234512007?gh_jid=5234512007) — Costa Mesa, California, United States
 
-_…truncated at 400 rows (3302 total)._
+_…truncated at 400 rows (3303 total)._
 
 </details>
 <!-- REQCON:END -->
