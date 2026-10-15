@@ -86,7 +86,7 @@ Tip: before writing selectors, check whether the site embeds Greenhouse/Workday 
 ---
 
 <!-- REQCON:START -->
-**Last scan:** 2026-10-14 11:38 EDT · 8 boards · 45 new · 41 removed
+**Last scan:** 2026-10-15 11:24 EDT · 8 boards · 85 new · 56 removed
 
 ✅ Lila Sciences · ✅ BillionToOne · ✅ Anduril · ✅ Formlabs · ✅ STR · ✅ Draper · ✅ MERL (Mitsubishi Electric Research Labs) · ✅ Ubicept
 
@@ -94,6 +94,9 @@ Tip: before writing selectors, check whether the site embeds Greenhouse/Workday 
 
 | Company | Role | Location | First seen |
 |---|---|---|---|
+| 🎓 Anduril | [2027 Flight Test Engineer Intern](https://boards.greenhouse.io/andurilindustries/jobs/5257709007?gh_jid=5257709007) | Costa Mesa, California, United States | 2026-10-15 |
+| 🎓 Anduril | [Winter 2027 Research Engineer Co-op](https://boards.greenhouse.io/andurilindustries/jobs/5265127007?gh_jid=5265127007) | Santa Ana, California, United States | 2026-10-15 |
+| 🎓 Draper | [Integrated Circuits Intern](https://draper.wd5.myworkdayjobs.com/en-US/Draper_Careers/job/Cambridge-MA/Integrated-Circuits-Intern_JR003036) | Cambridge, MA | 2026-10-15 |
 | 🎓 Anduril | [2027 Firmware Engineer Intern](https://boards.greenhouse.io/andurilindustries/jobs/5265158007?gh_jid=5265158007) | Costa Mesa, California, United States | 2026-10-14 |
 | 🎓 Anduril | [2027 Product Designer Intern](https://boards.greenhouse.io/andurilindustries/jobs/5265097007?gh_jid=5265097007) | Costa Mesa, California, United States | 2026-10-14 |
 | 🎓 Draper | [Acoustic and Vibration Technologies Intern (Summer 2027)](https://draper.wd5.myworkdayjobs.com/en-US/Draper_Careers/job/Cambridge-MA/Acoustic-and-Vibration-Technologies-Intern--Summer-2027-_JR003003-1) | Cambridge, MA | 2026-10-14 |
@@ -104,33 +107,30 @@ Tip: before writing selectors, check whether the site embeds Greenhouse/Workday 
 | 🎓 Draper | [Corporate and Community Engagement Intern (Summer 2027)](https://draper.wd5.myworkdayjobs.com/en-US/Draper_Careers/job/Cambridge-MA/Corporate-and-Community-Engagement-Intern--Summer-2027-_JR003016) | Cambridge, MA | 2026-10-09 |
 | 🎓 Draper | [Integrated Circuits Intern (Summer 2027)](https://draper.wd5.myworkdayjobs.com/en-US/Draper_Careers/job/Cambridge-MA/Integrated-Circuits-Intern_JR002973) | Cambridge, MA | 2026-10-09 |
 | 🎓 MERL (Mitsubishi Electric Research Labs) | [OR0330: Internship - EMT Simulation of Data-Center Power Systems](https://www.merl.com/employment/internship-openings#OR0330) | — | 2026-10-09 |
-| 🎓 Draper | [Operating Systems and Embedded Software Development Co-Op (Spring 2027)](https://draper.wd5.myworkdayjobs.com/en-US/Draper_Careers/job/Lowell-MA/Co-Op-Student-Engineering_JR002974) | 2 Locations | 2026-10-08 |
-| 🎓 Formlabs | [Global Operations Intern (Winter/Spring 2027)](https://careers.formlabs.com/job/8263054/apply/?gh_jid=8263054) | Somerville, MA | 2026-10-08 |
-| 🎓 Formlabs | [Sourcing Program Management Intern (Winter/Spring 2027)](https://careers.formlabs.com/job/8262987/apply/?gh_jid=8262987) | Somerville, MA | 2026-10-08 |
-| Anduril | [(PIPELINE) Advanced Effects - Buyer](https://boards.greenhouse.io/andurilindustries/jobs/5264682007?gh_jid=5264682007) | Ashville, Ohio, United States | 2026-10-14 |
-| Anduril | [2027 Early Career Associate Product Designer](https://boards.greenhouse.io/andurilindustries/jobs/5265088007?gh_jid=5265088007) | Costa Mesa, California, United States | 2026-10-14 |
-| Anduril | [Deployment Engineer](https://boards.greenhouse.io/andurilindustries/jobs/5163958007?gh_jid=5163958007) | Broomfield, Colorado, United States; Fort Collins, Colorado, United States | 2026-10-14 |
-| Anduril | [Deployment Engineer](https://boards.greenhouse.io/andurilindustries/jobs/5204368007?gh_jid=5204368007) | Broomfield, Colorado, United States; Fort Collins, Colorado, United States | 2026-10-14 |
-| Anduril | [Deployment Engineer](https://boards.greenhouse.io/andurilindustries/jobs/5228075007?gh_jid=5228075007) | Broomfield, Colorado, United States; Fort Collins, Colorado, United States | 2026-10-14 |
-| Anduril | [Deployment Engineer](https://boards.greenhouse.io/andurilindustries/jobs/5235565007?gh_jid=5235565007) | Broomfield, Colorado, United States; Fort Collins, Colorado, United States | 2026-10-14 |
-| Anduril | [Deployment Engineer](https://boards.greenhouse.io/andurilindustries/jobs/5265196007?gh_jid=5265196007) | Broomfield, Colorado, United States; Fort Collins, Colorado, United States | 2026-10-14 |
-| Anduril | [Director of Manufacturing Engineering, EW](https://boards.greenhouse.io/andurilindustries/jobs/5252748007?gh_jid=5252748007) | Irvine, California, United States | 2026-10-14 |
-| Anduril | [Facilities Controls Engineer](https://boards.greenhouse.io/andurilindustries/jobs/5156575007?gh_jid=5156575007) | Ashville, Ohio, United States | 2026-10-14 |
-| Anduril | [Head of Production, Imaging](https://boards.greenhouse.io/andurilindustries/jobs/5260766007?gh_jid=5260766007) | Waltham, Massachusetts, United States | 2026-10-14 |
-| Anduril | [Industrial Engineer](https://boards.greenhouse.io/andurilindustries/jobs/5240172007?gh_jid=5240172007) | Quonset, Rhode Island, United States | 2026-10-14 |
-| Anduril | [Legal Operations Tech and AI Enabler](https://boards.greenhouse.io/andurilindustries/jobs/5264938007?gh_jid=5264938007) | Costa Mesa, California, United States | 2026-10-14 |
-| Anduril | [Manager, Product Quality Engineering - Bolt](https://boards.greenhouse.io/andurilindustries/jobs/5265139007?gh_jid=5265139007) | Santa Ana, California, United States | 2026-10-14 |
-| Anduril | [Mission Operations Product Manager, Group 5 Mission Autonomy](https://boards.greenhouse.io/andurilindustries/jobs/5247776007?gh_jid=5247776007) | Costa Mesa, California, United States | 2026-10-14 |
-| Anduril | [Mission Operations Product Manager, Group 5 Mission Autonomy](https://boards.greenhouse.io/andurilindustries/jobs/5265377007?gh_jid=5265377007) | Washington, District of Columbia, United States | 2026-10-14 |
-| Anduril | [Mission Operations Product Manager, Group 5 Mission Autonomy](https://boards.greenhouse.io/andurilindustries/jobs/5265382007?gh_jid=5265382007) | Remote | 2026-10-14 |
-| Anduril | [NX Developer](https://boards.greenhouse.io/andurilindustries/jobs/5265042007?gh_jid=5265042007) | Costa Mesa, California, United States | 2026-10-14 |
+| Anduril | [ Senior System Safety Engineer](https://boards.greenhouse.io/andurilindustries/jobs/5266274007?gh_jid=5266274007) | Costa Mesa, California, United States | 2026-10-15 |
+| Anduril | [2027 Early Career Division Operations](https://boards.greenhouse.io/andurilindustries/jobs/5261363007?gh_jid=5261363007) | Reston, Virginia, United States | 2026-10-15 |
+| Anduril | [Assistant Contractor Special Security Officer](https://boards.greenhouse.io/andurilindustries/jobs/5262829007?gh_jid=5262829007) | Washington, District of Columbia, United States | 2026-10-15 |
+| Anduril | [Associate Workplace Manager](https://boards.greenhouse.io/andurilindustries/jobs/5265105007?gh_jid=5265105007) | Costa Mesa, California, United States | 2026-10-15 |
+| Anduril | [Contractor Special Security Officer](https://boards.greenhouse.io/andurilindustries/jobs/5262813007?gh_jid=5262813007) | Costa Mesa, California, United States | 2026-10-15 |
+| Anduril | [Deputy Chief Engineer, Advanced Effects (Missiles) ](https://boards.greenhouse.io/andurilindustries/jobs/5265779007?gh_jid=5265779007) | Costa Mesa, California, United States | 2026-10-15 |
+| Anduril | [Electrical Engineer, Maritime](https://boards.greenhouse.io/andurilindustries/jobs/5266303007?gh_jid=5266303007) | Boston, Massachusetts, United States | 2026-10-15 |
+| Anduril | [Electrical Test Engineer](https://boards.greenhouse.io/andurilindustries/jobs/5266460007?gh_jid=5266460007) | Lexington, Massachusetts, United States | 2026-10-15 |
+| Anduril | [Field Network Technician, Maneuver Dominance](https://boards.greenhouse.io/andurilindustries/jobs/5055074007?gh_jid=5055074007) | Costa Mesa, California, United States | 2026-10-15 |
+| Anduril | [Financial Analyst II, Connected Warfare](https://boards.greenhouse.io/andurilindustries/jobs/5158855007?gh_jid=5158855007) | Costa Mesa, California, United States; Seattle, Washington, United States; Washington, District of Columbia, United States | 2026-10-15 |
+| Anduril | [Flight Test Engineer - Mission Autonomy ](https://boards.greenhouse.io/andurilindustries/jobs/5266024007?gh_jid=5266024007) | Costa Mesa, California, United States | 2026-10-15 |
+| Anduril | [Hardware Systems Integration Engineer](https://boards.greenhouse.io/andurilindustries/jobs/5266146007?gh_jid=5266146007) | Costa Mesa, California, United States | 2026-10-15 |
+| Anduril | [Hardware Test Engineer](https://boards.greenhouse.io/andurilindustries/jobs/5266463007?gh_jid=5266463007) | Lexington, Massachusetts, United States | 2026-10-15 |
+| Anduril | [Hardware Test Engineer - Cyber](https://boards.greenhouse.io/andurilindustries/jobs/5249125007?gh_jid=5249125007) | Costa Mesa, California, United States | 2026-10-15 |
+| Anduril | [Integration and Test Engineer, Electrical](https://boards.greenhouse.io/andurilindustries/jobs/5235374007?gh_jid=5235374007) | Costa Mesa, California, United States | 2026-10-15 |
+| Anduril | [Integration and Test Engineer, Software](https://boards.greenhouse.io/andurilindustries/jobs/5231756007?gh_jid=5231756007) | Costa Mesa, California, United States | 2026-10-15 |
+| Anduril | [Lead Materials Associate](https://boards.greenhouse.io/andurilindustries/jobs/5161932007?gh_jid=5161932007) | Ashville, Ohio, United States | 2026-10-15 |
 
-…and 206 more — see the [latest digest](reports/reqcon-2026-10-14.md).
+…and 240 more — see the [latest digest](reports/reqcon-2026-10-15.md).
 
 <details>
-<summary>All tracked postings (3312)</summary>
+<summary>All tracked postings (3341)</summary>
 
-**Lila Sciences** (107)
+**Lila Sciences** (108)
 - [(Senior) Director, Portfolio Strategy, Life Sciences](https://job-boards.greenhouse.io/lilasciences/jobs/4258093009) — Cambridge, MA USA
 - [Associate Director / Director, Customer Program Management, Life Sciences](https://job-boards.greenhouse.io/lilasciences/jobs/4184652009) — Cambridge, MA USA
 - [Associate Director / Director, Customer Program Management, Physical Sciences](https://job-boards.greenhouse.io/lilasciences/jobs/4290011009) — Cambridge, MA USA
@@ -140,7 +140,7 @@ Tip: before writing selectors, check whether the site embeds Greenhouse/Workday 
 - [Associate Scientist/Scientist I, Protein Science Developability](https://job-boards.greenhouse.io/lilasciences/jobs/4299967009) — Cambridge, MA USA
 - [Associate Scientist/Scientist I, Translational Biology](https://job-boards.greenhouse.io/lilasciences/jobs/4415281009) — Cambridge, MA USA
 - [Chemistry Technical Program Manager](https://job-boards.greenhouse.io/lilasciences/jobs/4204188009) — Cambridge, MA USA
-- [Chief of Staff to the CEO](https://job-boards.greenhouse.io/lilasciences/jobs/4285660009) — Cambridge, MA USA
+- [Contractor, P2P Specialist](https://job-boards.greenhouse.io/lilasciences/jobs/4415270009) — Cambridge, MA USA
 - [Contractor, Robotics Lab Technician](https://job-boards.greenhouse.io/lilasciences/jobs/4412279009) — Cambridge, MA USA
 - [Controls Engineer II, Sustaining Engineering](https://job-boards.greenhouse.io/lilasciences/jobs/4294210009) — Cambridge, MA USA
 - [Director / Senior Director, Origins](https://job-boards.greenhouse.io/lilasciences/jobs/4314463009) — Cambridge, MA USA
@@ -158,6 +158,7 @@ Tip: before writing selectors, check whether the site embeds Greenhouse/Workday 
 - [Head of Software Product](https://job-boards.greenhouse.io/lilasciences/jobs/4205624009) — Cambridge, MA USA; San Francisco, CA USA
 - [Join Our Talent Community](https://job-boards.greenhouse.io/lilasciences/jobs/4070054009) — Cambridge, MA USA; San Francisco, CA USA
 - [Lab Operations Specialist](https://job-boards.greenhouse.io/lilasciences/jobs/4395906009) — Cambridge, MA USA
+- [Machine Learning Engineer, Physical Sciences AI](https://job-boards.greenhouse.io/lilasciences/jobs/4116513009) — Cambridge, MA USA; San Francisco, CA USA
 - [Machine Learning Scientist I / II, Protein Design](https://job-boards.greenhouse.io/lilasciences/jobs/4396760009) — San Francisco, CA USA
 - [Manager / Senior Manager, Finance, Fixed Asset Accounting](https://job-boards.greenhouse.io/lilasciences/jobs/4195640009) — Cambridge, MA USA; San Francisco, CA USA
 - [Manager / Senior Manager, Multimedia ](https://job-boards.greenhouse.io/lilasciences/jobs/4157130009) — Cambridge, MA USA
@@ -239,7 +240,7 @@ Tip: before writing selectors, check whether the site embeds Greenhouse/Workday 
 - [Technical Program Manager, AI Data](https://job-boards.greenhouse.io/lilasciences/jobs/4259557009) — Cambridge, MA USA; San Francisco, CA USA
 - [Technical Program Manager, AISF](https://job-boards.greenhouse.io/lilasciences/jobs/4289723009) — Cambridge, MA USA
 
-**BillionToOne** (89)
+**BillionToOne** (87)
 - 🎓 [Research Associate Intern](https://job-boards.greenhouse.io/billiontoone/jobs/4733845005) — Menlo Park, CA
 - [Account Support Representative](https://job-boards.greenhouse.io/billiontoone/jobs/4731418005) — North Carolina
 - [Account Support Representative](https://job-boards.greenhouse.io/billiontoone/jobs/4731421005) — South Carolina
@@ -249,7 +250,7 @@ Tip: before writing selectors, check whether the site embeds Greenhouse/Workday 
 - [Automation Service Engineer I/II, Oncology](https://job-boards.greenhouse.io/billiontoone/jobs/4733813005) — Menlo Park, CA
 - [Automation Service Engineering Associate I/II, Oncology](https://job-boards.greenhouse.io/billiontoone/jobs/4736701005) — Menlo Park, CA
 - [Client Services Associate I, Oncology](https://job-boards.greenhouse.io/billiontoone/jobs/4716882005) — Union City, CA
-- [Clinical Laboratory Associate, Prenatal (Overnight Shift)](https://job-boards.greenhouse.io/billiontoone/jobs/4678611005) — Union City, CA
+- [Clinical Laboratory Associate, Prenatal and Oncology](https://job-boards.greenhouse.io/billiontoone/jobs/4743708005) — Menlo Park or Union City, CA
 - [Clinical Laboratory Scientist, Oncology (AM Shift) ](https://job-boards.greenhouse.io/billiontoone/jobs/4742104005) — Menlo Park, CA
 - [Clinical Laboratory Scientist, Oncology (PM Shift) ](https://job-boards.greenhouse.io/billiontoone/jobs/4728398005) — Menlo Park, CA
 - [Clinical Laboratory Scientist, Prenatal ](https://job-boards.greenhouse.io/billiontoone/jobs/4728399005) — Union City, CA
@@ -262,12 +263,9 @@ Tip: before writing selectors, check whether the site embeds Greenhouse/Workday 
 - [LIMS Associate, Prenatal ](https://job-boards.greenhouse.io/billiontoone/jobs/4729775005) — Union City, CA
 - [Medical Science Liaison (MSL), Prenatal](https://job-boards.greenhouse.io/billiontoone/jobs/4743648005) — Illinois, Minnesota, Missouri, Kansas, Florida, North Carolina, South Carolina, Texas
 - [Oncology Account Executive](https://job-boards.greenhouse.io/billiontoone/jobs/4481121005) — Remote
-- [Oncology Account Executive](https://job-boards.greenhouse.io/billiontoone/jobs/4663423005) — San Jose, CA 
 - [Oncology Account Executive](https://job-boards.greenhouse.io/billiontoone/jobs/4689413005) — Roanoke, VA 
 - [Oncology Account Executive](https://job-boards.greenhouse.io/billiontoone/jobs/4689420005) — Rochester, MN
 - [Oncology Account Executive](https://job-boards.greenhouse.io/billiontoone/jobs/4689921005) — Chico, CA
-- [Oncology Account Executive](https://job-boards.greenhouse.io/billiontoone/jobs/4706194005) — Redwood City, CA
-- [Oncology Account Executive](https://job-boards.greenhouse.io/billiontoone/jobs/4706195005) — Santa Clara, CA
 - [Oncology Account Executive](https://job-boards.greenhouse.io/billiontoone/jobs/4707158005) — Boston, MA
 - [Oncology Account Executive](https://job-boards.greenhouse.io/billiontoone/jobs/4707162005) — North Columbus, OH
 - [Oncology Account Executive](https://job-boards.greenhouse.io/billiontoone/jobs/4707168005) — Fresno, CA
@@ -286,6 +284,7 @@ Tip: before writing selectors, check whether the site embeds Greenhouse/Workday 
 - [Oncology Account Executive](https://job-boards.greenhouse.io/billiontoone/jobs/4740036005) — Los Angeles, CA
 - [Oncology Account Executive](https://job-boards.greenhouse.io/billiontoone/jobs/4740520005) — Wilmington, NC
 - [Oncology Account Executive](https://job-boards.greenhouse.io/billiontoone/jobs/4743194005) — Knoxville, TN
+- [Oncology Account Executive](https://job-boards.greenhouse.io/billiontoone/jobs/4743729005) — Chicago, IL
 - [Oncology Regional Sales Manager, Southern California ](https://job-boards.greenhouse.io/billiontoone/jobs/4703269005) — Southern California 
 - [Oncology Regional Sales Manager, Upper Midwest](https://job-boards.greenhouse.io/billiontoone/jobs/4667498005) — Minnesota, Wisconsin, North Dakota, South Dakota, Iowa, Nebraska, Missouri
 - [Phlebotomy Operations Specialist](https://job-boards.greenhouse.io/billiontoone/jobs/4735176005) — Remote
@@ -330,13 +329,14 @@ Tip: before writing selectors, check whether the site embeds Greenhouse/Workday 
 - [Senior Stock Plan Administrator ](https://job-boards.greenhouse.io/billiontoone/jobs/4730826005) — Menlo Park, CA
 - [Strategic Account Manager](https://job-boards.greenhouse.io/billiontoone/jobs/4724096005) — Remote
 
-**Anduril** (2499)
+**Anduril** (2530)
 - 🎓 [2026 Electrical Engineer Intern](https://boards.greenhouse.io/andurilindustries/jobs/5261873007?gh_jid=5261873007) — Sydney, New South Wales, Australia
 - 🎓 [2026 Guidance, Navigation & Control Engineer Intern](https://boards.greenhouse.io/andurilindustries/jobs/5252665007?gh_jid=5252665007) — Sydney, New South Wales, Australia
 - 🎓 [2027 Deployment Logistics Intern](https://boards.greenhouse.io/andurilindustries/jobs/5255866007?gh_jid=5255866007) — London, England, United Kingdom
 - 🎓 [2027 Electrical Engineer Intern](https://boards.greenhouse.io/andurilindustries/jobs/5148101007?gh_jid=5148101007) — Atlanta, Georgia, United States; Boston, Massachusetts, United States; Broomfield, Colorado, United States; Colorado Springs, Colorado, United States; Costa Mesa, California, United States; Fort Collins, Colorado, United States; Irvine, California, United States; Reston, Virginia, United States; Seattle, Washington, United States
 - 🎓 [2027 Firmware Engineer Intern](https://boards.greenhouse.io/andurilindustries/jobs/5265158007?gh_jid=5265158007) — Costa Mesa, California, United States
 - 🎓 [2027 Flight Software Engineer Intern](https://boards.greenhouse.io/andurilindustries/jobs/5239083007?gh_jid=5239083007) — Costa Mesa, California, United States
+- 🎓 [2027 Flight Test Engineer Intern](https://boards.greenhouse.io/andurilindustries/jobs/5257709007?gh_jid=5257709007) — Costa Mesa, California, United States
 - 🎓 [2027 Industrial Engineer Intern](https://boards.greenhouse.io/andurilindustries/jobs/5255593007?gh_jid=5255593007) — Ashville, Ohio, United States; Costa Mesa, California, United States
 - 🎓 [2027 Manufacturing Engineer Intern](https://boards.greenhouse.io/andurilindustries/jobs/5153218007?gh_jid=5153218007) — Atlanta, Georgia, United States; Boston, Massachusetts, United States; Broomfield, Colorado, United States; Colorado Springs, Colorado, United States; Costa Mesa, California, United States; Fort Collins, Colorado, United States; Irvine, California, United States; Seattle, Washington, United States
 - 🎓 [2027 Mechanical Engineer Intern](https://boards.greenhouse.io/andurilindustries/jobs/5153187007?gh_jid=5153187007) — Atlanta, Georgia, United States; Boston, Massachusetts, United States; Broomfield, Colorado, United States; Colorado Springs, Colorado, United States; Costa Mesa, California, United States; Fort Collins, Colorado, United States; Irvine, California, United States; Reston, Virginia, United States; Seattle, Washington, United States
@@ -354,6 +354,7 @@ Tip: before writing selectors, check whether the site embeds Greenhouse/Workday 
 - 🎓 [Winter 2027 Propulsion Engineer Co-op](https://boards.greenhouse.io/andurilindustries/jobs/5236587007?gh_jid=5236587007) — Costa Mesa, California, United States
 - 🎓 [Winter 2027 Quality & Test Engineer Co-op](https://boards.greenhouse.io/andurilindustries/jobs/5257571007?gh_jid=5257571007) — Ashville, Ohio, United States; Santa Ana, California, United States
 - 🎓 [Winter 2027 Reliability Engineer Co-op](https://boards.greenhouse.io/andurilindustries/jobs/5257693007?gh_jid=5257693007) — Costa Mesa, California, United States
+- 🎓 [Winter 2027 Research Engineer Co-op](https://boards.greenhouse.io/andurilindustries/jobs/5265127007?gh_jid=5265127007) — Santa Ana, California, United States
 - 🎓 [Winter 2027 Software Engineer Co-op](https://boards.greenhouse.io/andurilindustries/jobs/5236563007?gh_jid=5236563007) — Quincy, Massachusetts, United States
 - 🎓 [Winter 2027 Supply Chain Analyst Co-op](https://boards.greenhouse.io/andurilindustries/jobs/5236592007?gh_jid=5236592007) — Quincy, Massachusetts, United States
 - 🎓 [Winter 2027 Systems Engineer Co-op](https://boards.greenhouse.io/andurilindustries/jobs/5236599007?gh_jid=5236599007) — Quincy, Massachusetts, United States
@@ -377,7 +378,8 @@ Tip: before writing selectors, check whether the site embeds Greenhouse/Workday 
 - [ Senior People Program Manager](https://boards.greenhouse.io/andurilindustries/jobs/5262725007?gh_jid=5262725007) — Seattle, Washington, United States
 - [ Senior Security Engineer, Identity](https://boards.greenhouse.io/andurilindustries/jobs/5259074007?gh_jid=5259074007) — Washington, District of Columbia, United States
 - [ Senior Supplier Quality Engineer, Composites](https://boards.greenhouse.io/andurilindustries/jobs/5134865007?gh_jid=5134865007) — Costa Mesa, California, United States
-- [ Senior Technical Recruiter, Contractor Mission Systems](https://boards.greenhouse.io/andurilindustries/jobs/5014749007?gh_jid=5014749007) — Costa Mesa, California, United States; Waltham, Massachusetts, United States
+- [ Senior System Safety Engineer](https://boards.greenhouse.io/andurilindustries/jobs/5266274007?gh_jid=5266274007) — Costa Mesa, California, United States
+- [ Senior Technical Recruiter, Contractor Mission Systems](https://boards.greenhouse.io/andurilindustries/jobs/5014749007?gh_jid=5014749007) — Costa Mesa, California, United States
 - [ Software Engineer, Discovery](https://boards.greenhouse.io/andurilindustries/jobs/5242907007?gh_jid=5242907007) — Boston, Massachusetts, United States; Costa Mesa, California, United States; Washington, District of Columbia, United States
 - [ VP Production, Connected Warfare](https://boards.greenhouse.io/andurilindustries/jobs/5173257007?gh_jid=5173257007) — Costa Mesa, California, United States
 - [(HVAC Specialist) Technical Operations Engineer - Connected Warfare](https://boards.greenhouse.io/andurilindustries/jobs/5200126007?gh_jid=5200126007) — Costa Mesa, California, United States
@@ -388,6 +390,7 @@ Tip: before writing selectors, check whether the site embeds Greenhouse/Workday 
 - [2026 Early Career Mechanical Engineer](https://boards.greenhouse.io/andurilindustries/jobs/4802167007?gh_jid=4802167007) — Costa Mesa, California, United States
 - [2026 Early Career Software Engineer](https://boards.greenhouse.io/andurilindustries/jobs/4802146007?gh_jid=4802146007) — Atlanta, Georgia, United States; Colorado Springs, Colorado, United States; Costa Mesa, California, United States; Fort Collins, Colorado, United States; Seattle, Washington, United States
 - [2027 Early Career Associate Product Designer](https://boards.greenhouse.io/andurilindustries/jobs/5265088007?gh_jid=5265088007) — Costa Mesa, California, United States
+- [2027 Early Career Division Operations](https://boards.greenhouse.io/andurilindustries/jobs/5261363007?gh_jid=5261363007) — Reston, Virginia, United States
 - [2027 Early Career Electrical Engineer](https://boards.greenhouse.io/andurilindustries/jobs/5136925007?gh_jid=5136925007) — Atlanta, Georgia, United States; Boston, Massachusetts, United States; Broomfield, Colorado, United States; Colorado Springs, Colorado, United States; Costa Mesa, California, United States; Fort Collins, Colorado, United States; Irvine, California, United States; Reston, Virginia, United States; Seattle, Washington, United States
 - [2027 Early Career Firmware Engineer](https://boards.greenhouse.io/andurilindustries/jobs/5246141007?gh_jid=5246141007) — Costa Mesa, California, United States
 - [2027 Early Career Flight Software Engineer](https://boards.greenhouse.io/andurilindustries/jobs/5228868007?gh_jid=5228868007) — Costa Mesa, California, United States
@@ -428,6 +431,7 @@ Tip: before writing selectors, check whether the site embeds Greenhouse/Workday 
 - [Analytics Engineer, Sentry](https://boards.greenhouse.io/andurilindustries/jobs/5226536007?gh_jid=5226536007) — Irvine, California, United States
 - [Antenna RF Engineer, EW](https://boards.greenhouse.io/andurilindustries/jobs/5231092007?gh_jid=5231092007) — Costa Mesa, California, United States
 - [Applied LLM Systems Engineer](https://boards.greenhouse.io/andurilindustries/jobs/5197253007?gh_jid=5197253007) — Costa Mesa, California, United States
+- [Assistant Contractor Special Security Officer](https://boards.greenhouse.io/andurilindustries/jobs/5262829007?gh_jid=5262829007) — Washington, District of Columbia, United States
 - [Associate Director, Business Development](https://boards.greenhouse.io/andurilindustries/jobs/5261801007?gh_jid=5261801007) — Washington, District of Columbia, United States
 - [Associate Director, Business Development, Air Defense](https://boards.greenhouse.io/andurilindustries/jobs/5176542007?gh_jid=5176542007) — Washington, District of Columbia, United States
 - [Associate Director, Business Development, Air Defense](https://boards.greenhouse.io/andurilindustries/jobs/5178152007?gh_jid=5178152007) — Costa Mesa, California, United States
@@ -436,9 +440,8 @@ Tip: before writing selectors, check whether the site embeds Greenhouse/Workday 
 - [Associate Director, Space Growth](https://boards.greenhouse.io/andurilindustries/jobs/5133374007?gh_jid=5133374007) — Chantilly, Virginia, United States
 - [Associate Director, Strategic Execution, TRS](https://boards.greenhouse.io/andurilindustries/jobs/5222624007?gh_jid=5222624007) — Costa Mesa, California, United States
 - [Associate Facilities Manager](https://boards.greenhouse.io/andurilindustries/jobs/5156676007?gh_jid=5156676007) — Costa Mesa, California, United States
-- [Associate People Business Partner](https://boards.greenhouse.io/andurilindustries/jobs/4855853007?gh_jid=4855853007) — Costa Mesa, California, United States
-- [Associate Workplace Manager](https://boards.greenhouse.io/andurilindustries/jobs/5235397007?gh_jid=5235397007) — Costa Mesa, California, United States
 - [Associate Workplace Manager](https://boards.greenhouse.io/andurilindustries/jobs/5256121007?gh_jid=5256121007) — Ashville, Ohio, United States
+- [Associate Workplace Manager](https://boards.greenhouse.io/andurilindustries/jobs/5265105007?gh_jid=5265105007) — Costa Mesa, California, United States
 - [Associate, Business & Revenue Operations, Air Defense](https://boards.greenhouse.io/andurilindustries/jobs/5214320007?gh_jid=5214320007) — Irvine, California, United States
 - [Automation & Torque Tooling Technician](https://boards.greenhouse.io/andurilindustries/jobs/5227022007?gh_jid=5227022007) — Costa Mesa, California, United States
 - [Automation Engineer, General](https://boards.greenhouse.io/andurilindustries/jobs/5239028007?gh_jid=5239028007) — Costa Mesa, California, United States
@@ -483,7 +486,6 @@ Tip: before writing selectors, check whether the site embeds Greenhouse/Workday 
 - [CAD Designer, Maritime Production](https://boards.greenhouse.io/andurilindustries/jobs/5231433007?gh_jid=5231433007) — Santa Ana, California, United States
 - [CAD Drafter](https://boards.greenhouse.io/andurilindustries/jobs/5247471007?gh_jid=5247471007) — Costa Mesa, California, United States
 - [Calibration Engineer](https://boards.greenhouse.io/andurilindustries/jobs/5201431007?gh_jid=5201431007) — Costa Mesa, California, United States
-- [Camera Test Engineer](https://boards.greenhouse.io/andurilindustries/jobs/5196583007?gh_jid=5196583007) — Lexington, Massachusetts, United States
 - [Chief Engineer](https://boards.greenhouse.io/andurilindustries/jobs/5159733007?gh_jid=5159733007) — Costa Mesa, California, United States
 - [Chief Engineer](https://boards.greenhouse.io/andurilindustries/jobs/5252765007?gh_jid=5252765007) — Hudson, New Hampshire, United States
 - [Chief Engineer](https://boards.greenhouse.io/andurilindustries/jobs/5252767007?gh_jid=5252767007) — Goleta, California, United States
@@ -530,13 +532,11 @@ Tip: before writing selectors, check whether the site embeds Greenhouse/Workday 
 - [Construction Project Manager, Asset Improvements ](https://boards.greenhouse.io/andurilindustries/jobs/5183350007?gh_jid=5183350007) — Boston, Massachusetts, United States
 - [Construction Systems Specialist](https://boards.greenhouse.io/andurilindustries/jobs/5124525007?gh_jid=5124525007) — Costa Mesa, California, United States
 - [Contract Recruiter, Production (Technicians)](https://boards.greenhouse.io/andurilindustries/jobs/5236226007?gh_jid=5236226007) — Ashville, Ohio, United States
+- [Contractor Special Security Officer](https://boards.greenhouse.io/andurilindustries/jobs/5262813007?gh_jid=5262813007) — Costa Mesa, California, United States
 - [Contracts Manager](https://boards.greenhouse.io/andurilindustries/jobs/5185207007?gh_jid=5185207007) — Washington, District of Columbia, United States
 - [Contracts Manager](https://boards.greenhouse.io/andurilindustries/jobs/5200578007?gh_jid=5200578007) — Reston, Virginia, United States
-- [Contracts Manager](https://boards.greenhouse.io/andurilindustries/jobs/5219857007?gh_jid=5219857007) — Fort Collins, Colorado, United States
-- [Contracts Manager ](https://boards.greenhouse.io/andurilindustries/jobs/5184594007?gh_jid=5184594007) — Costa Mesa, California, United States
-- [Controls Engineer 2nd shift, Manufacturing Automation ](https://boards.greenhouse.io/andurilindustries/jobs/5234541007?gh_jid=5234541007) — Costa Mesa, California, United States
 
-_…truncated at 400 rows (3312 total)._
+_…truncated at 400 rows (3341 total)._
 
 </details>
 <!-- REQCON:END -->
