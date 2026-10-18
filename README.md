@@ -86,7 +86,7 @@ Tip: before writing selectors, check whether the site embeds Greenhouse/Workday 
 ---
 
 <!-- REQCON:START -->
-**Last scan:** 2026-10-17 09:59 EDT · 8 boards · 52 new · 51 removed
+**Last scan:** 2026-10-18 10:12 EDT · 8 boards · 1 new · 0 removed
 
 ✅ Lila Sciences · ✅ BillionToOne · ✅ Anduril · ✅ Formlabs · ✅ STR · ✅ Draper · ✅ MERL (Mitsubishi Electric Research Labs) · ✅ Ubicept
 
@@ -104,6 +104,7 @@ Tip: before writing selectors, check whether the site embeds Greenhouse/Workday 
 | 🎓 Formlabs | [Hardware Systems Integration Intern (Summer 2027)](https://careers.formlabs.com/job/8212683/apply/?gh_jid=8212683) | Somerville, MA | 2026-10-14 |
 | 🎓 MERL (Mitsubishi Electric Research Labs) | [SA0331: Internship - Neural Spatial Audio Processing](https://www.merl.com/employment/internship-openings#SA0331) | — | 2026-10-14 |
 | 🎓 Draper | [Classified Cybersecurity/IT Internship (Summer 2027)](https://draper.wd5.myworkdayjobs.com/en-US/Draper_Careers/job/Cambridge-MA/Classified-Cybersecurity-IT-Internship--Summer-2027-_JR003021) | Cambridge, MA | 2026-10-13 |
+| Formlabs | [Head of Customer Service](https://careers.formlabs.com/job/8294467/apply/?gh_jid=8294467) | Budapest, Hungary | 2026-10-18 |
 | Anduril | [Associate Director, Government Relations](https://boards.greenhouse.io/andurilindustries/jobs/5267543007?gh_jid=5267543007) | Washington, District of Columbia, United States | 2026-10-17 |
 | Anduril | [Classified Platform Engineer](https://boards.greenhouse.io/andurilindustries/jobs/5267747007?gh_jid=5267747007) | Costa Mesa, California, United States | 2026-10-17 |
 | Anduril | [Contracts Manager, Maritime ](https://boards.greenhouse.io/andurilindustries/jobs/5267453007?gh_jid=5267453007) | Costa Mesa, California, United States | 2026-10-17 |
@@ -123,12 +124,11 @@ Tip: before writing selectors, check whether the site embeds Greenhouse/Workday 
 | Anduril | [MRB Mechanical Engineer, Fury](https://boards.greenhouse.io/andurilindustries/jobs/5266512007?gh_jid=5266512007) | Ashville, Ohio, United States | 2026-10-17 |
 | Anduril | [MRB Mechanical Engineering Manager, Fury](https://boards.greenhouse.io/andurilindustries/jobs/5266708007?gh_jid=5266708007) | Ashville, Ohio, United States | 2026-10-17 |
 | Anduril | [Packaging Engineer, Product Development](https://boards.greenhouse.io/andurilindustries/jobs/5267702007?gh_jid=5267702007) | Costa Mesa, California, United States | 2026-10-17 |
-| Anduril | [Packaging Engineer, Supply Chain](https://boards.greenhouse.io/andurilindustries/jobs/5267703007?gh_jid=5267703007) | Costa Mesa, California, United States | 2026-10-17 |
 
-…and 229 more — see the [latest digest](reports/reqcon-2026-10-17.md).
+…and 226 more — see the [latest digest](reports/reqcon-2026-10-18.md).
 
 <details>
-<summary>All tracked postings (3349)</summary>
+<summary>All tracked postings (3350)</summary>
 
 **Lila Sciences** (111)
 - [(Senior) Director, Portfolio Strategy, Life Sciences](https://job-boards.greenhouse.io/lilasciences/jobs/4258093009) — Cambridge, MA USA
@@ -536,7 +536,7 @@ Tip: before writing selectors, check whether the site embeds Greenhouse/Workday 
 - [Contracts Manager](https://boards.greenhouse.io/andurilindustries/jobs/5185207007?gh_jid=5185207007) — Washington, District of Columbia, United States
 - [Contracts Manager ](https://boards.greenhouse.io/andurilindustries/jobs/5184594007?gh_jid=5184594007) — Costa Mesa, California, United States
 
-_…truncated at 400 rows (3349 total)._
+_…truncated at 400 rows (3350 total)._
 
 </details>
 <!-- REQCON:END -->
