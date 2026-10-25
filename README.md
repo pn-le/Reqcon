@@ -86,7 +86,7 @@ Tip: before writing selectors, check whether the site embeds Greenhouse/Workday 
 ---
 
 <!-- REQCON:START -->
-**Last scan:** 2026-10-24 10:10 EDT · 8 boards · 47 new · 39 removed
+**Last scan:** 2026-10-25 10:40 EDT · 8 boards · 5 new · 3 removed
 
 ✅ Lila Sciences · ✅ BillionToOne · ✅ Anduril · ✅ Formlabs · ✅ STR · ✅ Draper · ✅ MERL (Mitsubishi Electric Research Labs) · ✅ Ubicept
 
@@ -119,16 +119,16 @@ Tip: before writing selectors, check whether the site embeds Greenhouse/Workday 
 | 🎓 Anduril | [2027 Technical Program Manager Intern](https://boards.greenhouse.io/andurilindustries/jobs/5268864007?gh_jid=5268864007) | Costa Mesa, California, United States; Honolulu, Hawaii, United States; Reston, Virginia, United States; Seattle, Washington, United States; Washington, District of Columbia, United States | 2026-10-20 |
 | 🎓 MERL (Mitsubishi Electric Research Labs) | [SA0335: Internship - Audio separation, generation, and analysis](https://www.merl.com/employment/internship-openings#SA0335) | — | 2026-10-20 |
 | 🎓 Formlabs | [Recruitment Intern](https://careers.formlabs.com/job/8300782/apply/?gh_jid=8300782) | Budapest, Hungary | 2026-10-19 |
-| Anduril | [2027 New Grad Low Observables Engineer](https://boards.greenhouse.io/andurilindustries/jobs/5269789007?gh_jid=5269789007) | Costa Mesa, California, United States | 2026-10-24 |
-| Anduril | [Business Operations Analyst, Connected Warfare](https://boards.greenhouse.io/andurilindustries/jobs/5213194007?gh_jid=5213194007) | Seattle, Washington, United States | 2026-10-24 |
-| Anduril | [Channel Relationship Manager, Connected Warfare](https://boards.greenhouse.io/andurilindustries/jobs/5092442007?gh_jid=5092442007) | Washington, District of Columbia, United States | 2026-10-24 |
-| Anduril | [Cognitive Systems Lead](https://boards.greenhouse.io/andurilindustries/jobs/5268882007?gh_jid=5268882007) | Santa Ana, California, United States | 2026-10-24 |
-| Anduril | [Demand & Supply Planner](https://boards.greenhouse.io/andurilindustries/jobs/5274160007?gh_jid=5274160007) | Costa Mesa, California, United States | 2026-10-24 |
+| Anduril | [Senior Software Engineer- Infrastructure ](https://boards.greenhouse.io/andurilindustries/jobs/5274646007?gh_jid=5274646007) | Broomfield, Colorado, United States | 2026-10-25 |
+| Anduril | [Senior Software Engineer- Machine Learning](https://boards.greenhouse.io/andurilindustries/jobs/5274648007?gh_jid=5274648007) | Broomfield, Colorado, United States | 2026-10-25 |
+| Anduril | [Senior TPM, Mathematical Software & Algorithms](https://boards.greenhouse.io/andurilindustries/jobs/5274650007?gh_jid=5274650007) | Waltham, Massachusetts, United States | 2026-10-25 |
+| Anduril | [Senior TPM, Mathematical Software & Algorithms](https://boards.greenhouse.io/andurilindustries/jobs/5274651007?gh_jid=5274651007) | Huntsville, Alabama, United States | 2026-10-25 |
+| Anduril | [Software Engineer- Infrastructure ](https://boards.greenhouse.io/andurilindustries/jobs/5274647007?gh_jid=5274647007) | Waltham, Massachusetts, United States | 2026-10-25 |
 
-…and 311 more — see the [latest digest](reports/reqcon-2026-10-24.md).
+…and 315 more — see the [latest digest](reports/reqcon-2026-10-25.md).
 
 <details>
-<summary>All tracked postings (3321)</summary>
+<summary>All tracked postings (3323)</summary>
 
 **Lila Sciences** (107)
 - [(Senior) Director, Portfolio Strategy, Life Sciences](https://job-boards.greenhouse.io/lilasciences/jobs/4258093009) — Cambridge, MA USA
@@ -323,7 +323,7 @@ Tip: before writing selectors, check whether the site embeds Greenhouse/Workday 
 - [Senior Stock Plan Administrator ](https://job-boards.greenhouse.io/billiontoone/jobs/4730826005) — Menlo Park, CA
 - [Strategic Account Manager](https://job-boards.greenhouse.io/billiontoone/jobs/4724096005) — Remote
 
-**Anduril** (2508)
+**Anduril** (2510)
 - 🎓 [2027 Business Operations Engineer Intern](https://boards.greenhouse.io/andurilindustries/jobs/5271672007?gh_jid=5271672007) — Ashville, Ohio, United States; Costa Mesa, California, United States
 - 🎓 [2027 Business Operations Intern](https://boards.greenhouse.io/andurilindustries/jobs/5271826007?gh_jid=5271826007) — Costa Mesa, California, United States; Seattle, Washington, United States
 - 🎓 [2027 Deployment Logistics Intern](https://boards.greenhouse.io/andurilindustries/jobs/5255866007?gh_jid=5255866007) — London, England, United Kingdom
@@ -536,7 +536,7 @@ Tip: before writing selectors, check whether the site embeds Greenhouse/Workday 
 - [Configuration Manager ](https://boards.greenhouse.io/andurilindustries/jobs/5188290007?gh_jid=5188290007) — Ashville, Ohio, United States
 - [Configuration Manager ](https://boards.greenhouse.io/andurilindustries/jobs/5273173007?gh_jid=5273173007) — Waltham, Massachusetts, United States
 
-_…truncated at 400 rows (3321 total)._
+_…truncated at 400 rows (3323 total)._
 
 </details>
 <!-- REQCON:END -->
