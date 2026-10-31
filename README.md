@@ -86,7 +86,7 @@ Tip: before writing selectors, check whether the site embeds Greenhouse/Workday 
 ---
 
 <!-- REQCON:START -->
-**Last scan:** 2026-10-30 12:52 EDT · 8 boards · 58 new · 50 removed
+**Last scan:** 2026-10-31 11:54 EDT · 8 boards · 45 new · 27 removed
 
 ✅ Lila Sciences · ✅ BillionToOne · ✅ Anduril · ✅ Formlabs · ✅ STR · ✅ Draper · ✅ MERL (Mitsubishi Electric Research Labs) · ✅ Ubicept
 
@@ -94,6 +94,8 @@ Tip: before writing selectors, check whether the site embeds Greenhouse/Workday 
 
 | Company | Role | Location | First seen |
 |---|---|---|---|
+| 🎓 Anduril | [Fall 2027 Manufacturing Engineer Co-op](https://boards.greenhouse.io/andurilindustries/jobs/5280611007?gh_jid=5280611007) | Ashville, Ohio, United States; Quincy, Massachusetts, United States; Santa Ana, California, United States | 2026-10-31 |
+| 🎓 Lila Sciences | [Co-Op, AI-Driven Equation Discovery](https://job-boards.greenhouse.io/lilasciences/jobs/4469152009) | Cambridge, MA USA; San Francisco, CA USA | 2026-10-31 |
 | 🎓 Lila Sciences | [Co-Op, Bayesian Methods for Complex Decision Making](https://job-boards.greenhouse.io/lilasciences/jobs/4469148009) | Cambridge, MA USA; San Francisco, CA USA | 2026-10-30 |
 | 🎓 Lila Sciences | [Co-Op, Editorial Content](https://job-boards.greenhouse.io/lilasciences/jobs/4472542009) | Cambridge, MA USA | 2026-10-30 |
 | 🎓 Lila Sciences | [Co-Op, SCADA Engineer](https://job-boards.greenhouse.io/lilasciences/jobs/4467407009) | Cambridge, MA USA | 2026-10-30 |
@@ -118,21 +120,20 @@ Tip: before writing selectors, check whether the site embeds Greenhouse/Workday 
 | 🎓 Lila Sciences | [Co-Op, Robot Perception & State Estimation](https://job-boards.greenhouse.io/lilasciences/jobs/4467398009) | Cambridge, MA USA | 2026-10-27 |
 | 🎓 MERL (Mitsubishi Electric Research Labs) | [SA0341: Internship - Acoustic metamaterials and active noise control](https://www.merl.com/employment/internship-openings#SA0341) | — | 2026-10-27 |
 | 🎓 Draper | [Microsystems Integration Intern](https://draper.wd5.myworkdayjobs.com/en-US/Draper_Careers/job/Cambridge-MA/Microsystems-Integration-Intern_JR003002-1) | Cambridge, MA | 2026-10-26 |
-| 🎓 MERL (Mitsubishi Electric Research Labs) | [CV0333: Internship - Anomaly Localization for Industrial Inspection](https://www.merl.com/employment/internship-openings#CV0333) | — | 2026-10-24 |
-| Anduril | [Applied LLM Systems Engineer](https://boards.greenhouse.io/andurilindustries/jobs/5197253007?gh_jid=5197253007) | Costa Mesa, California, United States | 2026-10-30 |
-| Anduril | [Chief of Staff, Production](https://boards.greenhouse.io/andurilindustries/jobs/5251746007?gh_jid=5251746007) | Costa Mesa, California, United States | 2026-10-30 |
-| Anduril | [Data Analytics, Product Lifecycle Operations](https://boards.greenhouse.io/andurilindustries/jobs/5278800007?gh_jid=5278800007) | Costa Mesa, California, United States | 2026-10-30 |
-| Anduril | [Director of Manufacturing Engineering, EW](https://boards.greenhouse.io/andurilindustries/jobs/5279603007?gh_jid=5279603007) | Irvine, California, United States | 2026-10-30 |
-| Anduril | [Director, Business Development - EMEA](https://boards.greenhouse.io/andurilindustries/jobs/4962552007?gh_jid=4962552007) | Amsterdam, North Holland, Netherlands | 2026-10-30 |
+| Anduril | [Electrical Engineer](https://boards.greenhouse.io/andurilindustries/jobs/5280572007?gh_jid=5280572007) | Waltham, Massachusetts, United States | 2026-10-31 |
+| Anduril | [Field Electrical Technician, Counter Intrusion](https://boards.greenhouse.io/andurilindustries/jobs/5137239007?gh_jid=5137239007) | Costa Mesa, California, United States | 2026-10-31 |
+| Anduril | [Field Mechanical Technician, Counter Intrusion](https://boards.greenhouse.io/andurilindustries/jobs/5137230007?gh_jid=5137230007) | Costa Mesa, California, United States | 2026-10-31 |
+| Anduril | [Field Service Engineer, Counter Intrusion](https://boards.greenhouse.io/andurilindustries/jobs/5032266007?gh_jid=5032266007) | Costa Mesa, California, United States | 2026-10-31 |
 
-…and 308 more — see the [latest digest](reports/reqcon-2026-10-30.md).
+…and 301 more — see the [latest digest](reports/reqcon-2026-10-31.md).
 
 <details>
-<summary>All tracked postings (3375)</summary>
+<summary>All tracked postings (3393)</summary>
 
-**Lila Sciences** (123)
+**Lila Sciences** (124)
 - 🎓 [Co-Op, Agentic Simulations for Materials Science](https://job-boards.greenhouse.io/lilasciences/jobs/4465059009) — Cambridge, MA USA; San Francisco, CA USA
 - 🎓 [Co-Op, AI Nucleic Acid Design](https://job-boards.greenhouse.io/lilasciences/jobs/4465061009) — San Francisco, CA USA
+- 🎓 [Co-Op, AI-Driven Equation Discovery](https://job-boards.greenhouse.io/lilasciences/jobs/4469152009) — Cambridge, MA USA; San Francisco, CA USA
 - 🎓 [Co-Op, Automated Systems Engineer](https://job-boards.greenhouse.io/lilasciences/jobs/4462594009) — Cambridge, MA USA
 - 🎓 [Co-Op, Bayesian Methods for Complex Decision Making](https://job-boards.greenhouse.io/lilasciences/jobs/4469148009) — Cambridge, MA USA; San Francisco, CA USA
 - 🎓 [Co-Op, Cell Based Sequencing](https://job-boards.greenhouse.io/lilasciences/jobs/4465070009) — Cambridge, MA USA
@@ -255,7 +256,7 @@ Tip: before writing selectors, check whether the site embeds Greenhouse/Workday 
 - [Technical Program Manager, AISF](https://job-boards.greenhouse.io/lilasciences/jobs/4289723009) — Cambridge, MA USA
 - [Technical Recruiter, AI Research](https://job-boards.greenhouse.io/lilasciences/jobs/4423474009) — Cambridge, MA USA; San Francisco, CA USA
 
-**BillionToOne** (80)
+**BillionToOne** (82)
 - 🎓 [Research Associate Intern](https://job-boards.greenhouse.io/billiontoone/jobs/4747865005) — Menlo Park, CA
 - [Account Support Representative](https://job-boards.greenhouse.io/billiontoone/jobs/4731424005) — Maryland, Washington, D.C., Eastern Virginia
 - [Account Support Representative](https://job-boards.greenhouse.io/billiontoone/jobs/4747909005) — South Carolina
@@ -320,10 +321,12 @@ Tip: before writing selectors, check whether the site embeds Greenhouse/Workday 
 - [Prenatal Account Executive](https://job-boards.greenhouse.io/billiontoone/jobs/4747907005) — Tulsa, OK
 - [Prenatal Account Executive](https://job-boards.greenhouse.io/billiontoone/jobs/4747908005) — St. George, UT
 - [Prenatal Account Executive](https://job-boards.greenhouse.io/billiontoone/jobs/4749213005) — Yakima, WA
+- [Prenatal Regional Sales Manager, Denver (CO)](https://job-boards.greenhouse.io/billiontoone/jobs/4749632005) — Denver, CO
 - [Prenatal Regional Sales Manager, Great Plains](https://job-boards.greenhouse.io/billiontoone/jobs/4747910005) — Minnesota, Iowa, South Dakota, North Dakota
 - [Prenatal Regional Sales Manager, Gulf Coast](https://job-boards.greenhouse.io/billiontoone/jobs/4747911005) — Louisiana, Mississippi, Arkansas
 - [Prenatal Regional Sales Manager, Northern Los Angeles](https://job-boards.greenhouse.io/billiontoone/jobs/4707253005) — Northern California
 - [Prenatal Senior Account Executive](https://job-boards.greenhouse.io/billiontoone/jobs/4747894005) — Remote
+- [Reporting Clinical Laboratory Scientist (contractor)](https://job-boards.greenhouse.io/billiontoone/jobs/4747272005) — Union City, CA
 - [Research Associate](https://job-boards.greenhouse.io/billiontoone/jobs/4747864005) — Menlo Park, CA
 - [Senior Accounting Manager](https://job-boards.greenhouse.io/billiontoone/jobs/4745785005) — Menlo Park, CA
 - [Senior Director, Software Product Management and Product Engineering](https://job-boards.greenhouse.io/billiontoone/jobs/4745725005) — Menlo Park, CA
@@ -337,7 +340,7 @@ Tip: before writing selectors, check whether the site embeds Greenhouse/Workday 
 - [Senior Stock Plan Administrator ](https://job-boards.greenhouse.io/billiontoone/jobs/4730826005) — Menlo Park, CA
 - [Strategic Account Manager](https://job-boards.greenhouse.io/billiontoone/jobs/4747912005) — Remote
 
-**Anduril** (2554)
+**Anduril** (2567)
 - 🎓 [2027 Business Operations Engineer Intern](https://boards.greenhouse.io/andurilindustries/jobs/5271672007?gh_jid=5271672007) — Ashville, Ohio, United States; Costa Mesa, California, United States
 - 🎓 [2027 Business Operations Intern](https://boards.greenhouse.io/andurilindustries/jobs/5271826007?gh_jid=5271826007) — Costa Mesa, California, United States; Seattle, Washington, United States
 - 🎓 [2027 Deployment Logistics Intern](https://boards.greenhouse.io/andurilindustries/jobs/5255866007?gh_jid=5255866007) — London, England, United Kingdom
@@ -361,6 +364,7 @@ Tip: before writing selectors, check whether the site embeds Greenhouse/Workday 
 - 🎓 [2027 Supply Chain Intern](https://boards.greenhouse.io/andurilindustries/jobs/5255827007?gh_jid=5255827007) — Costa Mesa, California, United States; Fort Collins, Colorado, United States; Quincy, Massachusetts, United States; Santa Ana, California, United States; Waltham, Massachusetts, United States
 - 🎓 [2027 Systems Engineer Intern](https://boards.greenhouse.io/andurilindustries/jobs/5257690007?gh_jid=5257690007) — Boston, Massachusetts, United States; Costa Mesa, California, United States; Fort Collins, Colorado, United States; Reston, Virginia, United States; Seattle, Washington, United States
 - 🎓 [2027 Technical Program Manager Intern](https://boards.greenhouse.io/andurilindustries/jobs/5268864007?gh_jid=5268864007) — Costa Mesa, California, United States; Honolulu, Hawaii, United States; Reston, Virginia, United States; Seattle, Washington, United States; Washington, District of Columbia, United States
+- 🎓 [Fall 2027 Manufacturing Engineer Co-op](https://boards.greenhouse.io/andurilindustries/jobs/5280611007?gh_jid=5280611007) — Ashville, Ohio, United States; Quincy, Massachusetts, United States; Santa Ana, California, United States
 - 🎓 [Winter 2027 Business Operations Engineer Co-op](https://boards.greenhouse.io/andurilindustries/jobs/5271686007?gh_jid=5271686007) — Ashville, Ohio, United States; Costa Mesa, California, United States
 - 🎓 [Winter 2027 Electrical Engineer Co-op](https://boards.greenhouse.io/andurilindustries/jobs/5236565007?gh_jid=5236565007) — Costa Mesa, California, United States; Quincy, Massachusetts, United States
 - 🎓 [Winter 2027 EWIS Harness Engineer Co-op](https://boards.greenhouse.io/andurilindustries/jobs/5236577007?gh_jid=5236577007) — Costa Mesa, California, United States
@@ -386,6 +390,7 @@ Tip: before writing selectors, check whether the site embeds Greenhouse/Workday 
 - [ Manufacturing Engineer, Production, Sentry](https://boards.greenhouse.io/andurilindustries/jobs/5085941007?gh_jid=5085941007) — Irvine, California, United States
 - [ Manufacturing Test Engineer, Missiles](https://boards.greenhouse.io/andurilindustries/jobs/5254383007?gh_jid=5254383007) — Costa Mesa, California, United States
 - [ Manufacturing Test Engineer, Missiles](https://boards.greenhouse.io/andurilindustries/jobs/5254434007?gh_jid=5254434007) — Ashville, Ohio, United States
+- [ Recruiting Lead](https://boards.greenhouse.io/andurilindustries/jobs/5278804007?gh_jid=5278804007) — Costa Mesa, California, United States
 - [ Senior Aerodynamics Engineer, Air Vehicles](https://boards.greenhouse.io/andurilindustries/jobs/4629832007?gh_jid=4629832007) — Costa Mesa, California, United States
 - [ Senior Discovery Engineer (Modeling & Simulation) ](https://boards.greenhouse.io/andurilindustries/jobs/5252658007?gh_jid=5252658007) — Boston, Massachusetts, United States; Waltham, Massachusetts, United States
 - [ Senior FPGA Engineer, Intelligence Systems](https://boards.greenhouse.io/andurilindustries/jobs/4591133007?gh_jid=4591133007) — Reston, Virginia, United States
@@ -471,8 +476,6 @@ Tip: before writing selectors, check whether the site embeds Greenhouse/Workday 
 - [Automation & Torque Tooling Technician](https://boards.greenhouse.io/andurilindustries/jobs/5227022007?gh_jid=5227022007) — Costa Mesa, California, United States
 - [Automation Engineer, General](https://boards.greenhouse.io/andurilindustries/jobs/5239028007?gh_jid=5239028007) — Costa Mesa, California, United States
 - [Automation Engineer, Manufacturing Automation](https://boards.greenhouse.io/andurilindustries/jobs/5234628007?gh_jid=5234628007) — Costa Mesa, California, United States
-- [Automation Technician 2nd Shift, Manufacturing Automation  ](https://boards.greenhouse.io/andurilindustries/jobs/5234683007?gh_jid=5234683007) — Costa Mesa, California, United States
-- [Automation Technician, Manufacturing Automation  ](https://boards.greenhouse.io/andurilindustries/jobs/5234680007?gh_jid=5234680007) — Costa Mesa, California, United States
 - [Automation Test Software Engineer, Manufacturing ](https://boards.greenhouse.io/andurilindustries/jobs/5250595007?gh_jid=5250595007) — Irvine, California, United States
 - [Aviation Maintenance Engineer](https://boards.greenhouse.io/andurilindustries/jobs/5115028007?gh_jid=5115028007) — Phoenix, Arizona, United States
 - [Aviation Maintenance Engineer - Advanced Effects](https://boards.greenhouse.io/andurilindustries/jobs/5262583007?gh_jid=5262583007) — Costa Mesa, California, United States
@@ -532,11 +535,8 @@ Tip: before writing selectors, check whether the site embeds Greenhouse/Workday 
 - [Circuit Designer, Space Special Programs](https://boards.greenhouse.io/andurilindustries/jobs/5208572007?gh_jid=5208572007) — Chantilly, Virginia, United States; Herndon, Virginia, United States
 - [Classified Cloud & Platform Engineer](https://boards.greenhouse.io/andurilindustries/jobs/5269017007?gh_jid=5269017007) — Costa Mesa, California, United States
 - [Classified Cloud & Platform Engineer](https://boards.greenhouse.io/andurilindustries/jobs/5271233007?gh_jid=5271233007) — Washington, District of Columbia, United States
-- [Classified IT Asset & Procurement Administrator](https://boards.greenhouse.io/andurilindustries/jobs/5267150007?gh_jid=5267150007) — Costa Mesa, California, United States
-- [Classified Platform Engineer](https://boards.greenhouse.io/andurilindustries/jobs/5267747007?gh_jid=5267747007) — Costa Mesa, California, United States
-- [Classified Platform Engineer](https://boards.greenhouse.io/andurilindustries/jobs/5268991007?gh_jid=5268991007) — Washington, District of Columbia, United States
 
-_…truncated at 400 rows (3375 total)._
+_…truncated at 400 rows (3393 total)._
 
 </details>
 <!-- REQCON:END -->
