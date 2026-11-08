@@ -86,7 +86,7 @@ Tip: before writing selectors, check whether the site embeds Greenhouse/Workday 
 ---
 
 <!-- REQCON:START -->
-**Last scan:** 2026-11-07 10:54 EST · 8 boards · 37 new · 27 removed
+**Last scan:** 2026-11-08 11:18 EST · 8 boards · 0 new · 0 removed
 
 ✅ Lila Sciences · ✅ BillionToOne · ✅ Anduril · ✅ Formlabs · ✅ STR · ✅ Draper · ✅ MERL (Mitsubishi Electric Research Labs) · ✅ Ubicept
 
@@ -109,7 +109,6 @@ Tip: before writing selectors, check whether the site embeds Greenhouse/Workday 
 | 🎓 Lila Sciences | [Co-op, Agentic and Generative Protein Design](https://job-boards.greenhouse.io/lilasciences/jobs/4462613009) | Cambridge, MA USA; San Francisco, CA USA | 2026-11-02 |
 | 🎓 Lila Sciences | [Co-Op, Targeted Non-Viral Delivery](https://job-boards.greenhouse.io/lilasciences/jobs/4472544009) | Cambridge, MA USA | 2026-11-02 |
 | 🎓 STR | [5G SA O-RAN Test Bed Co-Op (Engineering Co-Op)](https://job-boards.greenhouse.io/systemstechnologyresearch/jobs/4726405006) | Woburn, MA | 2026-11-02 |
-| 🎓 MERL (Mitsubishi Electric Research Labs) | [OR0334: Internship - Physical AI for Dexterous, Contact-Rich Humanoid Manipulation](https://www.merl.com/employment/internship-openings#OR0334) | — | 2026-11-01 |
 | Anduril | [Communications Coordinator](https://boards.greenhouse.io/andurilindustries/jobs/5286192007?gh_jid=5286192007) | Costa Mesa, California, United States | 2026-11-07 |
 | Anduril | [Contracts Manager](https://boards.greenhouse.io/andurilindustries/jobs/5287580007?gh_jid=5287580007) | Seattle, Washington, United States | 2026-11-07 |
 | Anduril | [Curriculum Developer](https://boards.greenhouse.io/andurilindustries/jobs/5287840007?gh_jid=5287840007) | Santa Ana, California, United States | 2026-11-07 |
@@ -124,8 +123,9 @@ Tip: before writing selectors, check whether the site embeds Greenhouse/Workday 
 | Anduril | [Program Manager, Finance PMO](https://boards.greenhouse.io/andurilindustries/jobs/5286812007?gh_jid=5286812007) | Costa Mesa, California, United States | 2026-11-07 |
 | Anduril | [Program Manager, Maintenance](https://boards.greenhouse.io/andurilindustries/jobs/5287995007?gh_jid=5287995007) | Ashville, Ohio, United States | 2026-11-07 |
 | Anduril | [Program Manager, Manufacturing Operations](https://boards.greenhouse.io/andurilindustries/jobs/5098728007?gh_jid=5098728007) | Ashville, Ohio, United States | 2026-11-07 |
+| Anduril | [Recruiting Coordinator (Contractor)](https://boards.greenhouse.io/andurilindustries/jobs/5287861007?gh_jid=5287861007) | Morrisville, North Carolina, United States | 2026-11-07 |
 
-…and 325 more — see the [latest digest](reports/reqcon-2026-11-07.md).
+…and 317 more — see the [latest digest](reports/reqcon-2026-11-07.md).
 
 <details>
 <summary>All tracked postings (3448)</summary>
