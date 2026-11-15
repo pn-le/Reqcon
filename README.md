@@ -86,7 +86,7 @@ Tip: before writing selectors, check whether the site embeds Greenhouse/Workday 
 ---
 
 <!-- REQCON:START -->
-**Last scan:** 2026-11-14 11:05 EST · 8 boards · 55 new · 54 removed
+**Last scan:** 2026-11-15 11:34 EST · 8 boards · 0 new · 2 removed
 
 ✅ Lila Sciences · ✅ BillionToOne · ✅ Anduril · ✅ Formlabs · ✅ STR · ✅ Draper · ✅ MERL (Mitsubishi Electric Research Labs) · ✅ Ubicept
 
@@ -125,10 +125,10 @@ Tip: before writing selectors, check whether the site embeds Greenhouse/Workday 
 | Anduril | [Director, Government Relations](https://boards.greenhouse.io/andurilindustries/jobs/5295276007?gh_jid=5295276007) | Washington, District of Columbia, United States | 2026-11-14 |
 | Anduril | [Electrical Engineer](https://boards.greenhouse.io/andurilindustries/jobs/5294957007?gh_jid=5294957007) | Waltham, Massachusetts, United States | 2026-11-14 |
 
-…and 251 more — see the [latest digest](reports/reqcon-2026-11-14.md).
+…and 251 more — see the [latest digest](reports/reqcon-2026-11-15.md).
 
 <details>
-<summary>All tracked postings (3468)</summary>
+<summary>All tracked postings (3466)</summary>
 
 **Lila Sciences** (122)
 - 🎓 [Co-op, Agentic and Generative Protein Design](https://job-boards.greenhouse.io/lilasciences/jobs/4462613009) — Cambridge, MA USA; San Francisco, CA USA
@@ -254,7 +254,7 @@ Tip: before writing selectors, check whether the site embeds Greenhouse/Workday 
 - [Technical Program Manager, AISF](https://job-boards.greenhouse.io/lilasciences/jobs/4289723009) — Cambridge, MA USA
 - [Technical Recruiter, AI Research](https://job-boards.greenhouse.io/lilasciences/jobs/4423474009) — Cambridge, MA USA; San Francisco, CA USA
 
-**BillionToOne** (85)
+**BillionToOne** (84)
 - 🎓 [Research Associate Intern](https://job-boards.greenhouse.io/billiontoone/jobs/4747865005) — Menlo Park, CA
 - [Account Executive](https://job-boards.greenhouse.io/billiontoone/jobs/4679905005) — Harrisburg, PA
 - [Account Executive ](https://job-boards.greenhouse.io/billiontoone/jobs/4749922005) — Buffalo, NY
@@ -310,7 +310,6 @@ Tip: before writing selectors, check whether the site embeds Greenhouse/Workday 
 - [Prenatal Account Executive](https://job-boards.greenhouse.io/billiontoone/jobs/4743052005) — Camden, NJ
 - [Prenatal Account Executive](https://job-boards.greenhouse.io/billiontoone/jobs/4747895005) — Colorado Springs, CO
 - [Prenatal Account Executive](https://job-boards.greenhouse.io/billiontoone/jobs/4747896005) — Columbus, GA
-- [Prenatal Account Executive](https://job-boards.greenhouse.io/billiontoone/jobs/4747897005) — New Haven, CT
 - [Prenatal Account Executive](https://job-boards.greenhouse.io/billiontoone/jobs/4747898005) — Idaho Falls, ID
 - [Prenatal Account Executive](https://job-boards.greenhouse.io/billiontoone/jobs/4747899005) — Albuquerque, NM
 - [Prenatal Account Executive](https://job-boards.greenhouse.io/billiontoone/jobs/4747901005) — Omaha, NE
@@ -341,7 +340,7 @@ Tip: before writing selectors, check whether the site embeds Greenhouse/Workday 
 - [Strategic Account Manager](https://job-boards.greenhouse.io/billiontoone/jobs/4747912005) — Remote
 - [Vice President of Sales, Oncology](https://job-boards.greenhouse.io/billiontoone/jobs/4753269005) — United States
 
-**Anduril** (2599)
+**Anduril** (2598)
 - 🎓 [2027 Brand Marketing Intern](https://boards.greenhouse.io/andurilindustries/jobs/5261731007?gh_jid=5261731007) — Costa Mesa, California, United States
 - 🎓 [2027 Business Operations Engineer Intern](https://boards.greenhouse.io/andurilindustries/jobs/5271672007?gh_jid=5271672007) — Ashville, Ohio, United States; Costa Mesa, California, United States
 - 🎓 [2027 Business Operations Intern - Connected Warfare](https://boards.greenhouse.io/andurilindustries/jobs/5271826007?gh_jid=5271826007) — Costa Mesa, California, United States; Seattle, Washington, United States
@@ -535,8 +534,9 @@ Tip: before writing selectors, check whether the site embeds Greenhouse/Workday 
 - [Chief Engineer](https://boards.greenhouse.io/andurilindustries/jobs/5255071007?gh_jid=5255071007) — Costa Mesa, California, United States
 - [Chief Engineer - Tactical Effects](https://boards.greenhouse.io/andurilindustries/jobs/5254633007?gh_jid=5254633007) — Costa Mesa, California, United States
 - [Chief Engineer, Advanced Effects (Hypersonics) ](https://boards.greenhouse.io/andurilindustries/jobs/5252457007?gh_jid=5252457007) — Costa Mesa, California, United States
+- [Chief Engineer, Advanced Effects (Missiles) ](https://boards.greenhouse.io/andurilindustries/jobs/5226623007?gh_jid=5226623007) — Costa Mesa, California, United States
 
-_…truncated at 400 rows (3468 total)._
+_…truncated at 400 rows (3466 total)._
 
 </details>
 <!-- REQCON:END -->
