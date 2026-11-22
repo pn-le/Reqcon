@@ -86,7 +86,7 @@ Tip: before writing selectors, check whether the site embeds Greenhouse/Workday 
 ---
 
 <!-- REQCON:START -->
-**Last scan:** 2026-11-21 11:56 EST · 8 boards · 39 new · 41 removed
+**Last scan:** 2026-11-22 12:23 EST · 8 boards · 1 new · 0 removed
 
 ✅ Lila Sciences · ✅ BillionToOne · ✅ Anduril · ✅ Formlabs · ✅ STR · ⚠️ Draper · ✅ MERL (Mitsubishi Electric Research Labs) · ✅ Ubicept
 
@@ -115,6 +115,7 @@ Tip: before writing selectors, check whether the site embeds Greenhouse/Workday 
 | 🎓 Formlabs | [Go-to-Market MBA Intern (Summer 2027)](https://careers.formlabs.com/job/8385574/apply/?gh_jid=8385574) | Somerville, MA | 2026-11-17 |
 | 🎓 Anduril | [2027 Industrial Equipment Maintenance Intern](https://boards.greenhouse.io/andurilindustries/jobs/5289632007?gh_jid=5289632007) | Ashville, Ohio, United States | 2026-11-16 |
 | 🎓 Anduril | [2027 Product Marketing Intern](https://boards.greenhouse.io/andurilindustries/jobs/5261735007?gh_jid=5261735007) | Costa Mesa, California, United States | 2026-11-16 |
+| Anduril | [Staff/Lead, Business Development (EMEA)](https://boards.greenhouse.io/andurilindustries/jobs/5306155007?gh_jid=5306155007) | London, England, United Kingdom | 2026-11-22 |
 | Anduril | [ Senior Recruiter, Business Development](https://boards.greenhouse.io/andurilindustries/jobs/5304339007?gh_jid=5304339007) | Washington, District of Columbia, United States | 2026-11-21 |
 | Anduril | [Contracts Manager](https://boards.greenhouse.io/andurilindustries/jobs/5185207007?gh_jid=5185207007) | Washington, District of Columbia, United States | 2026-11-21 |
 | Anduril | [Division Operations, AFS ](https://boards.greenhouse.io/andurilindustries/jobs/5305163007?gh_jid=5305163007) | Costa Mesa, California, United States; Washington, District of Columbia, United States | 2026-11-21 |
@@ -123,12 +124,11 @@ Tip: before writing selectors, check whether the site embeds Greenhouse/Workday 
 | Anduril | [Forward Deployed Software Engineer, Connected Warfare (Active Clearance)](https://boards.greenhouse.io/andurilindustries/jobs/5304081007?gh_jid=5304081007) | Washington, District of Columbia, United States | 2026-11-21 |
 | Anduril | [Lead Analyst, Pricing Operations](https://boards.greenhouse.io/andurilindustries/jobs/5304393007?gh_jid=5304393007) | Washington, District of Columbia, United States | 2026-11-21 |
 | Anduril | [Legal Operations Associate](https://boards.greenhouse.io/andurilindustries/jobs/5302473007?gh_jid=5302473007) | Costa Mesa, California, United States | 2026-11-21 |
-| Anduril | [Legal Operations Associate](https://boards.greenhouse.io/andurilindustries/jobs/5304082007?gh_jid=5304082007) | Washington, District of Columbia, United States | 2026-11-21 |
 
-…and 290 more — see the [latest digest](reports/reqcon-2026-11-21.md).
+…and 291 more — see the [latest digest](reports/reqcon-2026-11-22.md).
 
 <details>
-<summary>All tracked postings (3531)</summary>
+<summary>All tracked postings (3532)</summary>
 
 **Lila Sciences** (116)
 - 🎓 [Co-op, Agentic and Generative Protein Design](https://job-boards.greenhouse.io/lilasciences/jobs/4462613009) — Cambridge, MA USA; San Francisco, CA USA
@@ -328,7 +328,7 @@ Tip: before writing selectors, check whether the site embeds Greenhouse/Workday 
 - [Strategic Account Manager](https://job-boards.greenhouse.io/billiontoone/jobs/4747912005) — Remote
 - [Vice President of Sales, Oncology](https://job-boards.greenhouse.io/billiontoone/jobs/4753269005) — United States
 
-**Anduril** (2632)
+**Anduril** (2633)
 - 🎓 [2027 Brand Marketing Intern](https://boards.greenhouse.io/andurilindustries/jobs/5261731007?gh_jid=5261731007) — Costa Mesa, California, United States
 - 🎓 [2027 Business Operations Engineer Intern](https://boards.greenhouse.io/andurilindustries/jobs/5271672007?gh_jid=5271672007) — Ashville, Ohio, United States; Costa Mesa, California, United States
 - 🎓 [2027 Business Operations Intern - Connected Warfare](https://boards.greenhouse.io/andurilindustries/jobs/5271826007?gh_jid=5271826007) — Costa Mesa, California, United States; Seattle, Washington, United States
@@ -536,7 +536,7 @@ Tip: before writing selectors, check whether the site embeds Greenhouse/Workday 
 - [Chief Engineer, Dive-LD](https://boards.greenhouse.io/andurilindustries/jobs/5251191007?gh_jid=5251191007) — Quincy, Massachusetts, United States
 - [Chief Engineer, FQ-44 Fury](https://boards.greenhouse.io/andurilindustries/jobs/5081020007?gh_jid=5081020007) — Costa Mesa, California, United States
 
-_…truncated at 400 rows (3531 total)._
+_…truncated at 400 rows (3532 total)._
 
 </details>
 <!-- REQCON:END -->
