@@ -86,14 +86,15 @@ Tip: before writing selectors, check whether the site embeds Greenhouse/Workday 
 ---
 
 <!-- REQCON:START -->
-**Last scan:** 2026-11-23 16:39 EST · 8 boards · 23 new · 48 removed
+**Last scan:** 2026-11-24 15:19 EST · 8 boards · 6 new · 7 removed
 
-✅ Lila Sciences · ✅ BillionToOne · ✅ Anduril · ✅ Formlabs · ✅ STR · ⚠️ Draper · ✅ MERL (Mitsubishi Electric Research Labs) · ✅ Ubicept
+✅ Lila Sciences · ✅ BillionToOne · ⚠️ Anduril · ✅ Formlabs · ✅ STR · ⚠️ Draper · ✅ MERL (Mitsubishi Electric Research Labs) · ✅ Ubicept
 
 ### New this week
 
 | Company | Role | Location | First seen |
 |---|---|---|---|
+| 🎓 Formlabs | [Campus Recruiting Intern (Winter/Spring 2027)](https://careers.formlabs.com/job/8413030/apply/?gh_jid=8413030) | Somerville, MA | 2026-11-24 |
 | 🎓 Anduril | [Winter 2027 Test & Evaluation Engineer Co-op](https://boards.greenhouse.io/andurilindustries/jobs/5236583007?gh_jid=5236583007) | Costa Mesa, California, United States | 2026-11-23 |
 | 🎓 Formlabs | [2027 (Summer) API & Automation Intern](https://careers.formlabs.com/job/8400855/apply/?gh_jid=8400855) | Somerville, MA | 2026-11-20 |
 | 🎓 Formlabs | [2027 (Summer) Marketing Events Logistics Intern](https://careers.formlabs.com/job/8400561/apply/?gh_jid=8400561) | Somerville, MA | 2026-11-20 |
@@ -111,9 +112,11 @@ Tip: before writing selectors, check whether the site embeds Greenhouse/Workday 
 | 🎓 Anduril | [2027 Business Systems Engineer Intern](https://boards.greenhouse.io/andurilindustries/jobs/5300647007?gh_jid=5300647007) | Costa Mesa, California, United States | 2026-11-18 |
 | 🎓 Anduril | [2027 Machine Learning Engineer Intern](https://boards.greenhouse.io/andurilindustries/jobs/5274037007?gh_jid=5274037007) | Santa Ana, California, United States | 2026-11-18 |
 | 🎓 Anduril | [2027 Product Data Quality Co-op](https://boards.greenhouse.io/andurilindustries/jobs/5273039007?gh_jid=5273039007) | Santa Ana, California, United States | 2026-11-18 |
-| 🎓 Anduril | [2027 Deployment Operations Intern](https://boards.greenhouse.io/andurilindustries/jobs/5296825007?gh_jid=5296825007) | Quincy, Massachusetts, United States | 2026-11-17 |
-| 🎓 Anduril | [2027 Mission Operations Engineer Intern](https://boards.greenhouse.io/andurilindustries/jobs/5297134007?gh_jid=5297134007) | Honolulu, Hawaii, United States; Washington, District of Columbia, United States | 2026-11-17 |
-| 🎓 Formlabs | [Go-to-Market MBA Intern (Summer 2027)](https://careers.formlabs.com/job/8385574/apply/?gh_jid=8385574) | Somerville, MA | 2026-11-17 |
+| BillionToOne | [Clinical Genomics Scientist, Prenatal (Part-Time Contractor)](https://job-boards.greenhouse.io/billiontoone/jobs/4758147005) | Remote | 2026-11-24 |
+| BillionToOne | [Oncology Medical Science Liaison](https://job-boards.greenhouse.io/billiontoone/jobs/4758136005) | Southern California | 2026-11-24 |
+| Formlabs | [Head of Customer Service](https://careers.formlabs.com/job/8413511/apply/?gh_jid=8413511) | Budapest, Hungary | 2026-11-24 |
+| Formlabs | [Sales Recruiter](https://careers.formlabs.com/job/8414213/apply/?gh_jid=8414213) | Berlin, Germany | 2026-11-24 |
+| Formlabs | [Senior Recruiter ](https://careers.formlabs.com/job/8414304/apply/?gh_jid=8414304) | Budapest, Hungary | 2026-11-24 |
 | Anduril | [Aircraft Technician, Omen](https://boards.greenhouse.io/andurilindustries/jobs/5302803007?gh_jid=5302803007) | Costa Mesa, California, United States | 2026-11-23 |
 | Anduril | [Chief Engineer, Launcher Systems](https://boards.greenhouse.io/andurilindustries/jobs/5307006007?gh_jid=5307006007) | Costa Mesa, California, United States | 2026-11-23 |
 | Anduril | [Director of Engineering, Modular Payload Systems](https://boards.greenhouse.io/andurilindustries/jobs/5307009007?gh_jid=5307009007) | Costa Mesa, California, United States | 2026-11-23 |
@@ -121,14 +124,11 @@ Tip: before writing selectors, check whether the site embeds Greenhouse/Workday 
 | Anduril | [Hardware Reliability Engineer, Battlespace Awareness](https://boards.greenhouse.io/andurilindustries/jobs/5307295007?gh_jid=5307295007) | Fort Collins, Colorado, United States | 2026-11-23 |
 | Anduril | [Integration and Test Engineer (Software)](https://boards.greenhouse.io/andurilindustries/jobs/5059054007?gh_jid=5059054007) | Sydney, New South Wales, Australia | 2026-11-23 |
 | Anduril | [Lead Materials Associate - 2nd Shift](https://boards.greenhouse.io/andurilindustries/jobs/5298954007?gh_jid=5298954007) | Atlanta, Georgia, United States | 2026-11-23 |
-| Anduril | [Maintenance Technician](https://boards.greenhouse.io/andurilindustries/jobs/5291687007?gh_jid=5291687007) | McHenry, Mississippi, United States | 2026-11-23 |
-| Anduril | [Manufacturing Optimization Specialist](https://boards.greenhouse.io/andurilindustries/jobs/5302864007?gh_jid=5302864007) | Ashville, Ohio, United States | 2026-11-23 |
-| Anduril | [Manufacturing Test and Quality Technician](https://boards.greenhouse.io/andurilindustries/jobs/5261265007?gh_jid=5261265007) | Dublin, Dublin, Ireland | 2026-11-23 |
 
-…and 276 more — see the [latest digest](reports/reqcon-2026-11-23.md).
+…and 239 more — see the [latest digest](reports/reqcon-2026-11-24.md).
 
 <details>
-<summary>All tracked postings (3507)</summary>
+<summary>All tracked postings (3506)</summary>
 
 **Lila Sciences** (113)
 - 🎓 [Co-op, Agentic and Generative Protein Design](https://job-boards.greenhouse.io/lilasciences/jobs/4462613009) — Cambridge, MA USA; San Francisco, CA USA
@@ -245,7 +245,7 @@ Tip: before writing selectors, check whether the site embeds Greenhouse/Workday 
 - [Technical Program Manager, AI Data](https://job-boards.greenhouse.io/lilasciences/jobs/4259557009) — Cambridge, MA USA; San Francisco, CA USA
 - [Technical Recruiter, AI Research](https://job-boards.greenhouse.io/lilasciences/jobs/4423474009) — Cambridge, MA USA; San Francisco, CA USA
 
-**BillionToOne** (78)
+**BillionToOne** (79)
 - 🎓 [Research Associate Intern](https://job-boards.greenhouse.io/billiontoone/jobs/4747865005) — Menlo Park, CA
 - [Account Support Representative](https://job-boards.greenhouse.io/billiontoone/jobs/4731424005) — Maryland, Washington, D.C., Eastern Virginia
 - [Account Support Representative](https://job-boards.greenhouse.io/billiontoone/jobs/4750072005) — Missouri
@@ -257,6 +257,7 @@ Tip: before writing selectors, check whether the site embeds Greenhouse/Workday 
 - [Client Services Associate I - Spanish, Prenatal (Temporary)](https://job-boards.greenhouse.io/billiontoone/jobs/4745213005) — Remote
 - [Client Services Associate I, Oncology](https://job-boards.greenhouse.io/billiontoone/jobs/4716882005) — Union City, CA
 - [Client Services Associate I, Oncology (East Coast)](https://job-boards.greenhouse.io/billiontoone/jobs/4751445005) — New York, NY
+- [Clinical Genomics Scientist, Prenatal (Part-Time Contractor)](https://job-boards.greenhouse.io/billiontoone/jobs/4758147005) — Remote
 - [Clinical Laboratory Associate, Prenatal and Oncology](https://job-boards.greenhouse.io/billiontoone/jobs/4743708005) — Menlo Park or Union City, CA
 - [Clinical Laboratory Scientist, Oncology (PM Shift) ](https://job-boards.greenhouse.io/billiontoone/jobs/4728398005) — Menlo Park, CA
 - [Clinical Laboratory Scientist, Prenatal ](https://job-boards.greenhouse.io/billiontoone/jobs/4755919005) — Union City, CA
@@ -264,7 +265,6 @@ Tip: before writing selectors, check whether the site embeds Greenhouse/Workday 
 - [Development Associate, Oncology](https://job-boards.greenhouse.io/billiontoone/jobs/4749186005) — Menlo Park, CA
 - [Director of IT](https://job-boards.greenhouse.io/billiontoone/jobs/4746677005) — Menlo Park, CA or Union City, CA
 - [Director of Office of the CEO, Founder in Residence ](https://job-boards.greenhouse.io/billiontoone/jobs/4707633005) — Menlo Park, CA
-- [Environmental Health and Safety Specialist](https://job-boards.greenhouse.io/billiontoone/jobs/4723723005) — Union City, CA and Menlo Park, CA
 - [General Supervisor, Prenatal](https://job-boards.greenhouse.io/billiontoone/jobs/4755918005) — Union City, CA
 - [LIMS Associate, Oncology](https://job-boards.greenhouse.io/billiontoone/jobs/4753550005) — Menlo Park, CA
 - [Medical Science Liaison (MSL), Prenatal](https://job-boards.greenhouse.io/billiontoone/jobs/4743648005) — Illinois, Minnesota, Missouri, Kansas, Florida, North Carolina, South Carolina, Texas
@@ -286,6 +286,7 @@ Tip: before writing selectors, check whether the site embeds Greenhouse/Workday 
 - [Oncology Account Executive](https://job-boards.greenhouse.io/billiontoone/jobs/4743194005) — Knoxville, TN
 - [Oncology Account Executive](https://job-boards.greenhouse.io/billiontoone/jobs/4751610005) — Albuquerque, NM
 - [Oncology Account Executive, El Paso](https://job-boards.greenhouse.io/billiontoone/jobs/4751628005) — El Paso, TX
+- [Oncology Medical Science Liaison](https://job-boards.greenhouse.io/billiontoone/jobs/4758136005) — Southern California
 - [Oncology Regional Sales Manager, Gulf Coast](https://job-boards.greenhouse.io/billiontoone/jobs/4748932005) — Alabama, Arkansas, Georgia, Kentucky, Tennessee
 - [Oncology Regional Sales Manager, Upper Midwest](https://job-boards.greenhouse.io/billiontoone/jobs/4667498005) — Minnesota, Wisconsin, North Dakota, South Dakota, Iowa, Nebraska, Missouri
 - [Prenatal Account Executive](https://job-boards.greenhouse.io/billiontoone/jobs/4679905005) — Harrisburg, PA
@@ -534,9 +535,8 @@ Tip: before writing selectors, check whether the site embeds Greenhouse/Workday 
 - [Chief Engineers, Advanced Aircraft Programs](https://boards.greenhouse.io/andurilindustries/jobs/5087403007?gh_jid=5087403007) — Costa Mesa, California, United States
 - [Chief Integration Engineer](https://boards.greenhouse.io/andurilindustries/jobs/5287645007?gh_jid=5287645007) — McHenry, Mississippi, United States
 - [Chief of Staff, Production](https://boards.greenhouse.io/andurilindustries/jobs/5251746007?gh_jid=5251746007) — Costa Mesa, California, United States
-- [Chief Software Engineer, Space Ground Systems ](https://boards.greenhouse.io/andurilindustries/jobs/5145121007?gh_jid=5145121007) — Colorado Springs, Colorado, United States; Costa Mesa, California, United States; Washington, District of Columbia, United States
 
-_…truncated at 400 rows (3507 total)._
+_…truncated at 400 rows (3506 total)._
 
 </details>
 <!-- REQCON:END -->
