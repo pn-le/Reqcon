@@ -86,7 +86,7 @@ Tip: before writing selectors, check whether the site embeds Greenhouse/Workday 
 ---
 
 <!-- REQCON:START -->
-**Last scan:** 2026-11-26 14:15 EST · 8 boards · 20 new · 22 removed
+**Last scan:** 2026-11-27 14:09 EST · 8 boards · 3 new · 1 removed
 
 ✅ Lila Sciences · ✅ BillionToOne · ✅ Anduril · ✅ Formlabs · ✅ STR · ⚠️ Draper · ✅ MERL (Mitsubishi Electric Research Labs) · ✅ Ubicept
 
@@ -101,10 +101,9 @@ Tip: before writing selectors, check whether the site embeds Greenhouse/Workday 
 | 🎓 Formlabs | [Software Engineer Intern (Full stack)](https://careers.formlabs.com/job/8416639/apply/?gh_jid=8416639) | Budapest, Hungary | 2026-11-25 |
 | 🎓 Formlabs | [Campus Recruiting Intern (Winter/Spring 2027)](https://careers.formlabs.com/job/8413030/apply/?gh_jid=8413030) | Somerville, MA | 2026-11-24 |
 | 🎓 Anduril | [Winter 2027 Test & Evaluation Engineer Co-op](https://boards.greenhouse.io/andurilindustries/jobs/5236583007?gh_jid=5236583007) | Costa Mesa, California, United States | 2026-11-23 |
-| 🎓 Formlabs | [2027 (Summer) API & Automation Intern](https://careers.formlabs.com/job/8400855/apply/?gh_jid=8400855) | Somerville, MA | 2026-11-20 |
-| 🎓 Formlabs | [2027 (Summer) Marketing Events Logistics Intern](https://careers.formlabs.com/job/8400561/apply/?gh_jid=8400561) | Somerville, MA | 2026-11-20 |
-| 🎓 MERL (Mitsubishi Electric Research Labs) | [CV0361: Internship - Training Efficient Vision + Language Reasoning Models](https://www.merl.com/employment/internship-openings#CV0361) | — | 2026-11-20 |
-| 🎓 MERL (Mitsubishi Electric Research Labs) | [OR0362: Internship - Robot Learning](https://www.merl.com/employment/internship-openings#OR0362) | — | 2026-11-20 |
+| Anduril | [Staff Software Engineer](https://boards.greenhouse.io/andurilindustries/jobs/5310639007?gh_jid=5310639007) | Sydney, New South Wales, Australia | 2026-11-27 |
+| Formlabs | [Digital Community & Growth Specialist](https://careers.formlabs.com/job/8420448/apply/?gh_jid=8420448) | Budapest, Hungary | 2026-11-27 |
+| Formlabs | [Technical Community Manager](https://careers.formlabs.com/job/8420453/apply/?gh_jid=8420453) | Budapest, Hungary | 2026-11-27 |
 | Anduril | [Chief Engineer, Core Technology Products](https://boards.greenhouse.io/andurilindustries/jobs/5309634007?gh_jid=5309634007) | Costa Mesa, California, United States | 2026-11-26 |
 | Anduril | [Mechanical Thermal Analyst](https://boards.greenhouse.io/andurilindustries/jobs/5298599007?gh_jid=5298599007) | Reston, Virginia, United States | 2026-11-26 |
 | Anduril | [Mission Operations Engineer, Connected Warfare](https://boards.greenhouse.io/andurilindustries/jobs/5309873007?gh_jid=5309873007) | Costa Mesa, California, United States | 2026-11-26 |
@@ -112,7 +111,7 @@ Tip: before writing selectors, check whether the site embeds Greenhouse/Workday 
 | Anduril | [Production Coordinator Dive-XL](https://boards.greenhouse.io/andurilindustries/jobs/5309669007?gh_jid=5309669007) | Quonset, Rhode Island, United States | 2026-11-26 |
 | Anduril | [Project Manager, G3](https://boards.greenhouse.io/andurilindustries/jobs/4974522007?gh_jid=4974522007) | Costa Mesa, California, United States | 2026-11-26 |
 | Anduril | [Senior Hardware Reliability Engineer, Battlespace Awareness](https://boards.greenhouse.io/andurilindustries/jobs/5309736007?gh_jid=5309736007) | Fort Collins, Colorado, United States | 2026-11-26 |
-| Anduril | [Senior Manager Electrical System Test Engineer, Air Dominance and Strike](https://boards.greenhouse.io/andurilindustries/jobs/5267744007?gh_jid=5267744007) | Costa Mesa, California, United States | 2026-11-26 |
+| Anduril | [Senior Manager EMC Electrical System Test Engineer, Air Dominance and Strike](https://boards.greenhouse.io/andurilindustries/jobs/5267744007?gh_jid=5267744007) | Costa Mesa, California, United States | 2026-11-26 |
 | Anduril | [Senior Manager, EMC Test Engineering, Air Dominance and Strike](https://boards.greenhouse.io/andurilindustries/jobs/5155872007?gh_jid=5155872007) | Costa Mesa, California, United States | 2026-11-26 |
 | Anduril | [Senior Optical Engineer, Design & Architecture](https://boards.greenhouse.io/andurilindustries/jobs/5309773007?gh_jid=5309773007) | Waltham, Massachusetts, United States | 2026-11-26 |
 | Anduril | [Senior Product Support Engineer](https://boards.greenhouse.io/andurilindustries/jobs/5309824007?gh_jid=5309824007) | Perth, Western Australia, Australia; Sydney, New South Wales, Australia | 2026-11-26 |
@@ -124,11 +123,12 @@ Tip: before writing selectors, check whether the site embeds Greenhouse/Workday 
 | Anduril | [Technical Program Manager](https://boards.greenhouse.io/andurilindustries/jobs/5165514007?gh_jid=5165514007) | Costa Mesa, California, United States | 2026-11-26 |
 | Anduril | [ Maintenance Specialist, Intelligence Systems](https://boards.greenhouse.io/andurilindustries/jobs/5307075007?gh_jid=5307075007) | Santa Ana, California, United States | 2026-11-25 |
 | Anduril | [Aircraft Technician UAE, Omen](https://boards.greenhouse.io/andurilindustries/jobs/5307916007?gh_jid=5307916007) | Abu Dhabi, United Arab Emirates | 2026-11-25 |
+| Anduril | [Benefits Specialist](https://boards.greenhouse.io/andurilindustries/jobs/5307188007?gh_jid=5307188007) | Costa Mesa, California, United States | 2026-11-25 |
 
-…and 200 more — see the [latest digest](reports/reqcon-2026-11-26.md).
+…and 140 more — see the [latest digest](reports/reqcon-2026-11-27.md).
 
 <details>
-<summary>All tracked postings (3494)</summary>
+<summary>All tracked postings (3496)</summary>
 
 **Lila Sciences** (114)
 - 🎓 [Co-op, Agentic and Generative Protein Design](https://job-boards.greenhouse.io/lilasciences/jobs/4462613009) — Cambridge, MA USA; San Francisco, CA USA
@@ -536,7 +536,7 @@ Tip: before writing selectors, check whether the site embeds Greenhouse/Workday 
 - [Circuit Designer, Space Special Programs](https://boards.greenhouse.io/andurilindustries/jobs/5169876007?gh_jid=5169876007) — Chantilly, Virginia, United States
 - [Classified Cloud & Platform Engineer](https://boards.greenhouse.io/andurilindustries/jobs/5269017007?gh_jid=5269017007) — Costa Mesa, California, United States
 
-_…truncated at 400 rows (3494 total)._
+_…truncated at 400 rows (3496 total)._
 
 </details>
 <!-- REQCON:END -->
